@@ -1,0 +1,827 @@
+Report for Institution Code MCZ, Resource mcz_subset_for_vertnet
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1126
+Number of records retrieved in searches: 13628
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 32
+	Country: Canada ; Times: 13
+	Country: Colombia ; Times: 5
+	Country: France ; Times: 2
+	Country: Indonesia ; Times: 3
+	Country: Malaysia ; Times: 1
+	Country: Mexico ; Times: 50
+	Country: Panama ; Times: 2
+	Country: Senegal ; Times: 2
+	Country: Slovakia ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 992
+	Country: Unknown ; Times: 9
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 11
+	Date: 2014-06-02 ; Times: 46
+	Date: 2014-06-03 ; Times: 13
+	Date: 2014-06-04 ; Times: 35
+	Date: 2014-06-05 ; Times: 27
+	Date: 2014-06-06 ; Times: 53
+	Date: 2014-06-07 ; Times: 43
+	Date: 2014-06-08 ; Times: 63
+	Date: 2014-06-09 ; Times: 116
+	Date: 2014-06-10 ; Times: 32
+	Date: 2014-06-11 ; Times: 65
+	Date: 2014-06-12 ; Times: 22
+	Date: 2014-06-13 ; Times: 13
+	Date: 2014-06-14 ; Times: 17
+	Date: 2014-06-15 ; Times: 19
+	Date: 2014-06-16 ; Times: 66
+	Date: 2014-06-17 ; Times: 11
+	Date: 2014-06-18 ; Times: 63
+	Date: 2014-06-19 ; Times: 55
+	Date: 2014-06-20 ; Times: 89
+	Date: 2014-06-21 ; Times: 39
+	Date: 2014-06-22 ; Times: 17
+	Date: 2014-06-23 ; Times: 91
+	Date: 2014-06-24 ; Times: 6
+	Date: 2014-06-25 ; Times: 10
+	Date: 2014-06-26 ; Times: 6
+	Date: 2014-06-27 ; Times: 50
+	Date: 2014-06-28 ; Times: 5
+	Date: 2014-06-29 ; Times: 20
+	Date: 2014-06-30 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: ""canis simensis" type:specimen (skull)" ; Times: 1
+	Query: "specificepithet:lentiginosum genus:Rhinobothryum" ; Times: 15
+	Query: "country:"Panama" specificepithet:fuliginosa genus:Amphisbaena" ; Times: 1
+	Query: "Taxidea San Luis Potosi" ; Times: 3
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "specificepithet:cinerea genus:Piezorhina" ; Times: 1
+	Query: "stateprovince:"Santander" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "Sphaerodactylus levinsi" ; Times: 4
+	Query: "country:"Panama" specificepithet:fulviceps genus:Rhadinaea" ; Times: 1
+	Query: "specificepithet:hannsteini genus:Rhadinaea" ; Times: 1
+	Query: "stateprovince:"Cotopaxi" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "Thylacinidae type:specimen" ; Times: 9
+	Query: "country:"Panama" specificepithet:aeneus genus:Oxybelis" ; Times: 2
+	Query: "specificepithet:serperaster genus:Rhadinaea" ; Times: 1
+	Query: "country:"Colombia" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "country:"Panama" specificepithet:fulviceps genus:Rhadinaea class:Reptilia" ; Times: 1
+	Query: "Canis latrans type:specimen institutioncode:MCZ" ; Times: 1
+	Query: "genus:Ungaliophis" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 20
+	Query: "country:"Peru" genus:Tantilla" ; Times: 2
+	Query: "country:"Costa Rica" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "stateprovince:"Newfoundland" genus:Lynx" ; Times: 1
+	Query: "country:"Honduras" genus:Tantilla" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" class:Reptilia" ; Times: 2
+	Query: "elaphe stateprovince:"new york" country:"United states"" ; Times: 1
+	Query: "coleonyx elegans" ; Times: 1
+	Query: "turtle country:"Canada"" ; Times: 1
+	Query: "pristidactylus achalensis" ; Times: 3
+	Query: "country:"Venezuela" specificepithet:mentovarius genus:Masticophis" ; Times: 1
+	Query: "country:"Ecuador" genus:Lachesis" ; Times: 2
+	Query: "Cryptotis mexicana stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" class:Mammalia" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 2
+	Query: "daubentonia madagascariensis" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:angulatus genus:Helicops" ; Times: 1
+	Query: "Canis lupus media:1" ; Times: 1
+	Query: "country:"Panama" specificepithet:capito genus:Anolis" ; Times: 1
+	Query: "Thylacinus" ; Times: 1
+	Query: "country:"Panama" specificepithet:mimus genus:Erythrolamprus" ; Times: 3
+	Query: "eremophila alpestris utah county" ; Times: 1
+	Query: "stateprovince:"Pasco" country:"Peru" class:Reptilia" ; Times: 1
+	Query: "Cryptotis parva pueblensis" ; Times: 1
+	Query: "country:"Brazil" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "specificepithet:dissoleucus genus:Micrurus" ; Times: 2
+	Query: "Ochotona princeps type:specimen institutioncode:MCZ" ; Times: 1
+	Query: "stateprovince:"Colon" country:"Panama" class:Reptilia" ; Times: 1
+	Query: "thamnophis sirtalis distance(location,geopoint(35.137879119634185,-119.20166015625))<100000" ; Times: 1
+	Query: "stateprovince:"Ucayali" country:"Peru" class:Reptilia" ; Times: 1
+	Query: "country:"Honduras" specificepithet:schistosa genus:Tantilla" ; Times: 1
+	Query: "callithrix jacchus" ; Times: 1
+	Query: "country:"Peru" genus:Clelia" ; Times: 1
+	Query: "stateprovince:"Ucayali" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "stateprovince:"Tachira" country:"Venezuela" class:Amphibia" ; Times: 1
+	Query: "stateprovince:"Junin" country:"Peru" class:Reptilia" ; Times: 1
+	Query: "mustela stateprovince:"texas"" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "stateprovince:"Orellana" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "country:"Guatemala" specificepithet:hannsteini genus:Rhadinaea" ; Times: 1
+	Query: "country:"Belize" specificepithet:melanolomus genus:Mastigodryas" ; Times: 1
+	Query: "country:"Peru" genus:Erythrolamprus" ; Times: 1
+	Query: "stateprovince:"Piura" country:"Peru" class:Reptilia" ; Times: 2
+	Query: "Setophaga psm" ; Times: 2
+	Query: "country:"Colombia" specificepithet:mimus genus:Erythrolamprus" ; Times: 1
+	Query: "country:"Peru" genus:Liophis" ; Times: 1
+	Query: "vireo pallens" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:atrox genus:Bothrops" ; Times: 1
+	Query: "country:"Panama" specificepithet:pallidiceps genus:Bachia" ; Times: 1
+	Query: "country:"Panama" specificepithet:centralis genus:Cabassous" ; Times: 1
+	Query: "country:"Peru" genus:Philodryas" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Drymobius" ; Times: 1
+	Query: "country:"Peru" genus:Drymoluber" ; Times: 1
+	Query: "country:"Honduras" genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"Zulia" country:"Venezuela" class:Amphibia" ; Times: 2
+	Query: "sonora michoacanensis" ; Times: 1
+	Query: "Leptopelis karissimbensis" ; Times: 34
+	Query: "country:"Peru" specificepithet:rhombifer genus:Drymobius" ; Times: 2
+	Query: "specificepithet:gaigeae genus:Rhadinaea" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Erythrolamprus" ; Times: 1
+	Query: "country:"Ecuador" class:Reptilia institutioncode:MCZ" ; Times: 1
+	Query: "stateprovince:"Narino" country:"Colombia" class:Reptilia" ; Times: 3
+	Query: "Cyclemys" ; Times: 1
+	Query: "specificepithet:bipunctatus genus:Coniophanes" ; Times: 2
+	Query: "country:"Venezuela" specificepithet:albirostris genus:Liotyphlops" ; Times: 2
+	Query: "country:"Colombia" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Atractus" ; Times: 2
+	Query: "1958 Gopherus" ; Times: 2
+	Query: "stateprovince:"Bolivar" country:"Colombia" class:Reptilia institutioncode:MCZ" ; Times: 2
+	Query: "country:"Panama" specificepithet:cenchria genus:Epicrates" ; Times: 2
+	Query: "country:"Panama" genus:Tantilla" ; Times: 4
+	Query: "Rhinosciurus" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:annulata genus:Leptodeira" ; Times: 1
+	Query: "cynisca" ; Times: 2
+	Query: "country:"Panama" genus:Amastridium" ; Times: 3
+	Query: "genus:Lachesis" ; Times: 5
+	Query: "country:"Panama" specificepithet:sanctaemartae genus:Lepidoblepharis" ; Times: 1
+	Query: "country:"Panama" specificepithet:mexicana genus:Marmosa" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" specificepithet:ancoralis genus:Micrurus" ; Times: 2
+	Query: "country:"Peru" genus:Xenopholis" ; Times: 1
+	Query: "country:"Panama" specificepithet:barbouri genus:Trimetopon" ; Times: 1
+	Query: "country:"Cuba" specificepithet:variabilis genus:Tretanorhinus" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "stateprovince:"Merida" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "Euderma" ; Times: 1
+	Query: "Diploglossus monotropis" ; Times: 4
+	Query: "country:"Costa Rica" specificepithet:maculata genus:Ninia" ; Times: 1
+	Query: "country:"Panama" specificepithet:similis genus:Ctenosaura" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+	Query: "stateprovince:"Beni" country:"Bolivia" class:Reptilia institutioncode:MCZ" ; Times: 1
+	Query: "country:"Colombia" class:Reptilia institutioncode:MCZ" ; Times: 1
+	Query: "stateprovince:"Azuay" country:"Ecuador" class:Reptilia" ; Times: 3
+	Query: "stateprovince:"Cocle" country:"Panama" class:Reptilia" ; Times: 2
+	Query: "type:specimen genus:Pteronura" ; Times: 1
+	Query: "country:"Peru" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Trachyboa" ; Times: 2
+	Query: "country:"Peru" genus:Pseudoboa" ; Times: 1
+	Query: "Cryptotis parva stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:multifasciatus genus:Micrurus" ; Times: 1
+	Query: "country:"Costa Rica" genus:Amastridium" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:scurrulus genus:Chironius" ; Times: 1
+	Query: "country:"Peru" genus:Leimadophis" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" class:Reptilia institutioncode:MCZ" ; Times: 2
+	Query: "country:"Colombia" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 4
+	Query: "stateprovince:"Pastaza" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "country:"Panama" specificepithet:ruficeps genus:Tantilla" ; Times: 2
+	Query: "stateprovince:"Apure" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "country:"Brazil" genus:Leptodeira" ; Times: 2
+	Query: "ara cubensis" ; Times: 3
+	Query: "stateprovince:"Darien" country:"Panama" genus:Imantodes" ; Times: 1
+	Query: "Galictis vittata stateprovince:"Veracruz"" ; Times: 1
+	Query: "Lophotriccus tissue:1" ; Times: 4
+	Query: "country:"Venezuela" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "country:"Peru" genus:Chironius" ; Times: 1
+	Query: "genus:Rhinobothryum" ; Times: 7
+	Query: "country:"Ecuador" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Peromyscus maniculatus argentatus" ; Times: 1
+	Query: "Thryothorus pleurostictus" ; Times: 2
+	Query: "Hylonycteris underwoodi stateprovince:"Veracruz"" ; Times: 1
+	Query: "Myrmecobiidae type:specimen" ; Times: 3
+	Query: "country:"Colombia" genus:Pseustes" ; Times: 2
+	Query: "country:"Colombia" genus:Hemiphractus" ; Times: 1
+	Query: "country:"Panama" specificepithet:maculata genus:Ninia" ; Times: 3
+	Query: "genus:Hemiphractus" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "Calluella volzi" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "country:"Bolivia" class:Reptilia" ; Times: 2
+	Query: "genus:Carpococcyx" ; Times: 2
+	Query: "specificepithet:auratus genus:Anolis" ; Times: 2
+	Query: "specificepithet:variabilis genus:Tretanorhinus" ; Times: 7
+	Query: "Paradisaea apoda" ; Times: 2
+	Query: "country:"Ecuador" specificepithet:rhombifer genus:Drymobius" ; Times: 2
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "bombina" ; Times: 1
+	Query: "stateprovince:"Putumayo" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:pleei genus:Mastigodryas" ; Times: 2
+	Query: "country:"Colombia" genus:Lachesis" ; Times: 2
+	Query: "1834" ; Times: 1
+	Query: "Ensatina klauberi" ; Times: 2
+	Query: "country:"Ecuador" genus:Tantilla" ; Times: 5
+	Query: "stateprovince:"Choco" country:"Colombia" specificepithet:septentrionalis genus:Leptodeira" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "stateprovince:"Canar" country:"Ecuador" class:Reptilia" ; Times: 2
+	Query: "country:"Panama" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 3
+	Query: "country:"Colombia" specificepithet:melanocephala genus:Tantilla" ; Times: 2
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "(Hyaena brunnea)" ; Times: 1
+	Query: "stateprovince:"El Oro" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "Macaca mulatta type:specimen institutioncode:MCZ" ; Times: 1
+	Query: "country:"Peru" genus:Helicops" ; Times: 1
+	Query: "country:"Peru" genus:Atractus" ; Times: 1
+	Query: "Lynx rufus stateprovince:"Veracruz"" ; Times: 1
+	Query: "giraffa" ; Times: 2
+	Query: "stateprovince:"Oaxaca" country:"Mexico" genus:Tantilla" ; Times: 1
+	Query: "country:"Guyana" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla" ; Times: 1
+	Query: "stateprovince:"Lima" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "specificepithet:multifasciatus genus:Micrurus institutioncode:MCZ" ; Times: 1
+	Query: "country:"Peru" genus:Imantodes" ; Times: 1
+	Query: "Lepus californicus type:specimen institutioncode:MCZ" ; Times: 1
+	Query: "Citellus beecheyi institutioncode:MCZ" ; Times: 1
+	Query: "stateprovince:"San Martin" country:"Peru" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Huanuco" country:"Peru" class:Reptilia" ; Times: 1
+	Query: "country:"Ecuador" genus:Pseustes" ; Times: 1
+	Query: "specificepithet:mipartitus genus:Micrurus institutioncode:MCZ" ; Times: 1
+	Query: "microtus californicus country:"Mexico"" ; Times: 1
+	Query: "country:"Mexico" genus:Pseustes" ; Times: 1
+	Query: "Bolomys" ; Times: 1
+	Query: "country:"Peru" genus:Spilotes" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:schistosa genus:Tantilla" ; Times: 1
+	Query: "stateprovince:"Sucre" country:"Venezuela" specificepithet:guianensis genus:Phimophis" ; Times: 2
+	Query: "country:"Ecuador" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"Veraguas" country:"Panama" specificepithet:laniirostris genus:Euphonia" ; Times: 1
+	Query: "specificepithet:melanolomus genus:Mastigodryas" ; Times: 1
+	Query: "green frog" ; Times: 1
+	Query: "stateprovince:"Chimborazo" country:"Ecuador" class:Reptilia" ; Times: 3
+	Query: "stateprovince:"Norte de Santander" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "country:"Peru" genus:Tachymenis" ; Times: 1
+	Query: "Rhino" ; Times: 2
+	Query: "country:"Panama" specificepithet:fasciatum genus:Tigrisoma" ; Times: 1
+	Query: "stateprovince:"Arequipa" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "Rhampholeon" ; Times: 1
+	Query: "Oryzomys rostratus stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Nicaragua" class:Reptilia institutioncode:MCZ" ; Times: 1
+	Query: "stateprovince:"Ancash" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "type:specimen genus:procnias" ; Times: 1
+	Query: "country:"Colombia" specificepithet:albirostris genus:Liotyphlops" ; Times: 2
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" class:Reptilia" ; Times: 9
+	Query: "berylmys berdmorei" ; Times: 1
+	Query: "stateprovince:"Pichincha" country:"Ecuador" genus:Tantilla" ; Times: 3
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 3
+	Query: "genus:papio tissue:1" ; Times: 1
+	Query: "genus:Trimetopon" ; Times: 1
+	Query: "specificepithet:albirostris genus:Liotyphlops" ; Times: 6
+	Query: "country:"Peru" genus:Boa" ; Times: 1
+	Query: "centralis stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Panama" class:Reptilia institutioncode:MCZ" ; Times: 2
+	Query: "country:"Panama" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "Anoura geoffroyi stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Brazil" genus:Pseustes" ; Times: 1
+	Query: "country:"Panama" specificepithet:guianensis genus:Phimophis" ; Times: 5
+	Query: "country:"Costa Rica" genus:Chelydra" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:brevirostris genus:Taeniophallus" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis" ; Times: 2
+	Query: "Tapirus pinchaque" ; Times: 1
+	Query: "country:"Peru" genus:Leptophis" ; Times: 1
+	Query: "specificepithet:equatoriana genus:Clelia" ; Times: 1
+	Query: "colostethus chocoensis" ; Times: 5
+	Query: "stateprovince:"Guajira" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Arequipa" country:"Peru" class:Reptilia" ; Times: 1
+	Query: "country:"Mexico" specificepithet:melanolomus genus:Mastigodryas" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 2
+	Query: "loxocemus bicolor" ; Times: 1
+	Query: "specificepithet:percarinatum genus:Dendrophidion" ; Times: 1
+	Query: "country:"Honduras" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "country:"Panama" specificepithet:carbonaria genus:Geochelone" ; Times: 1
+	Query: ""canis simensis" type:specimen" ; Times: 1
+	Query: "stateprovince:"Bolivar" country:"Ecuador" class:Reptilia" ; Times: 2
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" class:Reptilia institutioncode:MCZ" ; Times: 7
+	Query: "country:"Panama" specificepithet:gaigei genus:Anolis" ; Times: 1
+	Query: "stateprovince:"Darien" country:"Panama" specificepithet:nigrocinctus genus:Micrurus" ; Times: 1
+	Query: "warsaw island" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Sibon" ; Times: 2
+	Query: "stateprovince:"Chinandega" country:"Nicaragua" class:Reptilia" ; Times: 1
+	Query: "country:"Brazil" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Lynx canadensis subsolanus" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 3
+	Query: "specificepithet:frenata genus:mabuya mappable:1" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "country:"Costa Rica" genus:Tantilla" ; Times: 2
+	Query: "country:"Panama" specificepithet:albirostris genus:Liotyphlops" ; Times: 3
+	Query: "stateprovince:"Canal Zone" country:"Panama" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "country:"Venezuela" genus:Tantilla" ; Times: 3
+	Query: "country:"Panama" specificepithet:schistosa genus:Tantilla" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:badius genus:Atractus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:ahaetulla genus:Leptophis" ; Times: 1
+	Query: "country:"Peru" genus:Drymobius" ; Times: 3
+	Query: "country:"Panama" specificepithet:leptura genus:Saccopteryx" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Leptodeira" ; Times: 1
+	Query: "country:"Panama" specificepithet:leucostomum genus:Kinosternon" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:bicolor genus:Dendrocygna" ; Times: 1
+	Query: "stateprovince:"huancavelica" country:"peru"" ; Times: 1
+	Query: "country:"Guatemala" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "pogoniulus bilineatus conciliator" ; Times: 6
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:microphthalmus genus:Bothrops" ; Times: 1
+	Query: "geomys pinetis" ; Times: 1
+	Query: "stateprovince:"Tolima" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Xenodon" ; Times: 1
+	Query: "type:specimen specificepithet:capensis genus:Aonyx" ; Times: 1
+	Query: "anthracothorax viridis" ; Times: 1
+	Query: "specificepithet:Bovallii genus:Rhinobothryum" ; Times: 1
+	Query: "country:"Surinam" genus:Pseustes" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:argenteus genus:Oxybelis" ; Times: 1
+	Query: "country:"Colombia" specificepithet:dissoleucus genus:Micrurus" ; Times: 5
+	Query: "stateprovince:"Vaupes" country:"Colombia" class:Amphibia" ; Times: 1
+	Query: "country:"Panama" specificepithet:septentrionalis genus:Leptodeira" ; Times: 1
+	Query: "country:"Peru" genus:Leptodeira" ; Times: 2
+	Query: "country:"Trinidad" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "stateprovince:"Vichada" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "country:"Trinidad and Tobago" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "stateprovince:"La Libertad" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "specificepithet:maurus genus:Epicrates" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" specificepithet:dumerilii genus:Micrurus" ; Times: 1
+	Query: "specificepithet:schistosa genus:Tantilla" ; Times: 3
+	Query: "pristidactylus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "country:"Panama" specificepithet:margaritiferus genus:Drymobius class:Reptilia" ; Times: 1
+	Query: "stateprovince:"oregon" specificepithet:arborea genus:spizella" ; Times: 1
+	Query: "charina umbratica" ; Times: 4
+	Query: "country:"Ecuador" specificepithet:lanatus genus:Caluromys" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:mimus genus:Erythrolamprus" ; Times: 1
+	Query: "stateprovince:"Caqueta" country:"Colombia" class:Amphibia" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:nebulata genus:Sibon" ; Times: 1
+	Query: "sapo" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 6
+	Query: "genus:elseya" ; Times: 2
+	Query: "stateprovince:"Esmeraldas" country:"Ecuador" class:Reptilia" ; Times: 2
+	Query: "stateprovince:"Tumbes" country:"Peru" class:Reptilia" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:cenchria genus:Epicrates" ; Times: 1
+	Query: "specificepithet:brevirostris genus:Rhadinaea" ; Times: 1
+	Query: "country:"Honduras" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "country:"Panama" specificepithet:basiliscus genus:Basiliscus" ; Times: 1
+	Query: "stateprovince:"Zamora Chinchipe" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:bucephala genus:Dipsas" ; Times: 1
+	Query: "country:"Brazil" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "Charina umbratica" ; Times: 1
+	Query: "country:"Vietnam" genus:Oligodon" ; Times: 1
+	Query: "goias" ; Times: 1
+	Query: "country:"Panama" genus:Stenorrhina" ; Times: 1
+	Query: "genus:strigops" ; Times: 2
+	Query: "country:"Peru" genus:Pseustes" ; Times: 2
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Lygophis" ; Times: 1
+	Query: "stateprovince:"Antioquia" country:"Colombia" class:Amphibia" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia institutioncode:MCZ" ; Times: 9
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:severus genus:Xenodon" ; Times: 1
+	Query: "country:"Panama" specificepithet:nebulata genus:Sibon" ; Times: 1
+	Query: "stateprovince:"Anzoategui" country:"Venezuela" specificepithet:guianensis genus:Phimophis" ; Times: 1
+	Query: "country:"Colombia" genus:Ctenosaura" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "specificepithet:hesperia genus:Rhadinaea" ; Times: 1
+	Query: "Aepypodius" ; Times: 1
+	Query: "country:"Peru" genus:Sibon" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:dichrous genus:Drymoluber" ; Times: 1
+	Query: "specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 3
+	Query: "country:"Peru" genus:Rhinobothryum" ; Times: 1
+	Query: "country:"Panama" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 2
+	Query: "lutreolina" ; Times: 2
+	Query: "stateprovince:"Choco" country:"Colombia" specificepithet:mimus genus:Erythrolamprus" ; Times: 1
+	Query: "genus:Dibamus mappable:1 order:Squamata" ; Times: 1
+	Query: "country:"Peru" genus:Corallus" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 14
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:spixii genus:Micrurus" ; Times: 1
+	Query: "country:"Belize" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "stateprovince:"narino" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "country:"Venezuela" class:Reptilia institutioncode:MCZ" ; Times: 1
+	Query: "country:"Panama" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:corais genus:Drymarchon" ; Times: 1
+	Query: "genus:Urotheca" ; Times: 2
+	Query: "country:"Panama" class:Amphibia institutioncode:MCZ" ; Times: 1
+	Query: "carettochelys insculpta" ; Times: 1
+	Query: "country:"Peru" genus:Dendrophidion" ; Times: 1
+	Query: "country:"Peru" genus:Hydrops" ; Times: 2
+	Query: "specificepithet:nebulata genus:Sibon" ; Times: 1
+	Query: "country:"Peru" genus:Thamnodynastes" ; Times: 1
+	Query: "country:"Panama" specificepithet:panamensis genus:Colostethus" ; Times: 1
+	Query: "Sylvilagus cunicularius stateprovince:"Veracruz"" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 4
+	Query: "country:"Panama" genus:Urotheca" ; Times: 3
+	Query: "tomistoma country:"Indonesia"" ; Times: 1
+	Query: "Newfoundland "Lynx canadensis"" ; Times: 1
+	Query: "crocodylus raninus country:"Indonesia"" ; Times: 1
+	Query: "country:"Panama" specificepithet:lineatus genus:Liophis" ; Times: 6
+	Query: "stateprovince:"Zulia" country:"Venezuela" class:Reptilia" ; Times: 5
+	Query: "stateprovince:"Los Rios" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "class:amphibia catalognumber:20000" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas" ; Times: 4
+	Query: "Sylvilagus audubonii type:specimen institutioncode:MCZ" ; Times: 1
+	Query: "stateprovince:"Atlantico" country:"Colombia" class:Reptilia" ; Times: 3
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 8
+	Query: "Cryptotis nelsoni stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:mimus genus:Erythrolamprus" ; Times: 5
+	Query: ""Cercosaura ocellata" mappable:1" ; Times: 1
+	Query: "stateprovince:"Hesse" country:"Germany" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Santa Cruz" country:"Bolivia" class:Reptilia institutioncode:MCZ" ; Times: 1
+	Query: "stateprovince:"Manabi" country:"Ecuador" class:Reptilia" ; Times: 3
+	Query: "specificepithet:rhombifer genus:Drymobius" ; Times: 6
+	Query: "Platysternon type:specimen media:1" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" specificepithet:nebulata genus:Sibon" ; Times: 1
+	Query: "jacana spinosa" ; Times: 2
+	Query: "genus:Tretanorhinus" ; Times: 3
+	Query: "Oreophasis" ; Times: 2
+	Query: "country:"Honduras" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "sumichrast stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Brazil" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "country:"Peru" genus:Bothrops" ; Times: 1
+	Query: "bombus" ; Times: 1
+	Query: "specificepithet:rubricata genus:Leptodeira" ; Times: 6
+	Query: "country:"Ecuador" genus:Chelydra" ; Times: 1
+	Query: "country:"Panama" specificepithet:monotropis genus:Diploglossus" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 3
+	Query: "stateprovince:"Narino" country:"Colombia" genus:Tantilla" ; Times: 2
+	Query: "specificepithet:bovallii genus:Rhinobothryum institutioncode:MCZ" ; Times: 1
+	Query: "country:"Panama" specificepithet:laniirostris genus:Euphonia" ; Times: 1
+	Query: "specificepithet:centralis genus:Centronycteris" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:triangularis genus:Hydrops" ; Times: 1
+	Query: "stateprovince:"Boyaca" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "Kommandorski Islands" ; Times: 1
+	Query: "country:"Bolivia" class:Reptilia institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:maculata genus:Ninia" ; Times: 3
+	Query: "stateprovince:"Cartago" country:"Costa Rica" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "Spermophilus beecheyi institutioncode:MCZ" ; Times: 1
+	Query: "eurycea lucifuga" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Leptophis" ; Times: 1
+	Query: "country:"Panama" specificepithet:didactylus genus:Cyclopes" ; Times: 1
+	Query: "country:"Panama" specificepithet:tridactyla genus:Myrmecophaga" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Tantilla" ; Times: 3
+	Query: "specificepithet:centralis genus:Cabassous" ; Times: 1
+	Query: "country:"Mexico" specificepithet:bipunctatus genus:Coniophanes" ; Times: 1
+	Query: "stateprovince:"Tungurahua" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:bilineatus genus:Bothrops" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Clelia" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:elaps genus:Atractus" ; Times: 1
+	Query: "genus:Atractus" ; Times: 1
+	Query: "country:"Panama" genus:Tretanorhinus" ; Times: 1
+	Query: "specificepithet:mipartitus genus:Micrurus" ; Times: 5
+	Query: "country:"Peru" genus:Coniophanes" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Daubentonia" ; Times: 5
+	Query: "country:"Panama" specificepithet:degenhardtii genus:Stenorrhina" ; Times: 2
+	Query: "stateprovince:"Cauca" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "Peromyscus californicus type:specimen institutioncode:MCZ" ; Times: 1
+	Query: "country:"Panama" specificepithet:crocodilus genus:Caiman" ; Times: 2
+	Query: "ambystoma mabeei" ; Times: 4
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Chironius" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 5
+	Query: ""Cercomacra nigricans" type:specimen" ; Times: 1
+	Query: "Egernia kingii" ; Times: 1
+	Query: "stateprovince:"Sucumbios" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Pasco" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "turtles" ; Times: 2
+	Query: "specificepithet:adusta genus:Monodelphis" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "stateprovince:"Cesar" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Prince edward island"" ; Times: 3
+	Query: "Mephitis macroura stateprovince:"Veracruz"" ; Times: 2
+	Query: "Oryzomys chapmani stateprovince:"Veracruz"" ; Times: 1
+	Query: "Reithrodontomys megalotis stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:bovallii genus:Rhinobothryum" ; Times: 10
+	Query: "country:"Venezuela" specificepithet:guianensis genus:Phimophis" ; Times: 5
+	Query: "country:"Panama" specificepithet:aurita genus:Lonchorhina" ; Times: 1
+	Query: "country:"Peru" class:Reptilia institutioncode:MCZ" ; Times: 1
+	Query: "stateprovince:"Yaracuy" country:"Venezuela" class:Amphibia" ; Times: 1
+	Query: "Python regius" ; Times: 3
+	Query: "stateprovince:"Choco" country:"Colombia" specificepithet:annulata genus:Leptodeira" ; Times: 2
+	Query: "country:"Peru" genus:Micrurus" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Stenorrhina" ; Times: 2
+	Query: "Pseudotriton stateprovince:"New York"" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:umbra genus:Thamnodynastes" ; Times: 1
+	Query: "crocodylus porosus country:"Indonesia"" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:melanocephala genus:Tantilla" ; Times: 1
+	Query: "country:"Tobago" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Lachesis" ; Times: 1
+	Query: "genus:Amastridium" ; Times: 3
+	Query: "stateprovince:"Ayacucho" country:"Peru" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:miliaris genus:Liophis" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:sentiventris genus:Elaps" ; Times: 1
+	Query: "country:"Colombia" specificepithet:poecilonotus genus:Pseustes" ; Times: 2
+	Query: "genus:Pseustes" ; Times: 6
+	Query: "catalognumber:298765" ; Times: 1
+	Query: "specificepithet:flavilata genus:Rhadinaea" ; Times: 1
+	Query: "country:"Costa Rica" genus:Lachesis" ; Times: 2
+	Query: "lutra canadensis" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 23
+	Query: "ummz aves country:"puerto rico"" ; Times: 1
+	Query: "genus:daubentonia" ; Times: 1
+	Query: "country:"Panama" genus:Amphisbaena" ; Times: 2
+	Query: "class:amphibia catalognumber:50000" ; Times: 1
+	Query: "country:"Peru" genus:Anomalepis" ; Times: 3
+	Query: "country:"Guatemala" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "stateprovince:"Bolivar" country:"Colombia" class:Reptilia" ; Times: 8
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Bothrops" ; Times: 1
+	Query: "stateprovince:"Morona Santiago" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" specificepithet:iridescens genus:Atractus" ; Times: 1
+	Query: "country:"Peru" genus:Mastigodryas" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" specificepithet:clarki genus:Atractus" ; Times: 1
+	Query: "55490" ; Times: 1
+	Query: "country:"Venezuela" genus:Pseustes" ; Times: 1
+	Query: "country:"Peru" genus:Drymarchon" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "country:"Panama" specificepithet:rubricata genus:Leptodeira" ; Times: 1
+	Query: "stateprovince:"Canal Zone" country:"Panama" specificepithet:guianensis genus:Phimophis" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Leptotyphlops" ; Times: 1
+	Query: "Setophaga PSM" ; Times: 2
+	Query: "genus:Sarcophilus" ; Times: 1
+	Query: "stateprovince:"Minnesota" specificepithet:gapperi genus:Clethrionomys" ; Times: 1
+	Query: "country:"Panama" specificepithet:maurus genus:Epicrates" ; Times: 1
+	Query: "specificepithet:fulviceps genus:Rhadinaea class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Vaupes" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "genus:Ornithorhynchus (Victoria)" ; Times: 10
+	Query: "Crocidura lanosa" ; Times: 10
+	Query: "stateprovince:"Pichincha" country:"Ecuador" class:Reptilia" ; Times: 2
+	Query: "Bolitoglossa cerroensis" ; Times: 2
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Oxybelis" ; Times: 1
+	Query: "country:"Peru" genus:Leptotyphlops" ; Times: 1
+	Query: "specificepithet:godmani genus:Rhadinaea" ; Times: 1
+	Query: "country:"Panama" specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "stateprovince:"Arauca" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "Neusticurus ocellatus" ; Times: 3
+	Query: "Mabuya sp tissue:1" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:cenchoa genus:Imantodes" ; Times: 1
+	Query: "country:"Mexico" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"junin" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "specificepithet:cenchria genus:Epicrates" ; Times: 2
+	Query: "Lynx subsolanus" ; Times: 2
+	Query: "specificepithet:sargenti genus:Rhadinaea" ; Times: 1
+	Query: "stateprovince:"chiriqui" country:"Panama" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "stateprovince:"Caqueta" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "country:"Peru" genus:Eunectes" ; Times: 3
+	Query: "Eulipoa" ; Times: 1
+	Query: "country:"Peru" genus:Dipsas" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:hemprichii genus:Micrurus" ; Times: 1
+	Query: "surinam frog" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:lemniscatus genus:Micrurus" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "Myrmecobiidae" ; Times: 2
+	Query: "stateprovince:"Rio San Juan" country:"Nicaragua" class:Reptilia" ; Times: 2
+	Query: "country:"Panama" genus:Rhinobothryum" ; Times: 1
+	Query: "stateprovince:"Panama" country:"Panama" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "ardea herodias tissue:1" ; Times: 1
+	Query: "country:"Panama" specificepithet:fragilis genus:Leptodactylus" ; Times: 1
+	Query: "crotalus viridis oklahoma" ; Times: 1
+	Query: "specificepithet:fulviceps genus:Rhadinaea" ; Times: 8
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Sibon institutioncode:MCZ" ; Times: 1
+	Query: "country:"Colombia" specificepithet:guianensis genus:Phimophis" ; Times: 8
+	Query: "stateprovince:"La Guajira" country:"Colombia" class:Reptilia" ; Times: 4
+	Query: "country:"Panama" genus:Coniophanes" ; Times: 1
+	Query: "stateprovince:"Falcon" country:"Venezuela" class:Reptilia" ; Times: 2
+	Query: "stateprovince:"Choco" country:"Colombia" specificepithet:ahaetulla genus:Leptophis" ; Times: 1
+	Query: "stateprovince:"piura" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "genus:Trachyboa" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "Kommandorski" ; Times: 1
+	Query: "Diploglossus monotropis country:"Colombia"" ; Times: 1
+	Query: "berylmys bowersii" ; Times: 1
+	Query: "country:"Costa Rica" genus:Pseustes" ; Times: 1
+	Query: "Pseudotriton stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:multiventris genus:Chironius" ; Times: 1
+	Query: "country:"Panama" genus:Chelydra" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Dipsas" ; Times: 2
+	Query: "stateprovince:"Trujillo" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "Myrmecobius" ; Times: 2
+	Query: "country:"Peru" genus:Stenorrhina" ; Times: 2
+	Query: "jacana spinosa tissue:1" ; Times: 1
+	Query: "country:"Panama" genus:Trimetopon" ; Times: 1
+	Query: "stateprovince:"Magdalena" country:"Colombia" genus:Tantilla" ; Times: 1
+	Query: "country:"Panama" specificepithet:percarinatum genus:Dendrophidion" ; Times: 2
+	Query: "genus:Pithecia class:Mammalia media:1" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" specificepithet:annulata genus:Leptodeira" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 3
+	Query: "Hydroprogne caspia egg set" ; Times: 1
+	Query: "specificepithet:panamensis genus:Ungaliophis" ; Times: 1
+	Query: "spilogale stateprovince:"texas"" ; Times: 1
+	Query: "country:"Panama" specificepithet:mipartitus genus:Micrurus" ; Times: 1
+	Query: "dacnomys" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Micrurus" ; Times: 3
+	Query: "country:"Panama" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "country:"Peru" genus:Oxybelis" ; Times: 1
+	Query: "specificepithet:pachyura genus:Rhadinaea" ; Times: 1
+	Query: "country:"Panama" specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Leptodeira" ; Times: 1
+	Query: "country:"Honduras" specificepithet:bipunctatus genus:Coniophanes" ; Times: 1
+	Query: "country:"Panama" genus:Pseustes" ; Times: 1
+	Query: "pseudotriton stateprovince:"new york" country:"United states"" ; Times: 1
+	Query: "stateprovince:"Guayas" country:"Ecuador" class:Reptilia" ; Times: 6
+	Query: "Oligoryzomys fulvescens stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Venezuela" genus:Rhadinaea" ; Times: 1
+	Query: "country:"Belize" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "type:specimen county:"san francisco" specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "country:"Colombia" genus:Tantilla" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:lentiginosum genus:Rhinobothryum" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" class:Reptilia" ; Times: 5
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Oxyrhopus" ; Times: 1
+	Query: "country:"Peru" genus:Lachesis" ; Times: 2
+	Query: "county:"ventura" specificepithet:melodia genus:melospiza" ; Times: 1
+	Query: "skeleton genus:Sarcophilus" ; Times: 1
+	Query: "Brigham Young" ; Times: 1
+	Query: "country:"Costa Rica" class:Reptilia institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:calligaster genus:Rhadinaea" ; Times: 1
+	Query: "country:"Panama" genus:Basiliscus" ; Times: 1
+	Query: "country:"Trinidad and Tobago" genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"Ayacucho" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "stateprovince:"Caldas" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Spilotes" ; Times: 1
+	Query: "country:"Panama" specificepithet:mexicanum genus:Tigrisoma" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Lampropeltis" ; Times: 1
+	Query: "Basileuterus flaveolus" ; Times: 1
+	Query: "pan paniscus" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:fulviceps genus:Rhadinaea" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" class:Amphibia institutioncode:MCZ" ; Times: 1
+	Query: "genus:Conophis" ; Times: 1
+	Query: "country:"Panama" genus:Lachesis" ; Times: 3
+	Query: "stateprovince:"Chiriqui" country:"Panama" specificepithet:laniirostris genus:Euphonia" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: "stateprovince:"Cordoba" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "genus:carettochelys" ; Times: 1
+	Query: "bufo spinulosus limensis" ; Times: 1
+	Query: "Bungarus" ; Times: 4
+	Query: "stateprovince:"Imbabura" country:"Ecuador" class:Reptilia" ; Times: 4
+	Query: "country:"Panama" genus:Rhinoclemmys" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:latifrons genus:Atractus" ; Times: 1
+	Query: "country:"Colombia" specificepithet:rhombifer genus:Drymobius" ; Times: 2
+	Query: "stateprovince:"Guainia" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "country:"Panama" specificepithet:cristatus genus:Corytophanes" ; Times: 1
+	Query: "Reithrodontomys mexicanus stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:mocquardi genus:Tretanorhinus" ; Times: 2
+	Query: "Incilius occidentalis" ; Times: 2
+	Query: "country:"Peru" genus:Xenodon" ; Times: 1
+	Query: "recordedby:owston" ; Times: 1
+	Query: "Reithrodontomys fulvescens stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Magdalena" country:"Colombia" specificepithet:guianensis genus:Phimophis" ; Times: 1
+	Query: "proctoporus" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" specificepithet:corallinus genus:Micrurus" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis" ; Times: 1
+	Query: "Promops nasutus" ; Times: 1
+	Query: "stateprovince:"Trujillo" country:"Venezuela" class:Amphibia" ; Times: 1
+	Query: "Citellus beecheyi type:specimen institutioncode:MCZ" ; Times: 1
+	Query: "Thylacinidae" ; Times: 5
+	Query: "country:"Peru" genus:Sibynomorphus" ; Times: 2
+	Query: "stateprovince:"San Martin" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "Vireo altiloquus" ; Times: 2
+	Query: "specificepithet:laureata genus:Rhadinaea" ; Times: 2
+	Query: "stateprovince:"Falcon" country:"Venezuela" class:Amphibia" ; Times: 1
+	Query: "country:"Panama" specificepithet:frenatus genus:Anolis" ; Times: 1
+	Query: "country:"Honduras" class:Reptilia institutioncode:MCZ" ; Times: 1
+	Query: "country:"Peru" genus:Oxyrhopus" ; Times: 1
+	Query: "country:"Trinidad and Tobago" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "stateprovince:"Atlantico" country:"Colombia" class:Amphibia" ; Times: 2
+	Query: "Herpailurus yagouaroundi stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:annulata genus:Leptodeira" ; Times: 1
+	Query: "country:"Panama" specificepithet:cajanea genus:Aramides" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 83 (out of 278 download events in this period)
+Total number of records downloaded: 10643 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7170
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 58
+	Country: Unknown ; Times: 5
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 3
+	Date: 2014-06-02 ; Times: 1
+	Date: 2014-06-03 ; Times: 4
+	Date: 2014-06-04 ; Times: 2
+	Date: 2014-06-05 ; Times: 2
+	Date: 2014-06-06 ; Times: 1
+	Date: 2014-06-07 ; Times: 1
+	Date: 2014-06-09 ; Times: 3
+	Date: 2014-06-10 ; Times: 8
+	Date: 2014-06-12 ; Times: 3
+	Date: 2014-06-13 ; Times: 2
+	Date: 2014-06-16 ; Times: 16
+	Date: 2014-06-17 ; Times: 2
+	Date: 2014-06-18 ; Times: 1
+	Date: 2014-06-19 ; Times: 1
+	Date: 2014-06-20 ; Times: 2
+	Date: 2014-06-22 ; Times: 1
+	Date: 2014-06-23 ; Times: 14
+	Date: 2014-06-24 ; Times: 1
+	Date: 2014-06-25 ; Times: 3
+	Date: 2014-06-26 ; Times: 1
+	Date: 2014-06-27 ; Times: 5
+	Date: 2014-06-28 ; Times: 2
+	Date: 2014-06-29 ; Times: 1
+	Date: 2014-06-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Cryptotis parva pueblensis" ; Times: 1
+	Query: "county:"los angeles" specificepithet:melodia genus:melospiza" ; Times: 1
+	Query: "batrachoseps luciae" ; Times: 1
+	Query: "Georgia Geomys" ; Times: 2
+	Query: "county:"kendall" stateprovince:"texas"" ; Times: 1
+	Query: "genus:strigops" ; Times: 1
+	Query: "polyplectron" ; Times: 1
+	Query: "Lepus californicus type:specimen institutioncode:MCZ" ; Times: 1
+	Query: "type:specimen county:"alameda" specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "akodon cursor" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "Newfoundland "Lynx canadensis"" ; Times: 1
+	Query: "hylonycteris" ; Times: 1
+	Query: "Bungarus" ; Times: 1
+	Query: "Spermophilus beecheyi institutioncode:MCZ" ; Times: 1
+	Query: "type:specimen genus:procnias" ; Times: 2
+	Query: "crocodylus raninus country:"Indonesia"" ; Times: 1
+	Query: "crocodylus porosus country:"Indonesia"" ; Times: 1
+	Query: "stateprovince:"Minnesota" specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "anthracothorax dominicus" ; Times: 1
+	Query: "Ensatina klauberi" ; Times: 1
+	Query: "psittacidae country:"Venezuela"" ; Times: 1
+	Query: "berylmys berdmorei" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "class:amphibia catalognumber:20000" ; Times: 1
+	Query: "Promops nasutus" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "Sylvilagus audubonii type:specimen institutioncode:MCZ" ; Times: 1
+	Query: "Canis latrans type:specimen institutioncode:MCZ" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "test" ; Times: 1
+	Query: "Bolitoglossa cerroensis" ; Times: 2
+	Query: "Diploglossus monotropis country:"Colombia"" ; Times: 1
+	Query: "type:specimen county:"Humboldt" specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "catalognumber:298765" ; Times: 1
+	Query: "Bolitoglossa pesrubra" ; Times: 1
+	Query: "type:specimen county:"san francisco" specificepithet:melodia genus:Melospiza" ; Times: 2
+	Query: "ectopistes" ; Times: 1
+	Query: "charina umbratica" ; Times: 1
+	Query: "stateprovince:"Guanajuato" country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "stateprovince:"Wyoming" genus:Thomomys" ; Times: 1
+	Query: "Macaca mulatta type:specimen institutioncode:MCZ" ; Times: 1
+	Query: "Citellus beecheyi type:specimen institutioncode:MCZ" ; Times: 4
+	Query: "Tapirus pinchaque" ; Times: 1
+	Query: "Peromyscus californicus type:specimen institutioncode:MCZ" ; Times: 1
+	Query: "county:"ventura" specificepithet:melodia genus:melospiza" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "thamnophis sirtalis distance(location,geopoint(37.02009820136811,-121.31103515625))<100000" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Incilius occidentalis" ; Times: 1
+	Query: "specificepithet:cinerea genus:Piezorhina" ; Times: 1
+	Query: "type:specimen county:"Marin" specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "berylmys bowersii" ; Times: 1
+	Query: "county:"santa barbara" specificepithet:melodia genus:melospiza" ; Times: 1
+	Query: "Dendrobates histrionicus" ; Times: 1
+	Query: "mammalia texas mappable:1" ; Times: 1
+	Query: "Ochotona princeps type:specimen institutioncode:MCZ" ; Times: 1
+	Query: "pristidactylus achalensis" ; Times: 1
+	Query: "Phrynosoma platyrhinos Arizona" ; Times: 2
+	Query: "Citellus beecheyi institutioncode:MCZ" ; Times: 2
+	Query: "type:specimen county:"sonoma" specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "county:"san diego" stateprovince:"california" specificepithet:melodia genus:melospiza" ; Times: 1
+	Query: "Icterus cucullatus" ; Times: 1
+	Query: "catalognumber:100000" ; Times: 1
+	Query: "class:Mammalia Neacomys" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Milvus migrans" ; Times: 1
+	Query: "anthracothorax viridis" ; Times: 1
+	Query: "stateprovince:"Newfoundland" genus:Lynx" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2901
+Total number of records retrieved from searches: 32773
+Number of download events that retrieved data from the resource: 660
+Total number of records downloaded: 309524
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2901
+Total number of records retrieved from searches: 32773
+Number of download events that retrieved data from the resource: 898
+Total number of records downloaded: 483748
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
