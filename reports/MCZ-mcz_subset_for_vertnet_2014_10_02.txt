@@ -1,0 +1,410 @@
+Report for Institution Code MCZ, Resource mcz_subset_for_vertnet
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 466
+Number of records retrieved in searches: 3446
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 9
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 6
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 43
+	Country: Costa Rica ; Times: 4
+	Country: France ; Times: 1
+	Country: Germany ; Times: 8
+	Country: Israel ; Times: 6
+	Country: Mexico ; Times: 19
+	Country: Philippines ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: United States ; Times: 340
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 18
+	Date: 2014-09-02 ; Times: 22
+	Date: 2014-09-03 ; Times: 33
+	Date: 2014-09-04 ; Times: 7
+	Date: 2014-09-05 ; Times: 27
+	Date: 2014-09-06 ; Times: 5
+	Date: 2014-09-07 ; Times: 4
+	Date: 2014-09-08 ; Times: 47
+	Date: 2014-09-09 ; Times: 14
+	Date: 2014-09-10 ; Times: 14
+	Date: 2014-09-11 ; Times: 10
+	Date: 2014-09-12 ; Times: 17
+	Date: 2014-09-13 ; Times: 4
+	Date: 2014-09-14 ; Times: 2
+	Date: 2014-09-15 ; Times: 24
+	Date: 2014-09-16 ; Times: 19
+	Date: 2014-09-17 ; Times: 39
+	Date: 2014-09-18 ; Times: 12
+	Date: 2014-09-19 ; Times: 63
+	Date: 2014-09-20 ; Times: 5
+	Date: 2014-09-21 ; Times: 1
+	Date: 2014-09-22 ; Times: 14
+	Date: 2014-09-23 ; Times: 43
+	Date: 2014-09-24 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "williamengelsi" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 4
+	Query: "ZFMK" ; Times: 1
+	Query: ""coluber flagellum" (Alabama)" ; Times: 1
+	Query: "Pipra mentalis tissue:1" ; Times: 1
+	Query: "giraffa" ; Times: 2
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "crocodile" ; Times: 1
+	Query: "Mazama gouazoubira" ; Times: 1
+	Query: "recordedby:j. grinnell" ; Times: 5
+	Query: "specificepithet:sargenti genus:Rhadinaea" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: "catharus fuscescens tissue:1" ; Times: 1
+	Query: "balaenoptera edeni" ; Times: 4
+	Query: "microtus pennsylvanicus new hampshire" ; Times: 1
+	Query: "genus:Ctenotus AND (NOT country:Australia) AND (NOT specificepithet:australis)" ; Times: 1
+	Query: "alouatta institutioncode:MCZ" ; Times: 4
+	Query: "genus:Eleutherodactylus (tissue OR precerved) tissue:1" ; Times: 3
+	Query: "specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "axolotl" ; Times: 1
+	Query: "oxyuranus" ; Times: 1
+	Query: "Balaenoptera musculus type:specimen" ; Times: 1
+	Query: "Mosquitia" ; Times: 1
+	Query: "Macroclemys" ; Times: 2
+	Query: "chlamyphorus" ; Times: 1
+	Query: "Spizaetus ornatus country:"Mexico"" ; Times: 1
+	Query: "Oenanthe tissue:1" ; Times: 1
+	Query: "douglas 1875" ; Times: 2
+	Query: "Ptychohyla" ; Times: 1
+	Query: "microtus pennsylvanicus 21g" ; Times: 1
+	Query: "Pseudonestor xanthophrys" ; Times: 2
+	Query: "gonocephalus semperi" ; Times: 3
+	Query: "turdoides affinis" ; Times: 1
+	Query: "buteo jamaicensis fuertesi type:specimen country:"United States"" ; Times: 1
+	Query: "felis concolor concolor" ; Times: 1
+	Query: "Onychorhynchus coronatus type:specimen tissue:1" ; Times: 1
+	Query: "recordedby:Rayna Bell" ; Times: 4
+	Query: "Plethodon larselli" ; Times: 1
+	Query: "lonchura cantans" ; Times: 3
+	Query: "phyllobates vittatus" ; Times: 4
+	Query: "52219 institutioncode:MCZ" ; Times: 2
+	Query: "agostine" ; Times: 1
+	Query: "sticticeps" ; Times: 1
+	Query: "genus:Ctenotus AND (NOT Australia)" ; Times: 2
+	Query: "bogertophis rosaliae" ; Times: 1
+	Query: "dromiciops country:"chile"" ; Times: 1
+	Query: "Indiana heterodon fmnh" ; Times: 1
+	Query: "Meroles micropholidotus" ; Times: 2
+	Query: "Dromiciops" ; Times: 1
+	Query: "233102" ; Times: 1
+	Query: "skin (coendou OR sphiggurus OR chaetomys)" ; Times: 3
+	Query: "Ploceus galbula" ; Times: 1
+	Query: "Necturus illinois" ; Times: 1
+	Query: "rallus crepitans" ; Times: 4
+	Query: "columba passerina" ; Times: 1
+	Query: "perognathus hispidus" ; Times: 1
+	Query: "Cnemidophorus (Skeleton)" ; Times: 3
+	Query: "Microtus pennsylvanicus stateprovince:"Florida"" ; Times: 1
+	Query: "typhlomys" ; Times: 1
+	Query: "class:Mammalia catalognumber:35749" ; Times: 2
+	Query: "theropithecus" ; Times: 1
+	Query: "(Sotalia)" ; Times: 1
+	Query: "Crocodilurus (Skeleton)" ; Times: 4
+	Query: "Phyllodactylus in mexico" ; Times: 1
+	Query: "Lasionycteris noctivagans Nevada" ; Times: 2
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "Rhinocheilus lecontei Texas Williamson" ; Times: 1
+	Query: "223631" ; Times: 1
+	Query: "country:"Ethiopia"" ; Times: 1
+	Query: "Boiga irregularis" ; Times: 1
+	Query: "strix sartorii" ; Times: 1
+	Query: "brotogeris" ; Times: 1
+	Query: "JACANIDAE tissue:1" ; Times: 1
+	Query: "Rhinocheilus tesselatus" ; Times: 1
+	Query: "nasuella olivacea" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Colobosaura modesta" ; Times: 1
+	Query: "genus:Ctenotus (NOT country:Australia) (NOT specificepithet:australis)" ; Times: 1
+	Query: "zaglossus institutioncode:MCZ" ; Times: 1
+	Query: "sylvilagus long beach" ; Times: 1
+	Query: "deirochelys reticularia (Louisiana )" ; Times: 1
+	Query: "Sciurillus" ; Times: 1
+	Query: "country:"Panama" specificepithet:decorata genus:Rhadinaea" ; Times: 2
+	Query: "Pyxicephalus" ; Times: 1
+	Query: "Polemon acanthias" ; Times: 1
+	Query: "Ptychohyla hypomykter" ; Times: 1
+	Query: "Tupinambis (Skeleton)" ; Times: 1
+	Query: "Mellisuga minima" ; Times: 1
+	Query: "country:"Colombia" genus:procyon" ; Times: 3
+	Query: "Rhinosciurus" ; Times: 2
+	Query: "Dinomys branickii" ; Times: 2
+	Query: "spizaetus ornatus country:"Mexico"" ; Times: 1
+	Query: "Pavo muticus" ; Times: 1
+	Query: "Vipera ursini" ; Times: 2
+	Query: "catalognumber:A-128608 institutioncode:MCZ" ; Times: 1
+	Query: "anolis breslini" ; Times: 1
+	Query: "atherurus macrourus" ; Times: 1
+	Query: "pharomachrus fulgidus" ; Times: 1
+	Query: "stateprovince:"Michigan" genus:Coluber" ; Times: 1
+	Query: "Ameiva (Skeleton)" ; Times: 1
+	Query: "Cebus libidinosus" ; Times: 1
+	Query: "bufoniformis" ; Times: 2
+	Query: "Rhinocheilus tesselatus Texas" ; Times: 1
+	Query: "Merops type:specimen tissue:1" ; Times: 1
+	Query: "leptopelis notatus" ; Times: 2
+	Query: "distance(location,geopoint(17.036433766153372,-96.82044982910156))<4234.905488953833" ; Times: 1
+	Query: ""DEIROCHELYS RETICULARIA" (Alabama)" ; Times: 1
+	Query: "spurreli" ; Times: 1
+	Query: "class:Mammalia dinomys" ; Times: 2
+	Query: "mustersi" ; Times: 1
+	Query: "stateprovince:"Wyoming" class:amphibia" ; Times: 1
+	Query: "dromiciops" ; Times: 4
+	Query: "Pithecophaga jefferyi" ; Times: 8
+	Query: "(coendou OR sphiggurus OR chaetomys)" ; Times: 3
+	Query: "distance(location,geopoint(17.035777250427195,-96.87263488769531))<5404" ; Times: 1
+	Query: "accipiter castanilius" ; Times: 3
+	Query: "Kirtland rockport" ; Times: 2
+	Query: "class:Mammalia dinomys branickii" ; Times: 1
+	Query: "dicaeum australe cebu" ; Times: 1
+	Query: "myocaster coypus" ; Times: 1
+	Query: "Spizaetus ornatus country:"Mexico" mappable:1" ; Times: 1
+	Query: "class:Mammalia lutra lutra" ; Times: 1
+	Query: "Lagopus Newfoundland" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Big Island Reid" ; Times: 2
+	Query: "231042" ; Times: 1
+	Query: "distance(location,geopoint(17.046281225389052,-96.81632995605469))<4234.905488953833" ; Times: 1
+	Query: "python regius" ; Times: 2
+	Query: "heterodon indiana" ; Times: 3
+	Query: "Rhinoclemmys" ; Times: 2
+	Query: "Eschrichtius skull" ; Times: 106
+	Query: "Plectrohyla (formalin)" ; Times: 1
+	Query: "genus:Ctenotus AND (NOT country:Australia) AND (NOT species:australis)" ; Times: 1
+	Query: "stateprovince:"TN"" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: ""Felis concolor concolor"" ; Times: 2
+	Query: "Platysaurus mitchelli" ; Times: 1
+	Query: "Pithecophaga jefferyi type:specimen media:1" ; Times: 1
+	Query: "heterodon indiana fmnh" ; Times: 2
+	Query: ""Ophisaurus attenuatus" (Alabama)" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "Pterocles alchata type:specimen" ; Times: 2
+	Query: "pipra filicauda type:specimen" ; Times: 1
+	Query: "barred owl" ; Times: 3
+	Query: "country:"Mexico" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "Dicrodon (Skeleton)" ; Times: 2
+	Query: "Pteropus melanopogon" ; Times: 1
+	Query: "genus:Ctenotus NOT country:Australia NOT specificepithet:australis" ; Times: 2
+	Query: "sphenodon (skeleton)" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:mexicana genus:Marmosa" ; Times: 1
+	Query: "specificepithet:ramsayi genus:Aspidites mappable:1" ; Times: 3
+	Query: "Adaptive Radiation" ; Times: 2
+	Query: "Malurus grayi" ; Times: 1
+	Query: "Aphelocoma Santa Barbara county" ; Times: 1
+	Query: "Eschrichtiidae skull" ; Times: 15
+	Query: "Spilogale putorius stateprovince:"Alabama"" ; Times: 1
+	Query: ""Diadophis punctatus" (Alabama)" ; Times: 1
+	Query: "Varanus niloticus (Skeleton)" ; Times: 2
+	Query: "phrynosoma county:"maricopa" stateprovince:"arizona"" ; Times: 1
+	Query: "distance(location,geopoint(17.048907126890708,-96.82182312011719))<4234.905488953833" ; Times: 1
+	Query: "balaenoptera acutorostrata skull" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "oenanthe tissue:1" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "Chamaeleo fischeri" ; Times: 5
+	Query: ""masticophis flagellum" (Alabama)" ; Times: 1
+	Query: "Gavia Immer type:specimen stateprovince:"California"" ; Times: 2
+	Query: "Bradypus tridactylus" ; Times: 4
+	Query: "Chlamyphorus" ; Times: 1
+	Query: "236424" ; Times: 1
+	Query: "Loxia curvirostra connecticut 2014" ; Times: 1
+	Query: "Loxia curvirostra connecticut 2013" ; Times: 1
+	Query: "Crocodile" ; Times: 1
+	Query: "hypsipetes philippinus cebu" ; Times: 1
+	Query: "imbricata" ; Times: 1
+	Query: "223937" ; Times: 1
+	Query: "Choleopus" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "Myotis sodalis stateprovince:"Alabama"" ; Times: 1
+	Query: "Telophorus dohertyi" ; Times: 2
+	Query: "aagaard" ; Times: 2
+	Query: "recordedby:jgrinnell" ; Times: 2
+	Query: "231191" ; Times: 1
+	Query: "myotis germany" ; Times: 1
+	Query: "Bogertophis rosaliae" ; Times: 1
+	Query: "country:"Angola" class:Amphibia" ; Times: 1
+	Query: "latimodjong" ; Times: 1
+	Query: "Deirochelys Louisiana" ; Times: 1
+	Query: "Lemur" ; Times: 1
+	Query: "genus:ctenotus AND (NOT CAS)" ; Times: 1
+	Query: "Grampus griseus" ; Times: 1
+	Query: "loxodonta skull" ; Times: 2
+	Query: "Wogan" ; Times: 1
+	Query: "genus:Ctenotus AND (NOT country:Australia)" ; Times: 1
+	Query: "latimodjong mappable:1" ; Times: 2
+	Query: "microtus pennsylvanicus maine" ; Times: 1
+	Query: "Polemon neuwiedi" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Mabuya chimbana" ; Times: 1
+	Query: "Phrynosoma douglasii AND (NOT arizona NOT mexico NOT utah NOT colorado NOT wyoming NOT montana) mappable:1" ; Times: 1
+	Query: "Coryphodon" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen mappable:1" ; Times: 2
+	Query: "meroles suborbitalis" ; Times: 2
+	Query: "country:"Colombia" genus:potos" ; Times: 23
+	Query: "Alouatta" ; Times: 3
+	Query: "PROCYON type:specimen country:"COLOMBIA"" ; Times: 1
+	Query: "(cyanocompsa) tissue:1" ; Times: 1
+	Query: "sceloporus graciosus vandenburgianus" ; Times: 2
+	Query: "country:"Colombia" genus:mustela" ; Times: 3
+	Query: "neblina" ; Times: 1
+	Query: "stateprovince:"CA"" ; Times: 1
+	Query: "Indiana heterodon fmnh type:specimen" ; Times: 1
+	Query: "country:"Colombia" genus:PROCYON" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "pteropus melanopogon" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 164 download events in this period)
+Total number of records downloaded: 44884 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 24968
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Cyprus ; Times: 1
+	Country: France ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 39
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 3
+	Date: 2014-09-02 ; Times: 4
+	Date: 2014-09-03 ; Times: 4
+	Date: 2014-09-04 ; Times: 3
+	Date: 2014-09-05 ; Times: 1
+	Date: 2014-09-07 ; Times: 1
+	Date: 2014-09-08 ; Times: 3
+	Date: 2014-09-09 ; Times: 4
+	Date: 2014-09-11 ; Times: 7
+	Date: 2014-09-12 ; Times: 7
+	Date: 2014-09-13 ; Times: 1
+	Date: 2014-09-14 ; Times: 1
+	Date: 2014-09-15 ; Times: 8
+	Date: 2014-09-16 ; Times: 1
+	Date: 2014-09-17 ; Times: 2
+	Date: 2014-09-18 ; Times: 3
+	Date: 2014-09-19 ; Times: 6
+	Date: 2014-09-20 ; Times: 8
+	Date: 2014-09-22 ; Times: 4
+	Date: 2014-09-23 ; Times: 5
+	Date: 2014-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "PreservedSpecimen genus:zoothera" ; Times: 1
+	Query: "distance(location,geopoint(17.036433766153372,-96.82044982910156))<4234.905488953833" ; Times: 1
+	Query: "mammalia AND Alaska" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "microtus pennsylvanicus new hampshire" ; Times: 1
+	Query: "Gavia immer type:specimen" ; Times: 1
+	Query: "nasua" ; Times: 1
+	Query: "aphelocoma" ; Times: 1
+	Query: "Thamnophilus" ; Times: 1
+	Query: "pipra tissue:1" ; Times: 1
+	Query: "chiroptera country:"brazil"" ; Times: 1
+	Query: "mammalia AND Alabama" ; Times: 1
+	Query: "mammalia AND Arkansas" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "buteo jamaicensis borealis" ; Times: 1
+	Query: "Grulla" ; Times: 1
+	Query: "nest stateprovince:"california" genus:junco" ; Times: 1
+	Query: "sigmodon" ; Times: 1
+	Query: "Gavia Immer type:specimen stateprovince:"california"" ; Times: 1
+	Query: "tachyglossidae; skull" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 2
+	Query: "NASUA" ; Times: 1
+	Query: "Mammalia country:"Venezuela"" ; Times: 1
+	Query: "erethizontidae" ; Times: 1
+	Query: "spizella mappable:1" ; Times: 1
+	Query: "mammalia AND Oregon" ; Times: 1
+	Query: "Pyxicephalus" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:fuscipes genus:neotoma" ; Times: 1
+	Query: "Andrias" ; Times: 3
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "caenolestes" ; Times: 2
+	Query: "larus delawarensis" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "catharus fuscescens tissue:1" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "Buteo jamaicensis borealis type:specimen country:"United States"" ; Times: 1
+	Query: "sorex" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "crotalus in mexico" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "Peromyscus maniculatus tissue:1" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "Sorex veraepacis" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "stateprovince:"Idaho" genus:Sorex" ; Times: 1
+	Query: "distance(location,geopoint(34.04014265821739,-118.7127685546875))<7406.907814491575" ; Times: 1
+	Query: "mammalia AND California" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "stateprovince:"Wyoming" genus:Sorex" ; Times: 1
+	Query: "PreservedSpecimen genus:turdus" ; Times: 1
+	Query: "mammalia AND Lane County AND Oregon" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "Mabuya chimbana" ; Times: 1
+	Query: "Lynx canadensis type:specimen tissue:1" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "distance(location,geopoint(34.03317229615444,-118.72684478759766))<1889" ; Times: 1
+	Query: "Spizaetus tyrannus country:"Mexico" mappable:1" ; Times: 1
+	Query: "stateprovince:"Montana" genus:Sorex" ; Times: 1
+	Query: "callithrix" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "distance(location,geopoint(16.98324853069064,-96.822509765625))<8767" ; Times: 1
+	Query: "(cyanocompsa) tissue:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 4632
+Total number of records retrieved from searches: 51945
+Number of download events that retrieved data from the resource: 1034
+Total number of records downloaded: 608780
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4632
+Total number of records retrieved from searches: 51945
+Number of download events that retrieved data from the resource: 1272
+Total number of records downloaded: 783004
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
