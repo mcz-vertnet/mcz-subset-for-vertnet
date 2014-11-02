@@ -1,0 +1,436 @@
+Report for Institution Code MCZ, Resource mcz_subset_for_vertnet
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 451
+Number of records retrieved in searches: 6212
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 11
+	Country: Colombia ; Times: 10
+	Country: France ; Times: 12
+	Country: Germany ; Times: 26
+	Country: Guatemala ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Israel ; Times: 3
+	Country: Mexico ; Times: 47
+	Country: Namibia ; Times: 1
+	Country: Panama ; Times: 59
+	Country: Romania ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Slovakia ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Switzerland ; Times: 5
+	Country: United Kingdom ; Times: 15
+	Country: United States ; Times: 225
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 13
+	Date: 2014-10-11 ; Times: 8
+	Date: 2014-10-12 ; Times: 2
+	Date: 2014-10-13 ; Times: 9
+	Date: 2014-10-14 ; Times: 12
+	Date: 2014-10-15 ; Times: 4
+	Date: 2014-10-16 ; Times: 5
+	Date: 2014-10-17 ; Times: 45
+	Date: 2014-10-18 ; Times: 23
+	Date: 2014-10-19 ; Times: 7
+	Date: 2014-10-20 ; Times: 55
+	Date: 2014-10-21 ; Times: 41
+	Date: 2014-10-22 ; Times: 45
+	Date: 2014-10-23 ; Times: 32
+	Date: 2014-10-24 ; Times: 19
+	Date: 2014-10-25 ; Times: 12
+	Date: 2014-10-26 ; Times: 9
+	Date: 2014-10-27 ; Times: 31
+	Date: 2014-10-28 ; Times: 13
+	Date: 2014-10-29 ; Times: 31
+	Date: 2014-10-30 ; Times: 13
+	Date: 2014-10-31 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Conopsis biserialis" ; Times: 8
+	Query: "Calocitta formosa pompata" ; Times: 3
+	Query: "Xenopus tropicalis" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 14
+	Query: "county:"Essex" stateprovince:"New York" media:1" ; Times: 1
+	Query: "Tachuris rubrigastra" ; Times: 2
+	Query: "LSUMZ" ; Times: 1
+	Query: "Lygosoma sundevallii" ; Times: 1
+	Query: "Balaenoptera acutorostrata skull" ; Times: 1
+	Query: "kinixys erosa" ; Times: 1
+	Query: "Chamaeleo boettgeri" ; Times: 9
+	Query: "Mazama gouazoubira" ; Times: 1
+	Query: "Hemicircus" ; Times: 1
+	Query: "gallinula panama" ; Times: 3
+	Query: "Accipiter striatus suttoni" ; Times: 1
+	Query: "molossus (mexico) AND (guerrero)" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 2
+	Query: "sceloporus gramicus distance(location,geopoint(19.559790136497398,-99.25048828125))<385770" ; Times: 1
+	Query: "STENORRHINA DEGENHARDTII" ; Times: 2
+	Query: "type:specimen country:"burundi" class:amphibia mappable:1" ; Times: 1
+	Query: "hoplophryne" ; Times: 2
+	Query: "trichechus manatus" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Ameiva polops" ; Times: 2
+	Query: "specificepithet:varia genus:mniotilta (nest)" ; Times: 1
+	Query: "leptopelis omissus" ; Times: 4
+	Query: "paradoxornis alphonsianus" ; Times: 1
+	Query: "Agama planiceps" ; Times: 1
+	Query: "Anastomus oscitans" ; Times: 2
+	Query: "Afrixalus crotalus" ; Times: 2
+	Query: "crax rubra panama" ; Times: 1
+	Query: "Sardinops type:specimen" ; Times: 1
+	Query: "chelonia skeletal type:specimen" ; Times: 1
+	Query: "leptodeira polysticta" ; Times: 2
+	Query: "Cervus canadensis" ; Times: 3
+	Query: "type:specimen country:"malawi" class:amphibia mappable:1" ; Times: 1
+	Query: "Cnemidophorus sexlineatus alabama" ; Times: 1
+	Query: "Micrurus Georgia" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "thyroptera tricolor" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "Sardina type:specimen" ; Times: 3
+	Query: "institutioncode:mcz" ; Times: 2
+	Query: "contopus tissue:1" ; Times: 1
+	Query: "county:"Santa Barbara" specificepithet:torosa genus:Taricha" ; Times: 2
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Lepus townsendi" ; Times: 2
+	Query: "Bolitoglossa pacaya" ; Times: 2
+	Query: "Ortygospiza fuscocrissa" ; Times: 1
+	Query: "Chlorospingus tissue:1" ; Times: 1
+	Query: "Lygosoma sundevalli" ; Times: 1
+	Query: "Tarsius" ; Times: 1
+	Query: "acari" ; Times: 1
+	Query: "TESTUDO GRAECA" ; Times: 1
+	Query: "glawi" ; Times: 1
+	Query: "thamnophis melanogaster" ; Times: 3
+	Query: "fairy" ; Times: 1
+	Query: "trichomycterus" ; Times: 1
+	Query: "columba panama" ; Times: 13
+	Query: "Rana coreana" ; Times: 1
+	Query: "Penelope perspicax" ; Times: 1
+	Query: "Lepus insularis" ; Times: 1
+	Query: "speothos" ; Times: 1
+	Query: "Aspidoscelis sexlineata (Alabama)" ; Times: 1
+	Query: "odontophorus gujanensis" ; Times: 1
+	Query: "lafresnayi" ; Times: 1
+	Query: "Anolis fitchi" ; Times: 1
+	Query: "Gopherus polyphemus" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 10
+	Query: "monster" ; Times: 1
+	Query: "type:specimen country:"zaire" class:amphibia mappable:1" ; Times: 1
+	Query: "Lepus othus" ; Times: 1
+	Query: "class:Actinopterygii institutioncode:MCZ" ; Times: 4
+	Query: "Semnopithecus entellus" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 2
+	Query: "Dendrocincla fuliginosa tissue:1" ; Times: 1
+	Query: "Corallus annulatus" ; Times: 1
+	Query: "Crax rubra panama" ; Times: 1
+	Query: "Dendrocincla tyrannina" ; Times: 1
+	Query: "Alligator mississippiensis" ; Times: 1
+	Query: "specificepithet:torbesensis" ; Times: 1
+	Query: "microtus pennsylvanicus shattucki" ; Times: 1
+	Query: "antilocapra media:1" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 2
+	Query: ""Thamnophilus nigrocinereus"" ; Times: 1
+	Query: "Tarsius bancanus" ; Times: 1
+	Query: "Cistothorus palustris waynei" ; Times: 1
+	Query: "Odocoileus (mass) AND (NOT fossil)" ; Times: 1
+	Query: "columba nigrirostris panama" ; Times: 1
+	Query: "dwarf" ; Times: 2
+	Query: "bubalornis" ; Times: 1
+	Query: "Asthenes cactorum" ; Times: 1
+	Query: "Calocitta formosa (tissue)" ; Times: 1
+	Query: "elaphe vulpina" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "balaenoptera media:1" ; Times: 14
+	Query: "Petaluma county:"Sonoma" stateprovince:"California"" ; Times: 1
+	Query: "Macrotrema" ; Times: 1
+	Query: "boettgeri country:"Madagascar" institutioncode:MCZ" ; Times: 1
+	Query: "Ara ararauna panama" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "Chamaeleo cucullatus" ; Times: 1
+	Query: "zombie" ; Times: 1
+	Query: "psaltria santa barbara" ; Times: 1
+	Query: "Asthenes wyatti" ; Times: 2
+	Query: "stateprovince:"north dakota" recordedby:judd" ; Times: 1
+	Query: "Chamaepetes unicolor panama" ; Times: 1
+	Query: "Ostracion meleagris" ; Times: 1
+	Query: "colocolo" ; Times: 1
+	Query: "Brookesia country:"Madagascar"" ; Times: 1
+	Query: "leptopelis calcaratus" ; Times: 3
+	Query: "dermatemys mawii" ; Times: 5
+	Query: "Calocitta formosa tissue:1" ; Times: 1
+	Query: "Ambystoma maculatum Alabama" ; Times: 1
+	Query: "Riopa sundevallii" ; Times: 1
+	Query: "sloth" ; Times: 1
+	Query: "Hyla plicata distance(location,geopoint(19.559790136497398,-99.25048828125))<385770" ; Times: 3
+	Query: "Aratinga finschi panama" ; Times: 3
+	Query: "Dermatemys mawii" ; Times: 3
+	Query: "thylacinus" ; Times: 1
+	Query: "dendrocincla fuliginosa tissue:1" ; Times: 1
+	Query: "Nasuella olivacea" ; Times: 5
+	Query: "Ortalis struthopus panama" ; Times: 1
+	Query: "Galloperdix bicalcarata" ; Times: 1
+	Query: "Reptilia distance(location,geopoint(7.18810087117902,-73.212890625))<100000" ; Times: 1
+	Query: "Epicrates maurus" ; Times: 1
+	Query: "Lutjanus argentiventris" ; Times: 2
+	Query: "Brookesia nasus country:"Madagascar"" ; Times: 1
+	Query: "Phaethornis guy coruscus panama" ; Times: 1
+	Query: "dendrobates truncatus" ; Times: 1
+	Query: "genus:Strigops tissue:1" ; Times: 3
+	Query: "Myrmeciza melanoceps" ; Times: 1
+	Query: "Aplodontia rufa californica" ; Times: 1
+	Query: "corvus brachyrhynchos media:1" ; Times: 2
+	Query: "Damophila julie panamensis panama" ; Times: 1
+	Query: "Riopa sundevalli" ; Times: 1
+	Query: "Aspidoscelis sexlineata alabama" ; Times: 1
+	Query: "columba subvinacea panama" ; Times: 1
+	Query: "Didelphis aurita" ; Times: 2
+	Query: "grus canadensis (alaska)" ; Times: 1
+	Query: "corallus caninus" ; Times: 1
+	Query: "Xenopus laevis tissue:1" ; Times: 1
+	Query: "KU 31783" ; Times: 1
+	Query: "KU 31782" ; Times: 1
+	Query: "dolphin" ; Times: 1
+	Query: "semnopithecus entellus" ; Times: 1
+	Query: "KU 31784" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "boiga kraepelini" ; Times: 3
+	Query: "fuliginosa meruloides" ; Times: 1
+	Query: "country:"Syria" specificepithet:auratus genus:mesocricetus" ; Times: 1
+	Query: "Claudius angustatus" ; Times: 1
+	Query: "alligator sinensis" ; Times: 7
+	Query: "Leptopelis calcaratus" ; Times: 5
+	Query: "filiformis" ; Times: 1
+	Query: "erethizon dorstum" ; Times: 2
+	Query: "Canadian Moose" ; Times: 1
+	Query: "barinensis" ; Times: 1
+	Query: "Pseudotriton ruber stateprovince:"New York"" ; Times: 2
+	Query: "Aratinga pertinax ocularis panama" ; Times: 1
+	Query: "haplophryne" ; Times: 1
+	Query: "Eleutherodactylus auriculatus" ; Times: 1
+	Query: "Equus hemionus" ; Times: 1
+	Query: "Glaucis hirsuta affinis panama" ; Times: 2
+	Query: "Pyrrhura hoffmanni gaudens panama" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Taricha torosa county:"Santa Barbara"" ; Times: 1
+	Query: "TESTUDO GRAECA ISRAEL" ; Times: 2
+	Query: "genus:Cracticus tissue:1" ; Times: 1
+	Query: "Chamaeleo fallax" ; Times: 1
+	Query: "aneides hardii" ; Times: 1
+	Query: "chamaepetes unicolor" ; Times: 10
+	Query: "mykiss" ; Times: 1
+	Query: "Melogale moschata" ; Times: 2
+	Query: "boettgeri country:"Madagascar"" ; Times: 1
+	Query: "trichechus senegalensis" ; Times: 2
+	Query: "Cardinalis cardinalis flammiger" ; Times: 1
+	Query: "astroblepus" ; Times: 1
+	Query: "Conopsis nasus" ; Times: 10
+	Query: "denton wellesley" ; Times: 3
+	Query: "Micrurus petersi" ; Times: 1
+	Query: "Procyon pygmaeus" ; Times: 1
+	Query: "grus canadensis 1913 (alaska)" ; Times: 1
+	Query: "Phyllomyias uropygialis type:specimen" ; Times: 1
+	Query: "specificepithet:genei genus:larus" ; Times: 8
+	Query: "anteater" ; Times: 1
+	Query: "scutisorex" ; Times: 1
+	Query: "Kinosternon scorpioides" ; Times: 2
+	Query: "Mochlus sundevalli" ; Times: 1
+	Query: "Myrmotherula ornata" ; Times: 1
+	Query: "Nasua type:specimen country:"Ecuador"" ; Times: 1
+	Query: "Chordeiles minor aserriensis" ; Times: 1
+	Query: "Lycodon" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "Ceratophrys calcarata" ; Times: 2
+	Query: "Eleutherodactylus counouspeus" ; Times: 3
+	Query: "boiga irregularis" ; Times: 12
+	Query: "cracidae panama" ; Times: 9
+	Query: "Synbranchus" ; Times: 1
+	Query: "isolobodon portoricensis" ; Times: 6
+	Query: "cemophora" ; Times: 1
+	Query: "odontophorus gujanensis panama" ; Times: 1
+	Query: "trichechus inunguis" ; Times: 2
+	Query: "elaphe vulpina illinois" ; Times: 1
+	Query: "Dipsas articulata" ; Times: 1
+	Query: "Ophisaurus koellikeri" ; Times: 1
+	Query: "Cardinalis cardinalis superbus" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 6
+	Query: "specificepithet:sabrinus genus:Glaucomys (specimens collected )" ; Times: 1
+	Query: ""Melogale personata"" ; Times: 2
+	Query: "Kinosternon leucostomum" ; Times: 4
+	Query: "Balaena mysticetus skeleton" ; Times: 1
+	Query: "type:specimen country:"rwanda" class:amphibia mappable:1" ; Times: 1
+	Query: "Ophisternon" ; Times: 1
+	Query: "Prosymna angolensis" ; Times: 4
+	Query: "Tadarida macrotis" ; Times: 1
+	Query: "Geobatrachus" ; Times: 1
+	Query: "sayornis tissue:1" ; Times: 1
+	Query: "leptodeira septentrionalis" ; Times: 3
+	Query: "Pelobates" ; Times: 1
+	Query: "marmota broweri tissue:1" ; Times: 2
+	Query: "Heliornis fulica panama" ; Times: 1
+	Query: "Chen caerulescens media:1" ; Times: 1
+	Query: "Ortygospiza atricollis" ; Times: 1
+	Query: "Hoplophryne" ; Times: 2
+	Query: "Gallinula chloropus cachinnans panama" ; Times: 1
+	Query: "catalognumber:304104" ; Times: 1
+	Query: "crax rubra" ; Times: 3
+	Query: "canadian lynx" ; Times: 2
+	Query: "Ortygospiza gabonensis dorsostriata" ; Times: 1
+	Query: "Trachischium fuscum" ; Times: 1
+	Query: "dendrocincla homochroa tissue:1" ; Times: 1
+	Query: "macrhybopsis" ; Times: 1
+	Query: "Crypturellus noctivagus" ; Times: 1
+	Query: "Columba speciosa panama" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"Kansas"" ; Times: 1
+	Query: "anolis petersi" ; Times: 1
+	Query: "Spea hammondii county:"San Diego" stateprovince:"California" country:"United States"" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "cyanocorax luxuosus" ; Times: 1
+	Query: "clyomys" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 166 download events in this period)
+Total number of records downloaded: 14936 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 13258
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 30
+	Country: Namibia ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 40
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-11 ; Times: 1
+	Date: 2014-10-13 ; Times: 2
+	Date: 2014-10-14 ; Times: 5
+	Date: 2014-10-16 ; Times: 2
+	Date: 2014-10-17 ; Times: 1
+	Date: 2014-10-18 ; Times: 1
+	Date: 2014-10-19 ; Times: 1
+	Date: 2014-10-20 ; Times: 5
+	Date: 2014-10-21 ; Times: 7
+	Date: 2014-10-22 ; Times: 15
+	Date: 2014-10-23 ; Times: 4
+	Date: 2014-10-24 ; Times: 7
+	Date: 2014-10-25 ; Times: 7
+	Date: 2014-10-27 ; Times: 9
+	Date: 2014-10-28 ; Times: 6
+	Date: 2014-10-29 ; Times: 3
+	Date: 2014-10-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis lupus mappable:1" ; Times: 1
+	Query: "class:Mammalia Martes pennanti" ; Times: 1
+	Query: "nasua narica mappable:1" ; Times: 1
+	Query: "Uroderma magnirostrum" ; Times: 1
+	Query: "Agama planiceps" ; Times: 1
+	Query: "type:specimen country:"cameroon" class:amphibia mappable:1" ; Times: 2
+	Query: "dipodomys (ethanol OR alcohol OR fluid OR spirit OR alcoholic OR alc OR al)" ; Times: 1
+	Query: "nasua narica country:"Mexico"" ; Times: 1
+	Query: "clemmys guttata" ; Times: 1
+	Query: "contopus tissue:1" ; Times: 2
+	Query: "nasua nasua mappable:1" ; Times: 1
+	Query: "Molossus molossus coibensis" ; Times: 2
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Zacatecas Mammalia" ; Times: 1
+	Query: "Psammomys" ; Times: 1
+	Query: "dendrortyx" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Chiropterotriton chiropterus" ; Times: 1
+	Query: "specificepithet:montezumae" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:rufa genus:Aplodontia" ; Times: 1
+	Query: "Lutjanus argentiventris" ; Times: 1
+	Query: "octodontidae" ; Times: 1
+	Query: "Sorex ornatus" ; Times: 1
+	Query: "Peromyscus simulus" ; Times: 1
+	Query: "Leptopelis calcaratus" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "type:specimen country:"kenya" class:amphibia mappable:1" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "Artibeus toltecus" ; Times: 1
+	Query: "malacochersus tornieri" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 2
+	Query: "Sardinops type:specimen" ; Times: 1
+	Query: "Sigmodon arizonae" ; Times: 1
+	Query: "type:specimen country:"south africa" class:amphibia mappable:1" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:purpureus genus:Carpodacus" ; Times: 2
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "thyroptera tricolor" ; Times: 1
+	Query: "MINDORO" ; Times: 1
+	Query: "Europe country:"France" mappable:1" ; Times: 1
+	Query: "Paraguay" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "type:specimen country:"congo" class:amphibia mappable:1" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Hodomys alleni" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "La Grulla" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 4
+	Query: "passer domesticus type:specimen" ; Times: 1
+	Query: "momotus" ; Times: 1
+	Query: "Alaska AND Kodiak type:specimen class:Aves" ; Times: 1
+	Query: "Dendrocincla" ; Times: 1
+	Query: "Liomys salvini" ; Times: 1
+	Query: "Didelphis Virginiana" ; Times: 1
+	Query: "Sigmodon mascotensis" ; Times: 1
+	Query: "Marmosa canescens" ; Times: 1
+	Query: "type:specimen country:"uganda" class:amphibia mappable:1" ; Times: 1
+	Query: "onychomys leucogaster" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "passer montanus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "pipilo maculatus" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Proechimys semispinosus" ; Times: 1
+	Query: "Molossus coibensis" ; Times: 1
+	Query: "rana muscosa" ; Times: 1
+	Query: "type:specimen country:"egypt" class:amphibia mappable:1" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "Sardina type:specimen" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 5083
+Total number of records retrieved from searches: 58157
+Number of download events that retrieved data from the resource: 1118
+Total number of records downloaded: 623716
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 5083
+Total number of records retrieved from searches: 58157
+Number of download events that retrieved data from the resource: 1356
+Total number of records downloaded: 797940
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
