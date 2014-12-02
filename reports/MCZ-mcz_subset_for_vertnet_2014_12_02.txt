@@ -1,0 +1,380 @@
+Report for Institution Code MCZ, Resource mcz_subset_for_vertnet
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 411
+Number of records retrieved in searches: 5540
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Costa Rica ; Times: 2
+	Country: Denmark ; Times: 5
+	Country: France ; Times: 3
+	Country: Germany ; Times: 66
+	Country: India ; Times: 3
+	Country: Ireland ; Times: 2
+	Country: Malaysia ; Times: 4
+	Country: Mexico ; Times: 40
+	Country: Netherlands ; Times: 1
+	Country: Paraguay ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 6
+	Country: Sweden ; Times: 5
+	Country: United Kingdom ; Times: 8
+	Country: United States ; Times: 233
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 1
+	Date: 2014-11-02 ; Times: 6
+	Date: 2014-11-03 ; Times: 14
+	Date: 2014-11-04 ; Times: 16
+	Date: 2014-11-05 ; Times: 22
+	Date: 2014-11-06 ; Times: 9
+	Date: 2014-11-07 ; Times: 5
+	Date: 2014-11-08 ; Times: 22
+	Date: 2014-11-09 ; Times: 8
+	Date: 2014-11-10 ; Times: 8
+	Date: 2014-11-11 ; Times: 12
+	Date: 2014-11-12 ; Times: 16
+	Date: 2014-11-13 ; Times: 9
+	Date: 2014-11-14 ; Times: 9
+	Date: 2014-11-15 ; Times: 7
+	Date: 2014-11-16 ; Times: 5
+	Date: 2014-11-17 ; Times: 12
+	Date: 2014-11-18 ; Times: 9
+	Date: 2014-11-19 ; Times: 10
+	Date: 2014-11-20 ; Times: 13
+	Date: 2014-11-21 ; Times: 31
+	Date: 2014-11-22 ; Times: 9
+	Date: 2014-11-23 ; Times: 4
+	Date: 2014-11-24 ; Times: 63
+	Date: 2014-11-25 ; Times: 30
+	Date: 2014-11-26 ; Times: 10
+	Date: 2014-11-27 ; Times: 13
+	Date: 2014-11-28 ; Times: 7
+	Date: 2014-11-29 ; Times: 14
+	Date: 2014-11-30 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera musculus type:specimen" ; Times: 2
+	Query: "galemys pyrenaicus" ; Times: 1
+	Query: "telmatobufo" ; Times: 1
+	Query: "specificepithet:maculata genus:Pisobia media:1" ; Times: 1
+	Query: "Sceloporus chaneyi" ; Times: 1
+	Query: "Amphisbaena varia" ; Times: 1
+	Query: "Lacerta vivipara" ; Times: 1
+	Query: "brehm type:specimen" ; Times: 1
+	Query: "Eretmochelys" ; Times: 1
+	Query: "country:"Thailand" genus:Oligodon" ; Times: 1
+	Query: "Abaco Chiroptera institutioncode:MCZ" ; Times: 1
+	Query: "Storeria dekayi Indiana" ; Times: 2
+	Query: "malacosteus azores-britain" ; Times: 2
+	Query: "lepophidium brevibarbe" ; Times: 1
+	Query: "epinephelus" ; Times: 2
+	Query: "Vulpes vulpes necator Vulpes vulpes necator AND (NOT patwin NOT cascadensis NOT ssp)" ; Times: 2
+	Query: "barbados" ; Times: 1
+	Query: "mesoplodon media:1" ; Times: 3
+	Query: "labeotropheus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Sceloporus megalepidurus" ; Times: 1
+	Query: "elaenia chiriquensis guyana" ; Times: 1
+	Query: "class:reptilia catalognumber:11766" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:lentiginosus genus:botaurus" ; Times: 1
+	Query: "perca fluviatilis" ; Times: 2
+	Query: "ambystoma cingulatum" ; Times: 2
+	Query: "imantodes splendidus" ; Times: 2
+	Query: "Vulpes vulpes necator AND (NOT patwin)" ; Times: 1
+	Query: "type:specimen stateprovince:"minnesota" (nest egg)" ; Times: 1
+	Query: "Necturus maculosus illinois" ; Times: 1
+	Query: "county:"barnes" stateprovince:"north dakota" class:mammalia" ; Times: 1
+	Query: "county:"Edgefield" stateprovince:"South Carolina" country:"United States" class:Amphibia" ; Times: 1
+	Query: "Cerdocyon thous country:"Colombia"" ; Times: 1
+	Query: "Eumeces laticeps" ; Times: 1
+	Query: "bitis media:1" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "(chaetodon auriga)" ; Times: 1
+	Query: "guatamala" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "python" ; Times: 3
+	Query: "Astyanax brevirhinus" ; Times: 1
+	Query: "Crocodylus niloticus Madagascar type:specimen tissue:1" ; Times: 1
+	Query: "country:"Sweden"" ; Times: 2
+	Query: "Micrurus elegans" ; Times: 12
+	Query: "Paraechinus" ; Times: 1
+	Query: "mellivora capensis" ; Times: 1
+	Query: "Fruhstorfer" ; Times: 2
+	Query: "sardinops" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 3
+	Query: "Inagua Chiroptera institutioncode:MCZ" ; Times: 1
+	Query: "phyllodactylus reissi" ; Times: 2
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "Ptychadena uzungwensis" ; Times: 1
+	Query: "coiba" ; Times: 2
+	Query: "larimus effulgens" ; Times: 1
+	Query: "Epicrates" ; Times: 5
+	Query: "geothlypis trichas country:"cuba"" ; Times: 1
+	Query: "todidae type:specimen" ; Times: 1
+	Query: "UMMZ Xantusia vigilis" ; Times: 1
+	Query: "malacochersus" ; Times: 1
+	Query: "vulpes ferrilata" ; Times: 5
+	Query: "lophiomys" ; Times: 1
+	Query: "suricata" ; Times: 1
+	Query: "stateprovince:"San Luis Potosi" genus:Chiropterotriton" ; Times: 1
+	Query: "hyla arborea" ; Times: 1
+	Query: "Chiroptera Tadarida (Abaco)" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "claudius angustatus" ; Times: 2
+	Query: "honey bees" ; Times: 2
+	Query: "New Providence Chiroptera institutioncode:MCZ" ; Times: 1
+	Query: "Vireo huttoni obscurus" ; Times: 1
+	Query: "Amphisbaena manni" ; Times: 1
+	Query: "Eunectes" ; Times: 3
+	Query: "Ptilorrhoa castanonota saturata" ; Times: 1
+	Query: "specificepithet:melanotos genus:Pisobia media:1" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "Crossodactylus schmidti" ; Times: 2
+	Query: "thyroptera discifera" ; Times: 1
+	Query: "specificepithet:barbatus genus:pseudancistrus" ; Times: 1
+	Query: "tarsius" ; Times: 2
+	Query: "Corallus" ; Times: 2
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "Calocitta formosa formosa tissue:1" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "Chilabothrus" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "class:Reptilia catalognumber:1755" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "labradorius" ; Times: 1
+	Query: "Tantilla bocourti" ; Times: 1
+	Query: "porosissima" ; Times: 1
+	Query: "country:"Panama" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "Microcebus murinus" ; Times: 1
+	Query: ""Chamaeleo chamaeleon" (Egypt)" ; Times: 1
+	Query: "Phalacrocorax auritus stateprovince:"Wisconsin"" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 3
+	Query: "todidae" ; Times: 1
+	Query: "Cardinalis cardinalis hastypestatus:1" ; Times: 1
+	Query: "anolis sagrei distance(location,geopoint(24.578764949598295,-81.7657470703125))<42774" ; Times: 9
+	Query: "MSB Crotalus viridis" ; Times: 1
+	Query: "class:Reptilia catalognumber:4127" ; Times: 1
+	Query: "vireo idaho" ; Times: 1
+	Query: "candoia bibroni" ; Times: 2
+	Query: "catalognumber:58500 institutioncode:MCZ" ; Times: 1
+	Query: "Tarsius bancanus" ; Times: 2
+	Query: "Phyllomyias uropygialis" ; Times: 1
+	Query: "amphisbaena brasiliana" ; Times: 1
+	Query: "country:"UK"" ; Times: 1
+	Query: "ptychadena porosissima" ; Times: 15
+	Query: "leptodeira frenata" ; Times: 2
+	Query: "distance(location,geopoint(39.0959629363055,-72.158203125))<100000" ; Times: 1
+	Query: "micropogonias undulatus" ; Times: 2
+	Query: ""dendrophryniscus brevipollicatus"" ; Times: 1
+	Query: ""Pinguinus impennis"" ; Times: 1
+	Query: "Herbarium" ; Times: 1
+	Query: "sceloporus carinatus" ; Times: 1
+	Query: "Epictia" ; Times: 1
+	Query: "Neusticurus apodemus" ; Times: 2
+	Query: "Canis lupus pallipes" ; Times: 1
+	Query: "Pseudobranchus axanthus" ; Times: 3
+	Query: ""credit river"" ; Times: 1
+	Query: "cyanocorax maya" ; Times: 1
+	Query: "BLB" ; Times: 1
+	Query: "MCZ Mamm 30555" ; Times: 2
+	Query: "MCZ Mamm 30554" ; Times: 1
+	Query: "ptychadena porosissima type:specimen mappable:1" ; Times: 1
+	Query: "MCZ Mamm 30556" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "MCZ Mamm 30553" ; Times: 1
+	Query: "Agelaius phoeniceus grinnelli" ; Times: 1
+	Query: "anthus nattereri" ; Times: 1
+	Query: "coluber flagellum" ; Times: 1
+	Query: "specificepithet:melanotos genus:Erolia media:1" ; Times: 2
+	Query: "canis lupus pallipes" ; Times: 1
+	Query: "Notropis blennius" ; Times: 1
+	Query: "elaenia flavogaster guyana" ; Times: 1
+	Query: "Sebastes" ; Times: 1
+	Query: "Sciurus carolinensis type:specimen mappable:1 tissue:1" ; Times: 2
+	Query: "Morelia" ; Times: 1
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "Abaco Erophylla institutioncode:MCZ" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 2
+	Query: "Greenwich" ; Times: 1
+	Query: "anolis sagrei distance(location,geopoint(25.806485337547656,-80.13427734375))<100000" ; Times: 1
+	Query: "cardinalis cardinalis stateprovince:"Ohio" media:1" ; Times: 1
+	Query: "Tropidophis" ; Times: 2
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "drymarchon couperi" ; Times: 1
+	Query: "Sceloporus goldmani" ; Times: 1
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "Sceloporus jalapae" ; Times: 2
+	Query: "Icterus abeillei" ; Times: 1
+	Query: "Loxia curvirostra Connecticut" ; Times: 1
+	Query: "Nanorana" ; Times: 2
+	Query: "Terpsiphone atrocaudata illex" ; Times: 1
+	Query: "xenosaurus rackhami" ; Times: 1
+	Query: "ptychadena loveridgei hastypestatus:1" ; Times: 1
+	Query: "Madagascar Crocodylus niloticus type:specimen tissue:1" ; Times: 1
+	Query: "rhadinaea decorata" ; Times: 2
+	Query: "pitta anerythra" ; Times: 1
+	Query: "specificepithet:gundlachi genus:Anolis institutioncode:mcz" ; Times: 1
+	Query: "Hypsiglena tissue:1" ; Times: 1
+	Query: "stateprovince:"Nuevo Leon" genus:Chiropterotriton" ; Times: 1
+	Query: "country:"ecuador" genus:Cynomops" ; Times: 1
+	Query: "ptychadena (Angola) hastypestatus:1" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Nyctiellus lepidus institutioncode:MCZ" ; Times: 1
+	Query: "Pimelodus ornatus" ; Times: 1
+	Query: "phyllodactylus reissii" ; Times: 5
+	Query: "ives lake" ; Times: 1
+	Query: "crotalus scutalatus" ; Times: 1
+	Query: "trachylepis" ; Times: 2
+	Query: "aplonis feadensis" ; Times: 4
+	Query: "Poospiza garleppi" ; Times: 1
+	Query: "Nepal (euroscaptor OR talpa)" ; Times: 1
+	Query: "specificepithet:deserticola genus:salvadora" ; Times: 1
+	Query: "tropidodipsas fasciata" ; Times: 1
+	Query: "Chaetodon auriga" ; Times: 1
+	Query: "Amphisbaena cubana" ; Times: 1
+	Query: "canis lupus chanco" ; Times: 1
+	Query: "MCZ Mamm 30557" ; Times: 1
+	Query: "mandrillus sphinx" ; Times: 1
+	Query: "county:"Aiken" stateprovince:"South Carolina" country:"United States" class:Reptilia" ; Times: 1
+	Query: "alligator sinensis" ; Times: 1
+	Query: "Microtus pennsylvanicus provectus" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 1
+	Query: "Holacanthus clarionensis" ; Times: 3
+	Query: "Prunella himalayana" ; Times: 1
+	Query: "country:"Ecuador" genus:Cynomops" ; Times: 4
+	Query: "eumeces schneideri" ; Times: 1
+	Query: "Vulpes vulpes necator Vulpes vulpes necator AND (NOT patwin)" ; Times: 1
+	Query: "genus:scutisorex" ; Times: 1
+	Query: "solenodon" ; Times: 2
+	Query: "Galemys pyrenaicus" ; Times: 3
+	Query: "gymnophthalmus speciosus" ; Times: 1
+	Query: "ptychadena hastypestatus:1" ; Times: 1
+	Query: "stateprovince:"Darien" country:"Panama" specificepithet:lansbergii genus:Bothrops" ; Times: 1
+	Query: "Phalacrocorax auritus stateprovince:"Minnesota"" ; Times: 1
+	Query: "specificepithet:auropunctatus genus:Herpestes" ; Times: 1
+	Query: "county:"Fresno" genus:Thamnophis" ; Times: 2
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "stateprovince:"Tamaulipas" genus:Chiropterotriton" ; Times: 1
+	Query: ""Xenopus laevis" type:specimen tissue:1" ; Times: 1
+	Query: "fundulus luciae Massachusetts" ; Times: 1
+	Query: "Tribolonotus ponceleti" ; Times: 4
+	Query: "chalarodon" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "Petromyzon marinus michigan" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "alabama "aneides aeneus"" ; Times: 1
+	Query: "stateprovince:"Alaska" specificepithet:borealis genus:Phylloscopus class:Aves" ; Times: 2
+	Query: "Amphisbaena barbouri" ; Times: 1
+	Query: "Boa constrictor" ; Times: 4
+	Query: "pipra filicauda" ; Times: 1
+	Query: "cerdocyon thous country:"Colombia"" ; Times: 1
+	Query: "dolphin" ; Times: 1
+	Query: "ptychadena porosissima type:specimen" ; Times: 1
+	Query: "Aspidites" ; Times: 1
+	Query: "rafetus euphraticus" ; Times: 8
+	Query: "Amphisbaena innocens" ; Times: 1
+	Query: "chionactis palarostris" ; Times: 1
+	Query: "tarsius bancanus type:specimen" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "Pitta anerythra" ; Times: 2
+	Query: "vireo griseus stateprovince:"Florida"" ; Times: 1
+	Query: ""crotalus adamanteus" type:specimen mappable:1" ; Times: 1
+	Query: "institutioncode:mcz" ; Times: 2
+	Query: "diadophis regalis" ; Times: 1
+	Query: "moloch" ; Times: 1
+	Query: "potamogale" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1 tissue:1" ; Times: 1
+	Query: "class:Reptilia catalognumber:1756" ; Times: 1
+	Query: "phyllodactylus interandinus" ; Times: 2
+	Query: "Cryptotis nelsoni" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "canadian lynx" ; Times: 1
+	Query: "specificepithet:melanotos genus:Calidris media:1" ; Times: 1
+	Query: "Typhlonectidae" ; Times: 1
+	Query: "Ambystoma maculatum cook county" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "guy 05" ; Times: 1
+	Query: "Amphisbaena hyporissor" ; Times: 2
+	Query: "stateprovince:"Herrera" country:"Panama" class:Reptilia" ; Times: 2
+	Query: "TACHYMENIS" ; Times: 1
+	Query: "aves brehm" ; Times: 1
+	Query: "zanclus cornutus" ; Times: 1
+	Query: "country:"Liberia" genus:Agama" ; Times: 1
+	Query: "morphnus" ; Times: 1
+	Query: "Albatross" ; Times: 1
+	Query: "Sceloporus samcolemani" ; Times: 1
+	Query: "cobia" ; Times: 1
+	Query: "ogmodon vitianus" ; Times: 1
+	Query: "type:specimen genus:lynx (hair) tissue:1" ; Times: 1
+	Query: "malacosteus niger" ; Times: 1
+	Query: "class:Reptilia catalognumber:1754" ; Times: 1
+	Query: "NASUA type:specimen country:"ECUADOR"" ; Times: 2
+	Query: "hypogeomys" ; Times: 1
+	Query: "Chamaeleo chamaeleon (Israel)" ; Times: 2
+	Query: "Smithornis rufolateralis budongoensis" ; Times: 1
+	Query: ""Palomar Mountain" class:Amphibia" ; Times: 1
+	Query: "Ceyx fallax" ; Times: 1
+	Query: "elaenia ruficeps" ; Times: 1
+	Query: "Rana wittei" ; Times: 1
+	Query: "clupea" ; Times: 1
+	Query: "xenopus laevis mappable:1 tissue:1" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 2
+	Query: "Chiroptera Griffin (Bahama OR Bahamas)" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:exilis genus:ixobrychus" ; Times: 1
+	Query: "PSM AND 8969" ; Times: 2
+	Query: "masticophis flagellum testaceus" ; Times: 1
+	Query: "specificepithet:vertebralis genus:Pituophis" ; Times: 1
+	Query: "Liasis" ; Times: 1
+	Query: "genus:Hypsiglena tissue:1" ; Times: 1
+	Query: "rana porosissima" ; Times: 1
+	Query: "Vireo gilvus victoriae" ; Times: 1
+	Query: "Vulpes vulpes necator Vulpes vulpes necator AND (NOT patwin NOT cascadensis)" ; Times: 1
+	Query: "Sapayoa aenigma" ; Times: 4
+	Query: "Vulpes vulpes necator" ; Times: 1
+	Query: "Xenosaurus rackhami" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 5494
+Total number of records retrieved from searches: 63697
+Number of download events that retrieved data from the resource: 1118
+Total number of records downloaded: 623716
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 5494
+Total number of records retrieved from searches: 63697
+Number of download events that retrieved data from the resource: 1356
+Total number of records downloaded: 797940
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
