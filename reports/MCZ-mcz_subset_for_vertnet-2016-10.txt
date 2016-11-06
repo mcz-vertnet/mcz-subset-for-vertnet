@@ -1,0 +1,217 @@
+Report for Institution Code MCZ, Resource mcz_subset_for_vertnet
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 192
+Number of records retrieved in searches: 12852
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Netherlands ; Times: 17
+	Country: Portugal ; Times: 30
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 8
+	Country: United States ; Times: 49
+	Country: Colombia ; Times: 67
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-19 ; Times: 5
+	Date: 2016-10-31 ; Times: 16
+	Date: 2016-10-30 ; Times: 2
+	Date: 2016-10-15 ; Times: 1
+	Date: 2016-10-14 ; Times: 1
+	Date: 2016-10-17 ; Times: 3
+	Date: 2016-10-16 ; Times: 2
+	Date: 2016-10-11 ; Times: 4
+	Date: 2016-10-10 ; Times: 5
+	Date: 2016-10-13 ; Times: 1
+	Date: 2016-10-12 ; Times: 2
+	Date: 2016-10-26 ; Times: 7
+	Date: 2016-10-27 ; Times: 1
+	Date: 2016-10-20 ; Times: 2
+	Date: 2016-10-21 ; Times: 2
+	Date: 2016-10-24 ; Times: 7
+	Date: 2016-10-08 ; Times: 2
+	Date: 2016-10-09 ; Times: 22
+	Date: 2016-10-06 ; Times: 2
+	Date: 2016-10-07 ; Times: 4
+	Date: 2016-10-04 ; Times: 10
+	Date: 2016-10-05 ; Times: 10
+	Date: 2016-10-02 ; Times: 22
+	Date: 2016-10-03 ; Times: 37
+	Date: 2016-10-01 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: " Anolis cristifer 1" ; Times: 1
+	Query: "Pulsatrix melanota " ; Times: 1
+	Query: "Aratinga holochlora 1" ; Times: 1
+	Query: "Thryothorus euophrys " ; Times: 1
+	Query: "specificepithet:semicinctus genus:Halichoeres mappable:1" ; Times: 1
+	Query: " Ursus americanus 1" ; Times: 2
+	Query: " Anolis mariarum 1" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: " Anolis fraseri 1" ; Times: 1
+	Query: "Anas poecilorhyncha 1" ; Times: 1
+	Query: "Bufo mauritanicus 1" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus mappable:1" ; Times: 1
+	Query: " Brachyteles arachnoides 1" ; Times: 1
+	Query: " Anolis huilae 1" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus mappable:1" ; Times: 1
+	Query: " Anolis crassulus haguei 1" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 2
+	Query: "Poephila guttata 1" ; Times: 1
+	Query: "Picumnus lafresnayi " ; Times: 1
+	Query: " Anolis nigropunctatus 1" ; Times: 1
+	Query: "specificepithet:histrio genus:Scorpaena mappable:1" ; Times: 1
+	Query: "specificepithet:carcharias genus:Carcharodon mappable:1" ; Times: 1
+	Query: "Anas americana 1" ; Times: 1
+	Query: "Megastictus margaritatus" ; Times: 1
+	Query: "Euplectes afer 1" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 1
+	Query: " Anolis desechensis 1" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+	Query: " Anolis chocorum 1" ; Times: 2
+	Query: " Anolis lemurinus 1" ; Times: 1
+	Query: " Anolis gracilipes 1" ; Times: 1
+	Query: " Anolis limifrons 1" ; Times: 1
+	Query: " Cebus nigritus 1" ; Times: 1
+	Query: "Lacerta dugesii 1" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 3
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: " Anolis centralis 1" ; Times: 1
+	Query: "Anser cygnoides 1" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: " Anolis altae 1" ; Times: 1
+	Query: " Anolis auratus 1" ; Times: 1
+	Query: "Triturus alpestris 1" ; Times: 1
+	Query: " Callicebus donacophilus 1" ; Times: 1
+	Query: "specificepithet:lepturus genus:Trichiurus mappable:1" ; Times: 1
+	Query: "Anolis auratus 1" ; Times: 1
+	Query: "zombie" ; Times: 2
+	Query: "Lophotriccus vitiosus " ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: " Anolis anchicayae 1" ; Times: 1
+	Query: "Columba guinea 1" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia mappable:1" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 2
+	Query: " Anolis tropidogaster 1" ; Times: 1
+	Query: "Parvimolge townsendi" ; Times: 1
+	Query: " Anolis chloris 1" ; Times: 1
+	Query: " Anolis elegans 1" ; Times: 1
+	Query: " Anolis limon 1" ; Times: 1
+	Query: "Anolis humilis 1" ; Times: 1
+	Query: "Anolis cristatellus 1" ; Times: 3
+	Query: " Anolis capito 1" ; Times: 1
+	Query: "Nyctereutes procyonoides mappable:0" ; Times: 1
+	Query: " Anolis bitectus 1" ; Times: 1
+	Query: "Carcharodon carcharias mappable:1" ; Times: 3
+	Query: "specificepithet:approximans genus:Polydactylus mappable:1" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 1
+	Query: "Nandayus nenday 1" ; Times: 1
+	Query: "Nyctereutes procyonoides " ; Times: 2
+	Query: " Anolis frenatus 1" ; Times: 3
+	Query: " Alouatta ululata 1" ; Times: 1
+	Query: " Nyctereutes procyonoides" ; Times: 2
+	Query: " Oncorhynchus clarki henshawi" ; Times: 27
+	Query: "Anolis nebulosus 1" ; Times: 1
+	Query: "Chrysemys picta 1" ; Times: 1
+	Query: "specificepithet:nigromaculatus genus:Pomoxis mappable:1" ; Times: 1
+	Query: "Geositta saxicolina " ; Times: 1
+	Query: " Anolis monteverde 1" ; Times: 2
+	Query: "Stefania evansi " ; Times: 1
+	Query: "Coturnix japonica 1" ; Times: 1
+	Query: "specificepithet:cyanops genus:Caulolatilus mappable:1" ; Times: 1
+	Query: "Testudo marginata 1" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus mappable:1" ; Times: 1
+	Query: " Anolis brasiliensis 1" ; Times: 1
+	Query: "Rana catesbeiana 1" ; Times: 1
+	Query: "specificepithet:parvus genus:Sphoeroides mappable:1" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 6
+	Query: "Scinax staufferi" ; Times: 2
+	Query: " Anolis medemi 1" ; Times: 1
+	Query: " Anolis maculigula 1" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: " Anolis taylori 1" ; Times: 1
+	Query: " Anolis tropidolepis 1" ; Times: 1
+	Query: "Numida meleagris 1" ; Times: 1
+	Query: "specificepithet:mordax genus:Engraulis mappable:1" ; Times: 1
+	Query: " Anolis liogaster 1" ; Times: 1
+	Query: " Anolis vaupesianus 1" ; Times: 1
+	Query: "Anas formosa 1" ; Times: 1
+	Query: "specificepithet:thoburni genus:Xenomugil mappable:1" ; Times: 1
+	Query: "Tlalocohyla picta" ; Times: 2
+	Query: " Anolis intermedius 1" ; Times: 1
+	Query: "Uraeginthus bengalus 1" ; Times: 1
+	Query: "Aratinga mitrata 1" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 1
+	Query: " Anolis apletophallus 1" ; Times: 1
+	Query: "Anolis fuscoauratus 1" ; Times: 2
+	Query: " Anolis scapularis 1" ; Times: 1
+	Query: " Anolis santamartae 1" ; Times: 1
+	Query: "Anolis tropidonotus 1" ; Times: 1
+	Query: " Nyctereutes procyonoides 1" ; Times: 3
+	Query: "Galbalcyrhynchus purusianus " ; Times: 1
+	Query: "specificepithet:belone genus:Belone mappable:1" ; Times: 1
+	Query: " Anolis allisoni 1" ; Times: 1
+	Query: "specificepithet:zonatus genus:Chaetodipterus mappable:1" ; Times: 1
+	Query: "Lithobates catesbeianus 1" ; Times: 1
+	Query: " Anolis lemniscatus 1" ; Times: 1
+	Query: "Aquila rapax 1" ; Times: 1
+	Query: "Anolis carolinensis 1" ; Times: 2
+	Query: " Anolis aequatorialis 1" ; Times: 5
+	Query: "Psittacula krameri 1" ; Times: 1
+	Query: "Anolis limifrons 1" ; Times: 2
+	Query: "Anolis sagrei 1" ; Times: 2
+	Query: " Alouatta macconnelli 1" ; Times: 1
+	Query: " Anolis ventrimaculatus 1" ; Times: 1
+	Query: " Anolis fuscoauratus 1" ; Times: 1
+	Query: " Alouatta belzebul 1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 106 (out of 203 download events in this period)
+Total number of records downloaded: 9540
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Netherlands ; Times: 92
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-19 ; Times: 2
+	Date: 2016-10-18 ; Times: 3
+	Date: 2016-10-31 ; Times: 1
+	Date: 2016-10-30 ; Times: 3
+	Date: 2016-10-15 ; Times: 2
+	Date: 2016-10-14 ; Times: 4
+	Date: 2016-10-17 ; Times: 3
+	Date: 2016-10-16 ; Times: 3
+	Date: 2016-10-11 ; Times: 13
+	Date: 2016-10-13 ; Times: 8
+	Date: 2016-10-12 ; Times: 1
+	Date: 2016-10-08 ; Times: 4
+	Date: 2016-10-06 ; Times: 2
+	Date: 2016-10-29 ; Times: 3
+	Date: 2016-10-20 ; Times: 5
+	Date: 2016-10-22 ; Times: 2
+	Date: 2016-10-23 ; Times: 12
+	Date: 2016-10-24 ; Times: 5
+	Date: 2016-10-25 ; Times: 5
+	Date: 2016-10-26 ; Times: 3
+	Date: 2016-10-27 ; Times: 2
+	Date: 2016-10-28 ; Times: 2
+	Date: 2016-10-07 ; Times: 3
+	Date: 2016-10-04 ; Times: 8
+	Date: 2016-10-05 ; Times: 4
+	Date: 2016-10-02 ; Times: 2
+	Date: 2016-10-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 106
+
+
+End of report.
