@@ -1,0 +1,2731 @@
+Report for Institution Code MCZ, Resource mcz_subset_for_vertnet
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3792
+Number of records retrieved in searches: 46014
+Number of different countries where searches have been originated: 63
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 23
+	Country: Brazil ; Times: 133
+	Country: Qatar ; Times: 3
+	Country: Peru ; Times: 12
+	Country: Unknown ; Times: 47
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 4
+	Country: France ; Times: 108
+	Country: Slovakia ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Argentina ; Times: 22
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 7
+	Country: Australia ; Times: 26
+	Country: Singapore ; Times: 1
+	Country: El Salvador ; Times: 2
+	Country: Norway ; Times: 4
+	Country: Japan ; Times: 57
+	Country: Czechia ; Times: 1
+	Country: Austria ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 26
+	Country: Chile ; Times: 1
+	Country: Puerto Rico ; Times: 5
+	Country: Belgium ; Times: 9
+	Country: Thailand ; Times: 2
+	Country: Dominican Republic ; Times: 18
+	Country: Iraq ; Times: 3
+	Country: Philippines ; Times: 3
+	Country: Dominica ; Times: 3
+	Country: Ukraine ; Times: 2
+	Country: Netherlands ; Times: 29
+	Country: Denmark ; Times: 8
+	Country: Poland ; Times: 2
+	Country: Indonesia ; Times: 2
+	Country: Turkey ; Times: 2
+	Country: United States ; Times: 2742
+	Country: Sweden ; Times: 29
+	Country: Vietnam ; Times: 7
+	Country: French Guiana ; Times: 9
+	Country: South Korea ; Times: 3
+	Country: Finland ; Times: 3
+	Country: Guyana ; Times: 1
+	Country: Switzerland ; Times: 4
+	Country: Guadeloupe ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Romania ; Times: 2
+	Country: Honduras ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Uruguay ; Times: 12
+	Country: Egypt ; Times: 1
+	Country: Mexico ; Times: 181
+	Country: India ; Times: 16
+	Country: South Africa ; Times: 16
+	Country: United Kingdom ; Times: 133
+	Country: Malaysia ; Times: 1
+	Country: Senegal ; Times: 2
+	Country: China ; Times: 1
+	Country: Spain ; Times: 22
+	Country: Colombia ; Times: 18
+	Country: Paraguay ; Times: 7
+	Country: Croatia ; Times: 2
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 375
+	Date: 2020-02-23 ; Times: 71
+	Date: 2020-02-02 ; Times: 156
+	Date: 2020-02-03 ; Times: 270
+	Date: 2020-02-26 ; Times: 127
+	Date: 2020-02-01 ; Times: 133
+	Date: 2020-02-20 ; Times: 208
+	Date: 2020-02-21 ; Times: 143
+	Date: 2020-02-22 ; Times: 26
+	Date: 2020-02-05 ; Times: 279
+	Date: 2020-02-08 ; Times: 42
+	Date: 2020-02-09 ; Times: 114
+	Date: 2020-02-28 ; Times: 131
+	Date: 2020-02-29 ; Times: 44
+	Date: 2020-02-11 ; Times: 162
+	Date: 2020-02-10 ; Times: 135
+	Date: 2020-02-13 ; Times: 100
+	Date: 2020-02-12 ; Times: 113
+	Date: 2020-02-15 ; Times: 48
+	Date: 2020-02-14 ; Times: 110
+	Date: 2020-02-17 ; Times: 115
+	Date: 2020-02-16 ; Times: 53
+	Date: 2020-02-19 ; Times: 90
+	Date: 2020-02-18 ; Times: 129
+	Date: 2020-02-24 ; Times: 142
+	Date: 2020-02-25 ; Times: 64
+	Date: 2020-02-27 ; Times: 156
+	Date: 2020-02-06 ; Times: 159
+	Date: 2020-02-07 ; Times: 97
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen institutioncode:MCZ" ; Times: 10
+	Query: "terraenovae specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "muhlenbergii stateprovince:&#34;pennsylvania&#34;" ; Times: 3
+	Query: "220092" ; Times: 1
+	Query: "specificepithet:ramsdeni genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "accipiter rufitorques vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "oceanodroma hornbyi" ; Times: 2
+	Query: "accipiter rhodogaster vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 3
+	Query: "Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "scincus scincus" ; Times: 1
+	Query: "Sphaerodactylus elasmorhynchus" ; Times: 1
+	Query: "(dermoptera java)" ; Times: 5
+	Query: "specificepithet:sicula genus:podarcis" ; Times: 2
+	Query: "Athene blewitti" ; Times: 1
+	Query: "Bothrops coiba" ; Times: 1
+	Query: "241456" ; Times: 1
+	Query: "coleonyx elegans" ; Times: 1
+	Query: "specificepithet:smithi genus:Gekko country:&#34;indonesia&#34;" ; Times: 1
+	Query: "genus:pithecia institutioncode:MCZ" ; Times: 4
+	Query: "siren intermedia georgia" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 5
+	Query: "tremarctos ornatus" ; Times: 8
+	Query: "specificepithet:meridionalis genus:Coleodactylus institutioncode:MCZ" ; Times: 1
+	Query: "catalognumber:211687" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "specificepithet:caglei genus:graptemys" ; Times: 2
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:MCZ" ; Times: 1
+	Query: "scientificname:Parupeneus margaritatus mappable:1" ; Times: 1
+	Query: "specificepithet:amarali genus:Gymnodactylus institutioncode:MCZ" ; Times: 1
+	Query: "128589" ; Times: 1
+	Query: "253952" ; Times: 1
+	Query: "Glyphoglossus molossus" ; Times: 1
+	Query: "spilogale putorius" ; Times: 3
+	Query: "specificepithet:imperialis genus:Campephilus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "specificepithet:truncatus genus:chlamyphorus" ; Times: 1
+	Query: "Chrysobatrachus" ; Times: 1
+	Query: "Thomasomys aureus" ; Times: 1
+	Query: "perdix genus:Brachyramphus class:aves year &gt;= 1908 year &lt;= 1910" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rufolavatus genus:tachybaptus" ; Times: 2
+	Query: "alvarez del toro miguel" ; Times: 6
+	Query: "Argyrogena fasciolata" ; Times: 2
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Cottus gobio" ; Times: 1
+	Query: "vntype:specimen specificepithet:haje genus:naja" ; Times: 1
+	Query: "Royal ontario museum" ; Times: 1
+	Query: "Haemulon bonariense mappable:1" ; Times: 1
+	Query: "specificepithet:ruthveni genus:Lepidoblepharis institutioncode:MCZ" ; Times: 1
+	Query: "Aneides flavipunctatus niger year &gt;= 1970 year &lt;= 1990" ; Times: 1
+	Query: "Mauremys rivulata" ; Times: 1
+	Query: "&#34;Erethizon Dorsatum&#34;" ; Times: 2
+	Query: "MCZ 190836" ; Times: 1
+	Query: "specificepithet:microlepis genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Sphaerodactylus dacnicolor" ; Times: 1
+	Query: "247462" ; Times: 1
+	Query: "asaccus" ; Times: 2
+	Query: "Chondrohierax wilsonii" ; Times: 2
+	Query: "Gehyra Kinchega" ; Times: 5
+	Query: "Elephantidae" ; Times: 1
+	Query: "specificepithet:elegantulus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "(Lithobates ) hastypestatus:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:magister genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:crucifer genus:Pristurus institutioncode:MCZ" ; Times: 1
+	Query: "genus:Neacomys (Panama OR Colombia OR Venezuela)" ; Times: 1
+	Query: "specificepithet:expectatus genus:Aristelliger institutioncode:MCZ" ; Times: 1
+	Query: "Kaloula mediolineata" ; Times: 1
+	Query: "genus:Anaxyrus (boreas halophilus)" ; Times: 1
+	Query: "stateprovince:&#34;Scotland&#34;" ; Times: 1
+	Query: "catalognumber:242634 institutioncode:MCZ" ; Times: 1
+	Query: "Potamogale velox" ; Times: 2
+	Query: "278489" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 1
+	Query: "specificepithet:underwoodi genus:Homonota institutioncode:MCZ" ; Times: 1
+	Query: "Centropomus pectinatus mappable:1" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 3
+	Query: "specificepithet:interruptus genus:Archoplites stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "70808" ; Times: 1
+	Query: "160145" ; Times: 1
+	Query: "dendroica kirtlandii bahamas" ; Times: 1
+	Query: "Emydoidea" ; Times: 1
+	Query: "Eucinostomus gula mappable:1" ; Times: 1
+	Query: "243161" ; Times: 1
+	Query: "vntype:specimen genus:Fratercula family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:cristatus genus:tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "genus:Breviceps country:&#34;Zimbabwe&#34; year &gt;= 1990" ; Times: 1
+	Query: "Phyllopezus periosus" ; Times: 2
+	Query: "genus:Trachemys county:&#34;Obion&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "scientificname:(Richardsonius balteatus hydrophlox) country:United States mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironius exoletus " ; Times: 2
+	Query: "Thraupis bonariensis" ; Times: 2
+	Query: "mammalian" ; Times: 2
+	Query: "Lampichthys procerus" ; Times: 1
+	Query: "278665" ; Times: 1
+	Query: "275435" ; Times: 1
+	Query: "&#34;Galeopterus variegatus&#34;" ; Times: 2
+	Query: "&#34;hyaenidae&#34;" ; Times: 1
+	Query: "dolphin" ; Times: 1
+	Query: "specificepithet:corticola genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "263772" ; Times: 1
+	Query: "263775" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "mauligobius" ; Times: 1
+	Query: "cheetah" ; Times: 2
+	Query: "&#34;acinonyx jubatus&#34;" ; Times: 1
+	Query: "scientificname:Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "specificepithet:sabrinus genus:glaucomys county:&#34;essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:cubatyphlops country:&#34;cuba&#34;" ; Times: 1
+	Query: "myotis oxyotus" ; Times: 6
+	Query: "&#34;Didelphis virginiana&#34;" ; Times: 9
+	Query: "spinifera texas" ; Times: 4
+	Query: "Schag" ; Times: 3
+	Query: "242092" ; Times: 1
+	Query: "Astrapia rothschildi" ; Times: 1
+	Query: "class:Amphibia locality:Zamora Chinchipe country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 2
+	Query: "country:Ecuador scientificname:Chironius fuscus " ; Times: 1
+	Query: "country:Ecuador scientificname:Akodon aerosus " ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 2
+	Query: "Anolis vntype:specimen hastissue:1" ; Times: 1
+	Query: "Phalacrocorax perspicillatus" ; Times: 5
+	Query: "scientificname:(Gila nigrescens) country:United States mappable:1" ; Times: 1
+	Query: "Sparisoma atomarium mappable:1" ; Times: 1
+	Query: "specificepithet:transversalis genus:Anolis" ; Times: 1
+	Query: "scientificname:Parupeneus chrysonemus mappable:1" ; Times: 1
+	Query: "Lampadena notialis" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; collectioncode:ORN" ; Times: 1
+	Query: "AMNH 1342" ; Times: 1
+	Query: "&#34;Felis catus&#34;" ; Times: 1
+	Query: "specificepithet:volans genus:glaucomys stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Lycogrammoides" ; Times: 1
+	Query: "UTEP" ; Times: 1
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 23
+	Query: "plethodontohyla alluaudi" ; Times: 1
+	Query: "catalognumber:38938 institutioncode:MCZ" ; Times: 1
+	Query: "vntype:specimen family:dicaeidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "vntype:specimen class:aves county:&#34;clackamas&#34; stateprovince:&#34;oregon&#34; country:&#34;United States&#34; recordedby:alex walker" ; Times: 1
+	Query: "mcz 265898" ; Times: 1
+	Query: "110015" ; Times: 1
+	Query: "Rhacophorus nigropalmatus" ; Times: 3
+	Query: "genus:varanus lifestage:adult preparations:skeleton" ; Times: 1
+	Query: "mcz 265897" ; Times: 1
+	Query: "217680" ; Times: 1
+	Query: "institutioncode:mcz" ; Times: 1
+	Query: "genus:nerodia county:&#34;burnet&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Pomadasys corvinaeformis mappable:1" ; Times: 1
+	Query: "pycnonotus jocosus Asia" ; Times: 2
+	Query: "spilogale" ; Times: 3
+	Query: "7526" ; Times: 1
+	Query: "Cynoscion jamaicensis mappable:1" ; Times: 1
+	Query: "Dendrohyrax" ; Times: 4
+	Query: "Vireo huttoni riverside" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus county:&#34;baldwin&#34; stateprovince:&#34;georgia&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 4
+	Query: "297172" ; Times: 1
+	Query: "clarkii Catostomus" ; Times: 1
+	Query: "Monachus schauinslandi" ; Times: 1
+	Query: "specificepithet:callocricus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Gymnoscopelus hintonoides" ; Times: 1
+	Query: "sanctonum" ; Times: 1
+	Query: "circaetus gallicus vntype:specimen continent:africa year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:monileger genus:Ficedula" ; Times: 2
+	Query: "scientificname:Mullus barbatus ponticus mappable:1" ; Times: 1
+	Query: "Haemulon striatum mappable:1" ; Times: 1
+	Query: "scientificname:(Exoglossum laurae) country:United States mappable:1" ; Times: 1
+	Query: "dermoptera (West Java )" ; Times: 1
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "pellorneum oreum" ; Times: 2
+	Query: "specificepithet:psittacula genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:flavogaster genus:Elaenia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Hypanus say mappable:1" ; Times: 1
+	Query: "Amazilia viridifrons" ; Times: 2
+	Query: "genus:Rana county:&#34;Fresno&#34;" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "172160" ; Times: 1
+	Query: "specificepithet:nicholsi genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "oligodon albocinctus" ; Times: 2
+	Query: "country:Ecuador scientificname:Thomasomys paramorum " ; Times: 1
+	Query: "16240" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:lithobates year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:MCZ" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "specificepithet:tapajonicus genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "vntype:specimen class:aves county:&#34;clackamas&#34; stateprovince:&#34;oregon&#34; country:&#34;United States&#34; recordedby:a. walker" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "crotalus willardi" ; Times: 4
+	Query: "Eleutherodactylus thorectes" ; Times: 5
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Antilocapra americana basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;spilogale putoris&#34;" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "Acris blanchardi" ; Times: 1
+	Query: "leptodon vntype:specimen country:&#34;brazil&#34; year &lt;= 2020" ; Times: 1
+	Query: "opheodrys vernalis west Virginia" ; Times: 1
+	Query: "liophis" ; Times: 1
+	Query: "Ulaema lefroyi mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;India&#34; continent:Asia" ; Times: 1
+	Query: "loxodon" ; Times: 1
+	Query: "vntype:specimen genus:Trichothraupis class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "gargarizans Bufo" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 2
+	Query: "genus:kerodon" ; Times: 2
+	Query: "Oceanodroma leucorhoa socorroensis" ; Times: 1
+	Query: "specificepithet:pulcher genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "(&#34;Dasypus novemcinctus&#34;)" ; Times: 1
+	Query: "specificepithet:streptophorus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "eirenis decemlineata" ; Times: 1
+	Query: "country:Ecuador scientificname:Pholidobolus macbrydei " ; Times: 1
+	Query: "country:Peru scientificname:Phyllomedusa tomopterna " ; Times: 1
+	Query: "specificepithet:pollicaris genus:Phyllopezus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:sicula genus:podarcis recordedby:colin donihue" ; Times: 2
+	Query: "sulcatus" ; Times: 2
+	Query: "Haemulon macrostomum mappable:1" ; Times: 1
+	Query: "Pernis celebensis vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 4
+	Query: "CM ocreatus" ; Times: 1
+	Query: "TREMARCTOS ORNATUS" ; Times: 2
+	Query: "genus:gonatodes stateprovince:&#34;meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "catalognumber:27972 institutioncode:MCZ" ; Times: 1
+	Query: "15700" ; Times: 1
+	Query: "specificepithet:argivus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Melanostigma" ; Times: 1
+	Query: "&#34;thamnophis sirtalis tetrataenia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:mossambica genus:naja" ; Times: 1
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Trinidad and tobago&#34;" ; Times: 1
+	Query: "class:aves locality:kolyma recordedby:buturlin" ; Times: 1
+	Query: "JR-18 Pituophis catenifer" ; Times: 1
+	Query: "Meliphaga fusca flavescens" ; Times: 1
+	Query: "catalognumber:323299 institutioncode:MCZ" ; Times: 2
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "251327" ; Times: 1
+	Query: "15-1013-9" ; Times: 2
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 5
+	Query: "Eucinostomus harengulus mappable:1" ; Times: 1
+	Query: "Foulehaio Samoa" ; Times: 1
+	Query: "specificepithet:marmoratus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1866 year &lt;= 1866" ; Times: 1
+	Query: "specificepithet:cochranae genus:Aristelliger institutioncode:MCZ" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+	Query: "country:Ecuador scientificname:Cebus capucinus " ; Times: 3
+	Query: "Rivulus montium" ; Times: 1
+	Query: "242421" ; Times: 1
+	Query: "Bonapartia pedaliota" ; Times: 1
+	Query: "oedipina complex" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "sonora semiannulata" ; Times: 1
+	Query: "TREMARCTOS &#34;ORNATUS&#34;" ; Times: 1
+	Query: "Lucifuga subterranea" ; Times: 2
+	Query: "87329" ; Times: 1
+	Query: "Dipsas indica ecuador" ; Times: 1
+	Query: "&#34;Cyanolimnas cerverai&#34;" ; Times: 4
+	Query: "country:Ecuador scientificname:Anolis transversalis " ; Times: 1
+	Query: "Lampropeltis elapsoides" ; Times: 1
+	Query: "MCZ 257889" ; Times: 2
+	Query: "genus:Coleodactylus country:&#34;Brazil&#34; AND (NOT amazonicus)" ; Times: 1
+	Query: "Smutsia gigantea" ; Times: 1
+	Query: "Calcarius lapponicus" ; Times: 3
+	Query: "chelonia mydas" ; Times: 10
+	Query: "scientificname:Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "velox maricopa" ; Times: 2
+	Query: "sabrina" ; Times: 1
+	Query: "mcz 267906" ; Times: 1
+	Query: "lepidoblepharis" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "specificepithet:docimus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "picoides arcticus" ; Times: 2
+	Query: "specificepithet:savagei genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:delalandii genus:Tarentola institutioncode:MCZ" ; Times: 1
+	Query: "accipiter trinotatus vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "phoeniconaias minor" ; Times: 1
+	Query: "provectus genus:microtus" ; Times: 1
+	Query: "draco maculatus" ; Times: 1
+	Query: "genus:Necturus specificepithet:alabamensis" ; Times: 1
+	Query: "Sphaerodactylus callocricus" ; Times: 1
+	Query: "Sphaerodactylus intermedius" ; Times: 1
+	Query: "Ptyodactylus guttatus" ; Times: 2
+	Query: "turdoides mentalis" ; Times: 1
+	Query: "pteropus medius" ; Times: 1
+	Query: "Xantusia arizonae" ; Times: 2
+	Query: "Penelope pileata" ; Times: 2
+	Query: "170267" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:inoptatus" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 4
+	Query: "Conuropsis Carolinensis Massachusetts" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 1
+	Query: "Nasalis larvatus" ; Times: 1
+	Query: "Taricha rivularis" ; Times: 3
+	Query: "lithobates sphenocephalus" ; Times: 2
+	Query: "specificepithet:carteri genus:Pristurus institutioncode:MCZ" ; Times: 1
+	Query: "184512" ; Times: 1
+	Query: "Campephilus principalis bairdii" ; Times: 5
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "hippocampus zosterae" ; Times: 2
+	Query: "specificepithet:Fuscus genus:Eptesicus family:Vespertilionidae country:&#34;Dominican Republic&#34;" ; Times: 2
+	Query: "Erpetoichthys calabaricus" ; Times: 3
+	Query: "family:nycteridae preparations:skeleton" ; Times: 1
+	Query: "Manducus" ; Times: 1
+	Query: "specificepithet:guttatus genus:Ptyodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:narcissina genus:Ficedula" ; Times: 3
+	Query: "specificepithet:pictipes family:Hylidae" ; Times: 1
+	Query: "specificepithet:melanospila genus:ptilinopus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Calamopteryx" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "oceanodroma leucorhoa" ; Times: 1
+	Query: "ARCHILOCHUS ALEXANDRI year &gt;= 1908 year &lt;= 1908" ; Times: 1
+	Query: "h-54329" ; Times: 2
+	Query: "chondrohierax wilsonii" ; Times: 1
+	Query: "specificepithet:leei genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "juliae" ; Times: 1
+	Query: "specificepithet:argus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "cricosaura typica" ; Times: 2
+	Query: "ambystoma californiense" ; Times: 1
+	Query: "Sphaerodactylus lineolatus" ; Times: 1
+	Query: "tylomys" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta palliata " ; Times: 12
+	Query: "genus:Clonophis" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:truncatus" ; Times: 2
+	Query: "259264" ; Times: 2
+	Query: "Gekko smithii" ; Times: 1
+	Query: "AMNH 14987" ; Times: 1
+	Query: "Aspidoscelis exsanguis" ; Times: 1
+	Query: "Parupeneus margaritatus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander opossum " ; Times: 1
+	Query: "genus:Sphaerodactylus stateprovince:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "genus:anolis catalognumber:60876 institutioncode:MCZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Leptodeira annulata " ; Times: 1
+	Query: "specificepithet:sabanus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "boeleni" ; Times: 1
+	Query: "Crotalus culminatus" ; Times: 2
+	Query: "heloderma suspectum" ; Times: 2
+	Query: "euderma maculatum basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "mcz 279388" ; Times: 1
+	Query: "Astroblepus" ; Times: 1
+	Query: "drymoluber dichrous" ; Times: 1
+	Query: "Pharomachrus" ; Times: 2
+	Query: "Hylonympha" ; Times: 2
+	Query: "country:Ecuador scientificname:Ptychoglossus brevifrontalis " ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Phyllobates terribilis" ; Times: 2
+	Query: "genus:Eleutherodactylus specificepithet:monensis" ; Times: 4
+	Query: "dermoptera" ; Times: 50
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 9
+	Query: "neopelma pallescens mato grosso" ; Times: 2
+	Query: "OSUM" ; Times: 1
+	Query: "specificepithet:rutteni genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "burkhardt" ; Times: 1
+	Query: "LOS HAITISES" ; Times: 16
+	Query: "Liophis juliae" ; Times: 2
+	Query: "genus:Breviceps country:&#34;Zimbabwe&#34; institutioncode:MCZ" ; Times: 1
+	Query: "chlamyphorus" ; Times: 1
+	Query: "eridacnis" ; Times: 1
+	Query: "specificepithet:asterulus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis fitchi " ; Times: 2
+	Query: "walter koelz" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 6
+	Query: "catalognumber:327767 institutioncode:MCZ" ; Times: 1
+	Query: "molidae" ; Times: 3
+	Query: "specificepithet:elegans genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:williamsi genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Anolis cybotes Dominican Republic" ; Times: 2
+	Query: "tantilla wilcoxi" ; Times: 2
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "Eirenis rothi" ; Times: 2
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 3
+	Query: "dasypus novemcinctus" ; Times: 8
+	Query: "dendroica kirtlandii vntype:specimen" ; Times: 3
+	Query: "Ploceus hypoxanthus" ; Times: 1
+	Query: "glaucomys californicus" ; Times: 3
+	Query: "Gekko smithi" ; Times: 18
+	Query: "scientificname:(Noturus gilberti) country:United States mappable:1" ; Times: 1
+	Query: "CAS 90727" ; Times: 1
+	Query: "gekko smithii" ; Times: 3
+	Query: "Protopterus" ; Times: 1
+	Query: "country:Ecuador scientificname:Bradypus variegatus " ; Times: 9
+	Query: "catalognumber:169318 institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:MCZ" ; Times: 1
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Sistrurus catenatus catenatus" ; Times: 1
+	Query: "specificepithet:atricucullaris genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "14267" ; Times: 1
+	Query: "astrapia nigra" ; Times: 2
+	Query: "hyla wrightorum" ; Times: 2
+	Query: "specificepithet:ceciliae genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "neochen jubata" ; Times: 10
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 1
+	Query: "puffinus bailloni" ; Times: 1
+	Query: "catalognumber:28774 institutioncode:MCZ" ; Times: 1
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera class:mammalia country:&#34;indonesia&#34; (java)" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "caretta caretta" ; Times: 2
+	Query: "Haemulon melanurum mappable:1" ; Times: 1
+	Query: "specificepithet:stellatus genus:margarornis" ; Times: 4
+	Query: "arremonops inexpectatus" ; Times: 2
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera (Java)" ; Times: 1
+	Query: "specificepithet:williamsi genus:Lepidoblepharis institutioncode:MCZ" ; Times: 1
+	Query: "boringii" ; Times: 1
+	Query: "genus:anolis catalognumber:183272 institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:rozei genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "genus:Galagoides institutioncode:MCZ" ; Times: 2
+	Query: "specificepithet:guianensis genus:Pseudogonatodes institutioncode:MCZ" ; Times: 1
+	Query: "genus:Pseudis specificepithet:minuta" ; Times: 1
+	Query: "Mazama nemorivaga" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Breviceps specificepithet:fuscus" ; Times: 1
+	Query: "Frogs" ; Times: 1
+	Query: "specificepithet:randi genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "144987" ; Times: 1
+	Query: "specificepithet:albicauda genus:mirafra country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:smithii genus:Gekko basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 1
+	Query: "Lampropeltis gentilis" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "astrapia splendidissima" ; Times: 5
+	Query: "country:Ecuador scientificname:Myoprocta pratti " ; Times: 4
+	Query: "specificepithet:caicosensis genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "genus:Lanio class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "scientificname:Upeneus vittatus mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "Phoenicurus hodgsoni" ; Times: 3
+	Query: "Aristelliger nelsoni" ; Times: 1
+	Query: "nematogobius" ; Times: 1
+	Query: "Amazona ventralis" ; Times: 1
+	Query: "Lithobates catesbeiana mappable:1" ; Times: 1
+	Query: "catalognumber:270383" ; Times: 1
+	Query: "Pteruthius flaviscapis nepal" ; Times: 1
+	Query: "locality:Pampa de Limpios. " ; Times: 1
+	Query: "puffinus reunion" ; Times: 1
+	Query: "country:&#34;france&#34;" ; Times: 1
+	Query: "specificepithet:transversalis genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:brachystoma genus:Coleodactylus institutioncode:MCZ" ; Times: 1
+	Query: "vntype:specimen genus:Siren stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Drymobius" ; Times: 1
+	Query: "184265" ; Times: 1
+	Query: "egg falco peregrinus" ; Times: 1
+	Query: "FMNH variegatus" ; Times: 1
+	Query: "dendrophidion" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 39
+	Query: "colocolo" ; Times: 1
+	Query: "229994" ; Times: 2
+	Query: "UTEP Herp 240" ; Times: 1
+	Query: "Ortygospiza atricollis" ; Times: 6
+	Query: "Abeillia abeillei" ; Times: 5
+	Query: "aldabrachelys" ; Times: 1
+	Query: "Caiman crocodilus vntype:specimen hasmedia:1" ; Times: 1
+	Query: "lyme" ; Times: 1
+	Query: "Peromyscus floridanus" ; Times: 1
+	Query: "Arthroleptis variabilis institutioncode:MCZ" ; Times: 2
+	Query: "FMNH cathartes aura" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "Gallus varius" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufiventer genus:tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "286919" ; Times: 1
+	Query: "porzana spiloptera" ; Times: 3
+	Query: "chondrohierax vntype:specimen country:&#34;cuba&#34; year &gt;= 1910 year &lt;= 2020" ; Times: 2
+	Query: "Scarus vetula mappable:1" ; Times: 1
+	Query: "12020" ; Times: 1
+	Query: "Gymnoscopelus opisthopterus" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 2
+	Query: "recordedby:Altenburg" ; Times: 1
+	Query: "Hylochoerus" ; Times: 1
+	Query: "genus:Ficedula country:&#34;indonesia&#34;" ; Times: 1
+	Query: "H 54414" ; Times: 1
+	Query: "country:Ecuador scientificname:Bassaricyon alleni " ; Times: 3
+	Query: "chondrohierax wilsoni vntype:specimen year &gt;= 1910 year &lt;= 2020" ; Times: 1
+	Query: "country:Ecuador scientificname:Priodontes maximus " ; Times: 3
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "country:Ecuador scientificname:Alopoglossus atriventris " ; Times: 2
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;galapagos&#34; country:&#34;ecuador&#34; institutioncode:MCZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:smaragdinus genus:Anolis hastissue:1" ; Times: 1
+	Query: "county:&#34;gaines&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "221957" ; Times: 1
+	Query: "UTEP Herp" ; Times: 2
+	Query: "19835" ; Times: 1
+	Query: "specificepithet:smithi genus:Gekko" ; Times: 1
+	Query: "Zonerodius heliosylus" ; Times: 1
+	Query: "Sphaerodactylus richardsonii" ; Times: 1
+	Query: "ichthyomys" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "hydromantes wintu" ; Times: 9
+	Query: "Gonatodes hasemani" ; Times: 1
+	Query: "specificepithet:trachyblepharus genus:Quedenfeldtia institutioncode:MCZ" ; Times: 1
+	Query: "Awaous Transandeanus" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:liocephalus genus:gerrhonotus country:&#34;mexico&#34;" ; Times: 2
+	Query: "Noa Timor" ; Times: 1
+	Query: "specificepithet:gaudichaudii genus:Garthia institutioncode:MCZ" ; Times: 1
+	Query: "Haemulon parra mappable:1" ; Times: 1
+	Query: "Crocodylus moreletii vntype:specimen hasmedia:1" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera class:mammalia (java west)" ; Times: 1
+	Query: "17179" ; Times: 2
+	Query: "7239" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 3
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Nasalis larvatus institutioncode:MCZ" ; Times: 1
+	Query: "catalognumber:300781 institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:rhabdotus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Cormura brevirostris " ; Times: 1
+	Query: "Macrosphenus kretschmeri" ; Times: 1
+	Query: "275640" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 8
+	Query: "Sphaerodactylus oxyrhinus" ; Times: 1
+	Query: "Sitta carolinensis lagunae" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "genus:Naja continent:Africa hastypestatus:1" ; Times: 1
+	Query: "specificepithet:cristata genus:Cyanocitta continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:crusculum genus:Schoutedenella" ; Times: 1
+	Query: "Brycon argenteus" ; Times: 1
+	Query: "epimachus fastuosus" ; Times: 1
+	Query: "Scarus taeniopterus mappable:1" ; Times: 1
+	Query: "specificepithet:vittatus genus:Gonatodes" ; Times: 8
+	Query: "Chaunax" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "scientificname:Upeneus doriae mappable:1" ; Times: 2
+	Query: "daption snares" ; Times: 3
+	Query: "01785" ; Times: 6
+	Query: "steatornis" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "Rana maculata" ; Times: 1
+	Query: "sonora semiannulata semiannulata" ; Times: 1
+	Query: "vntype:specimen (Skulls) hasmedia:1" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "ovis nivicola" ; Times: 1
+	Query: "stateprovince:Orellana genus:Atractus " ; Times: 1
+	Query: "Alsophis sibonius" ; Times: 1
+	Query: "Caretta caretta" ; Times: 5
+	Query: "genus:Eurycea recordedby:Brown" ; Times: 1
+	Query: "Cercomela scotocerca" ; Times: 3
+	Query: "specificepithet:roosevelti genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "333788" ; Times: 1
+	Query: "myiozetetes cayanensis" ; Times: 1
+	Query: "fulmarus greenland" ; Times: 2
+	Query: "Gymnoscopelus braueri" ; Times: 1
+	Query: "Rhynchophorus" ; Times: 1
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "paramesotriton" ; Times: 3
+	Query: "genus:Dipsadoboa hastissue:1" ; Times: 1
+	Query: "Chaunax coloratus" ; Times: 2
+	Query: "specificepithet:albicauda genus:mirafra" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Araguaia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; recordedby:Godley" ; Times: 1
+	Query: "boiga ceylonensis" ; Times: 1
+	Query: "Calcarius pictus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:tigris family:viperidae" ; Times: 3
+	Query: "didelphis &#34;virginiana&#34;" ; Times: 1
+	Query: "mcz ceratophrys" ; Times: 1
+	Query: "Yarrella blackfordi" ; Times: 1
+	Query: "spinifera" ; Times: 1
+	Query: "Gonatodes seigliei" ; Times: 1
+	Query: "puffinus assimilis western australia" ; Times: 1
+	Query: "Thunnus thynnus mappable:1" ; Times: 1
+	Query: "witch" ; Times: 2
+	Query: "scientificname:(Notropis dorsalis) country:United States mappable:1" ; Times: 1
+	Query: "zombie" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "Siren intermedia" ; Times: 1
+	Query: "Upeneus vittatus mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Volatinia class:Aves country:&#34;Brazil&#34; institutioncode:MCZ" ; Times: 1
+	Query: "JM 1119" ; Times: 2
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera (West Java)" ; Times: 1
+	Query: "astrapia rothschildi" ; Times: 2
+	Query: "genus:anolis catalognumber:60880 institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:peraccae genus:Lepidoblepharis institutioncode:MCZ" ; Times: 1
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera country:&#34;indonesia&#34;" ; Times: 1
+	Query: "specificepithet:hasemani genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "stateprovince:Zamora Chinchipe class:Amphibia " ; Times: 2
+	Query: "Vermivora bachmani mcz" ; Times: 1
+	Query: "Tigrisoma mexicanum" ; Times: 1
+	Query: "( Erethizon)" ; Times: 1
+	Query: "Lithobates chiricahuensis" ; Times: 5
+	Query: "eunectes murinus" ; Times: 3
+	Query: "amnh 2622" ; Times: 1
+	Query: "dermoptera (java)" ; Times: 2
+	Query: "specificepithet:elasmorhynchus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Chaunacops" ; Times: 3
+	Query: "Tremarctos ornatus" ; Times: 22
+	Query: "specificepithet:regalis genus:Buteo country:&#34;Mexico&#34;" ; Times: 3
+	Query: "philodendron" ; Times: 1
+	Query: "coraciidae" ; Times: 1
+	Query: "Deirochelys" ; Times: 1
+	Query: "Gymnodactylus darwinii" ; Times: 2
+	Query: "dog years" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "Calandrella acutirostris" ; Times: 2
+	Query: "FMNH caprimulgus" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma simoterum OR Etheostoma simoterum simoterum) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:fuscus genus:eptesicus family:Vespertilionidae country:&#34;cuba&#34;" ; Times: 2
+	Query: "241965" ; Times: 1
+	Query: "specificepithet:oliveri genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Danau" ; Times: 1
+	Query: "accipiter nisus" ; Times: 2
+	Query: "Triplophos hemingi" ; Times: 1
+	Query: "specificepithet:becki genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Oceanodroma los coronados" ; Times: 2
+	Query: "frogs" ; Times: 1
+	Query: "specificepithet:molei genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "order:Squamata locality:Cocha cashu" ; Times: 2
+	Query: "genus:cuniculus" ; Times: 2
+	Query: "locality:reading" ; Times: 1
+	Query: "locality:Sumaco  " ; Times: 1
+	Query: "catalognumber:157872 institutioncode:MCZ" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:nitidissima genus:chlorochrysa" ; Times: 5
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "vntype:specimen genus:LANIO class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "&#34;camelus dromedarius&#34;" ; Times: 1
+	Query: "genus:Carcharodon" ; Times: 1
+	Query: "specificepithet:dacnicolor genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:barbouri genus:Pseudogonatodes institutioncode:MCZ" ; Times: 1
+	Query: "MCZ A 38938" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "catalognumber:141793" ; Times: 1
+	Query: "vntype:specimen specificepithet:alba genus:Ardea class:aves country:&#34;United States&#34;" ; Times: 6
+	Query: "specificepithet:cryphius genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "elaphe guttata" ; Times: 2
+	Query: "specificepithet:angustidigitus genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "Phyllodactylus magister" ; Times: 2
+	Query: "country:Ecuador scientificname:Cebus aequatorialis " ; Times: 5
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera class:mammalia country:&#34;indonesia&#34; (java)" ; Times: 1
+	Query: "Calotes lizards" ; Times: 2
+	Query: "locality:Cajanuma  " ; Times: 3
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "muhlenbergii" ; Times: 2
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "chatham albatross" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:syphax" ; Times: 1
+	Query: "class:aves catalognumber:156995" ; Times: 2
+	Query: "Scarus coeruleus mappable:1" ; Times: 1
+	Query: "aquila hastata india" ; Times: 1
+	Query: "Rhynchocalamus" ; Times: 1
+	Query: "vntype:specimen county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "Jillson" ; Times: 1
+	Query: "Dicamptodon county:&#34;Marin&#34;" ; Times: 2
+	Query: "Abbott Kashmir aves" ; Times: 3
+	Query: "country:Ecuador scientificname:Anolis punctatus " ; Times: 1
+	Query: "122925" ; Times: 1
+	Query: "Lepidoblepharis colombianus" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "genus:Smilisca specificepithet:cyanosticta" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 5
+	Query: "Crocodylus acutus vntype:specimen hasmedia:1" ; Times: 1
+	Query: "specificepithet:subterraneus genus:Gyrinophilus" ; Times: 2
+	Query: "specificepithet:borellii genus:Homonota institutioncode:MCZ" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "14846" ; Times: 2
+	Query: "genus:Pipa specificepithet:carvalhoi" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 3
+	Query: "specificepithet:flavipunctatus genus:Pristurus institutioncode:MCZ" ; Times: 1
+	Query: "193888" ; Times: 1
+	Query: "Rana temporaria" ; Times: 3
+	Query: "MCZ 3744" ; Times: 1
+	Query: "226052" ; Times: 1
+	Query: "anthus antarcticus" ; Times: 1
+	Query: "Turdus ravidus" ; Times: 2
+	Query: "specificepithet:Valentinei genus:Desmognathus stateprovince:&#34;Louisiana&#34; year &gt;= 2000" ; Times: 2
+	Query: "scincopus" ; Times: 1
+	Query: "country:Ecuador scientificname:Ateles fusciceps " ; Times: 4
+	Query: "catalognumber:2312 institutioncode:MCZ" ; Times: 1
+	Query: "UWBM 7239" ; Times: 1
+	Query: "specificepithet:dunni genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Conepatus semistriatus " ; Times: 1
+	Query: "neacomys" ; Times: 1
+	Query: "chromogobius" ; Times: 1
+	Query: "genus:Anolis country:&#34;Ecuador&#34; institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:mauritanicus genus:Saurodactylus institutioncode:MCZ" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "specificepithet:caudiscutatus genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:exsul genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "catalognumber:316382 institutioncode:MCZ" ; Times: 2
+	Query: "Liparis fucensis" ; Times: 1
+	Query: "genus:crocodylus" ; Times: 1
+	Query: "333790" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "ovis ammon" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus stateprovince:&#34;California&#34; year &lt;= 1907" ; Times: 1
+	Query: "stateprovince:&#34;New York&#34; recordedby:Mearns" ; Times: 1
+	Query: "labradorius specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "jared kirtland" ; Times: 1
+	Query: "scientificname:Mullus argentinae mappable:1" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 1
+	Query: "Bradypus torquatus" ; Times: 2
+	Query: "vntype:specimen specificepithet:versicolor class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "currori" ; Times: 1
+	Query: "Brycon chagrensis" ; Times: 1
+	Query: "atlantic puffin" ; Times: 4
+	Query: "country:Ecuador scientificname:Thyroptera tricolor " ; Times: 2
+	Query: "specificepithet:ocellatus genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Trinidad and Tobago&#34; institutioncode:MCZ" ; Times: 2
+	Query: "Dos rios Ecuador -Pichincha" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 7
+	Query: "hetereleotris" ; Times: 3
+	Query: "anilius scytale" ; Times: 2
+	Query: "spinifera brooks" ; Times: 1
+	Query: "recordedby:Mearns" ; Times: 2
+	Query: "Sphaerodactylus parkeri" ; Times: 1
+	Query: "tremarctos &#34;ornatus&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Protonotaria" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 4
+	Query: "genus:Incilius specificepithet:valliceps" ; Times: 1
+	Query: "Haemulon plumieri mappable:1" ; Times: 1
+	Query: "Sphaerodactylus microlepis" ; Times: 1
+	Query: "27725" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "scientificname:(Noturus munitus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:252173 institutioncode:MCZ" ; Times: 1
+	Query: "eleothreptus anomalus" ; Times: 7
+	Query: "Sphaerodactylus williamsi" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "Farm Celine genus:Breviceps year &gt;= 1990" ; Times: 1
+	Query: "286917" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironius multiventris " ; Times: 1
+	Query: "Papagomys armandvillei" ; Times: 3
+	Query: "ascaphus truei" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "Crocodylus cataphractus vntype:specimen hasmedia:1" ; Times: 1
+	Query: "Eremophilus mutisii" ; Times: 1
+	Query: "fmnh preparations:alcohol" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera country:&#34;indonesia&#34;" ; Times: 1
+	Query: "genus:Batrachoseps nigriventris" ; Times: 1
+	Query: "Sandground MCZ OEB" ; Times: 2
+	Query: "Heliangelus regalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "actinemys pallida" ; Times: 2
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 1
+	Query: "(porcupine )" ; Times: 2
+	Query: "8472" ; Times: 1
+	Query: "lampropeltis gentilis" ; Times: 3
+	Query: "daption new zealand" ; Times: 3
+	Query: "crotalus pricei" ; Times: 6
+	Query: "Michigan genus:Necturus" ; Times: 4
+	Query: "237490" ; Times: 2
+	Query: "scinax garbei" ; Times: 1
+	Query: "vntype:specimen specificepithet:luctuosus genus:Tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "221428" ; Times: 1
+	Query: "catalognumber:213184 institutioncode:MCZ" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 2
+	Query: "country:Ecuador scientificname:Epicrates cenchria " ; Times: 2
+	Query: "specificepithet:columba genus:Cepphus family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen order:Artiodactyla country:&#34;Malaysia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Bothrops panama" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 2
+	Query: "Sphaerodactylus elegans" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "Smilisca sordida" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Labrador&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "181285" ; Times: 1
+	Query: "gastrophryne olivacea" ; Times: 2
+	Query: "specificepithet:concinnatus genus:gonatodes stateprovince:&#34;meta&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "gymnodactylus" ; Times: 1
+	Query: "ochotona rufescens" ; Times: 1
+	Query: "specificepithet:clenchi genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:undulatus genus:heliosciurus institutioncode:MCZ" ; Times: 1
+	Query: "genus:Naja continent:Africa" ; Times: 2
+	Query: "acadicus specificepithet:pennsylvanicus genus:microtus" ; Times: 3
+	Query: "specificepithet:barbouri genus:Aristelliger institutioncode:MCZ" ; Times: 1
+	Query: "207567" ; Times: 1
+	Query: "genus:crotalus order:squamata stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "scientificname:Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "specificepithet:shrevei genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "33720 Aves" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "&#34;Erithizon dorsatum&#34;" ; Times: 5
+	Query: "specificepithet:kirbyi genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "11796" ; Times: 1
+	Query: "psammophis aegyptius" ; Times: 1
+	Query: "genus:heliosciurus class:mammalia institutioncode:MCZ" ; Times: 2
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 1
+	Query: "Ambystoma velasci" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 1
+	Query: "ohio state university" ; Times: 1
+	Query: "hylophilus pallidipectus" ; Times: 4
+	Query: "Sphaerodactylus macrolepis" ; Times: 2
+	Query: "MCZ 43493" ; Times: 1
+	Query: "specificepithet:sanctaemartae genus:Lepidoblepharis institutioncode:MCZ" ; Times: 1
+	Query: "&#34;Ambystoma californiense&#34; stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Enhydris enhydris" ; Times: 1
+	Query: "scientificname:(Notropis shumardi) country:United States mappable:1" ; Times: 1
+	Query: "genus:Gyrinophilus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "geophis" ; Times: 1
+	Query: "Ateleopodidae" ; Times: 1
+	Query: "332849" ; Times: 1
+	Query: "Oceanodroma leucorhoa chapmani" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 18
+	Query: "puffinus tunneyi" ; Times: 1
+	Query: "stateprovince:&#34;guam&#34;" ; Times: 1
+	Query: "Camptorhynchus labradorius" ; Times: 1
+	Query: "genus:lagopus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "AMNH 147126" ; Times: 1
+	Query: "Dermophis mexicanus" ; Times: 1
+	Query: "spilornis klossi vntype:specimen year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "hippo" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "specificepithet:periosus genus:Phyllopezus institutioncode:MCZ" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 4
+	Query: "Tarentola neglecta" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 14
+	Query: "(Dermoptera variegatus)" ; Times: 2
+	Query: "scientificname:Upeneus tragula mappable:1" ; Times: 2
+	Query: "accipiter griseiceps vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:lineolatus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:surinamus genus:Tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "genus:Trachemys county:&#34;lake&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "128087" ; Times: 1
+	Query: "mcz 152356" ; Times: 1
+	Query: "country:Ecuador scientificname:Cynomops greenhalli " ; Times: 1
+	Query: "genus:Phyllomyias family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "catalognumber:51852 institutioncode:MCZ" ; Times: 4
+	Query: "Hystrix galeata" ; Times: 1
+	Query: "beaver island" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 3
+	Query: "Macrosphenus concolor" ; Times: 1
+	Query: "order:anura continent:africa lifestage:larva" ; Times: 1
+	Query: "Aneides flavipunctatus niger" ; Times: 3
+	Query: "specificepithet:mariguanae genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Coleodactylus septentrionalis" ; Times: 1
+	Query: "catalognumber:131462 institutioncode:MCZ" ; Times: 1
+	Query: "hemiphractus johnsoni" ; Times: 2
+	Query: "specificepithet:oxyrhinus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Canis familiaris hasmass:1" ; Times: 1
+	Query: "specificepithet:pictus genus:lycaon" ; Times: 2
+	Query: "Cynomys mexicanus" ; Times: 1
+	Query: "lophius americanus" ; Times: 3
+	Query: "Sphaerodactylus torrei" ; Times: 1
+	Query: "accipiter rhodogaster vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "191582" ; Times: 1
+	Query: "Candee" ; Times: 1
+	Query: "habroptila wallacii" ; Times: 12
+	Query: "Sphaerodactylus townsendi" ; Times: 1
+	Query: "specificepithet:lunulatus genus:Pseudogonatodes institutioncode:MCZ" ; Times: 1
+	Query: "24101" ; Times: 2
+	Query: "Mullus barbatus ponticus mappable:1" ; Times: 1
+	Query: "168030" ; Times: 1
+	Query: "190692" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "california kingsnake" ; Times: 3
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "255198" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis trachyderma " ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus county:&#34;baldwin&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:versicolor genus:Lanio class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "&#34;erethizon dorsatum&#34;" ; Times: 13
+	Query: "Symphalangus" ; Times: 1
+	Query: "specificepithet:ruwenzorii genus:heliosciurus institutioncode:MCZ" ; Times: 1
+	Query: "tegu" ; Times: 1
+	Query: "specificepithet:xanthostigma genus:Lepidoblepharis institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 2
+	Query: "specificepithet:rosaurae genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Equetus lanceolatus mappable:1" ; Times: 1
+	Query: "specificepithet:leucaster genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Necturus Texas" ; Times: 4
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "genus:Brachyramphus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1866 year &lt;= 1866" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "&#34;Microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:MCZ basisofrecord:PreservedSpecimen" ; Times: 7
+	Query: "189994" ; Times: 1
+	Query: "oceanites oceanicus exasperatus" ; Times: 2
+	Query: "265898" ; Times: 1
+	Query: "locality:San Vicente " ; Times: 1
+	Query: "Saccogaster" ; Times: 1
+	Query: "FMNH striatus" ; Times: 1
+	Query: "&#34;Cerastes vipera&#34;" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 2
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera (java)" ; Times: 1
+	Query: "family:Soricidae continent:Africa" ; Times: 1
+	Query: "&#34;vulpes vulpes&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Arctocephalus galapagoensis " ; Times: 2
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera (west java)" ; Times: 2
+	Query: "conuropsis" ; Times: 1
+	Query: "Gymnobelideus leadbeateri" ; Times: 1
+	Query: "Scinax garbei" ; Times: 1
+	Query: "catalognumber:297148 collectioncode:Orn institutioncode:MCZ" ; Times: 1
+	Query: "Ichthyophaga humilis" ; Times: 1
+	Query: "specificepithet:mutabilis genus:heliosciurus institutioncode:MCZ" ; Times: 1
+	Query: "237931" ; Times: 1
+	Query: "catalognumber:206462 institutioncode:MCZ" ; Times: 2
+	Query: "scientificname:(Pogonichthys macrolepidotus) country:United States mappable:1" ; Times: 1
+	Query: "valle del cauca" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela africana " ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 2
+	Query: "Caiman latirostris vntype:specimen hasmedia:1" ; Times: 1
+	Query: "genus:Kassina specificepithet:senegalensis" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:alex walker year &gt;= 1911 year &lt;= 1913" ; Times: 2
+	Query: "specificepithet:sylvaticus genus:lithobates" ; Times: 1
+	Query: "order:Myxiniformes stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "lampropeltis multifasciata" ; Times: 4
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "fulmarus glacialis russia" ; Times: 1
+	Query: "Phyllodactylus sommeri" ; Times: 2
+	Query: "KU 7020" ; Times: 1
+	Query: "Sceloporus insignis" ; Times: 2
+	Query: "Sonoda paucilampa" ; Times: 1
+	Query: "Pseudonus" ; Times: 1
+	Query: "camptorhynchus" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:MCZ" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "specificepithet:neglecta genus:Tarentola institutioncode:MCZ" ; Times: 1
+	Query: "(Ailuropoda melanoleuca)" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "Aldabrachelys vntype:specimen hasmedia:1" ; Times: 1
+	Query: "yanacensis NOT CLO" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "pai" ; Times: 1
+	Query: "mochlus sundevalli" ; Times: 1
+	Query: "225994" ; Times: 2
+	Query: "Clarias fuscus" ; Times: 1
+	Query: "Grammonus" ; Times: 2
+	Query: "168967" ; Times: 1
+	Query: "228723" ; Times: 1
+	Query: "Boa nebulosa" ; Times: 1
+	Query: "country:Ecuador scientificname:Arthrosaura reticulata " ; Times: 1
+	Query: "Eptatretus" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:A. Walker" ; Times: 7
+	Query: "machu picchu" ; Times: 2
+	Query: "Coregonus albula" ; Times: 1
+	Query: "Elephas maximus" ; Times: 3
+	Query: "uromys" ; Times: 1
+	Query: "genus:Pseudogonatodes country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Eurypyga helias" ; Times: 2
+	Query: "catalognumber:325255 institutioncode:MCZ" ; Times: 1
+	Query: "&#34;Alces americanus&#34;" ; Times: 1
+	Query: "Oceanodroma tethys" ; Times: 2
+	Query: "genus:Coleodactylus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Hippopotamus" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:a. walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "mcz 268145" ; Times: 1
+	Query: "mcz 268147" ; Times: 1
+	Query: "Echinops telfairi" ; Times: 2
+	Query: "specificepithet:fasciatus family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "specificepithet:gilvitorques genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Lepidophanes guentheri" ; Times: 1
+	Query: "scientificname:Mullus auratus mappable:1" ; Times: 1
+	Query: "184640" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "darien" ; Times: 1
+	Query: "Tremarctos Ornatus" ; Times: 1
+	Query: "psittirostra" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lepidoblepharis institutioncode:MCZ" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera (java)" ; Times: 1
+	Query: "caffrogobius" ; Times: 1
+	Query: "Sea turtle" ; Times: 1
+	Query: "Pseudogonatodes guianensis" ; Times: 1
+	Query: "(erethizon dorsatum)" ; Times: 5
+	Query: "Plethodon websteri" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 2
+	Query: "Protopterus aethiopicus" ; Times: 1
+	Query: "scientificname:(Notropis ariommus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Mullus barbatus barbatus mappable:1" ; Times: 1
+	Query: "stained genus:Cryptobranchus" ; Times: 1
+	Query: "Sceloporus asper" ; Times: 1
+	Query: "catalognumber:180911 institutioncode:MCZ" ; Times: 2
+	Query: "Characidium marshi" ; Times: 1
+	Query: "Gymnodactylus amarali" ; Times: 2
+	Query: "recordedby:hammond" ; Times: 1
+	Query: "aneides aeneus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "Antechinus flavipes" ; Times: 3
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:boreas" ; Times: 2
+	Query: "ovis ammon hodgsoni" ; Times: 1
+	Query: "247571" ; Times: 2
+	Query: "hylonympha" ; Times: 1
+	Query: "vntype:specimen order:Artiodactyla country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Pomadasys crocro mappable:1" ; Times: 1
+	Query: "anthus peruvianus" ; Times: 1
+	Query: "specificepithet:sputator genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:falconensis genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "80282" ; Times: 1
+	Query: "locality:Santa Ana stateprovince:&#34;Cusco&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "charina bottae" ; Times: 4
+	Query: "specificepithet:italicus genus:Lissotriton" ; Times: 1
+	Query: "lynx canadensis" ; Times: 2
+	Query: "specificepithet:obscurus genus:hemignathus" ; Times: 3
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "recordedby:hamond" ; Times: 1
+	Query: "Sceloporus undulatus texas kenedy" ; Times: 1
+	Query: "Antillotyphlops dominicanus" ; Times: 3
+	Query: "grey wolf" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "Carcharodon" ; Times: 1
+	Query: "anthus nattereri" ; Times: 1
+	Query: "105222" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "Sublegatus glaber" ; Times: 1
+	Query: "specificepithet:miyatai genus:Lepidoblepharis institutioncode:MCZ" ; Times: 1
+	Query: "paradigalla carunculata" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "specificepithet:ephippiata genus:Tarentola institutioncode:MCZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:cucullatus genus:Coryphospingus class:Aves country:&#34;Brazil&#34;" ; Times: 5
+	Query: "specificepithet:hosei" ; Times: 1
+	Query: "specificepithet:continentalis genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Lepidoblepharis buchwaldi" ; Times: 1
+	Query: "country:Ecuador scientificname:Kentropyx pelviceps " ; Times: 1
+	Query: "lycocorax" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 2
+	Query: "specificepithet:copei genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:Chrysops genus:Morone hasmedia:1" ; Times: 1
+	Query: "Anolis porcatus" ; Times: 1
+	Query: "genus:charina order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:anolis catalognumber:141428 institutioncode:MCZ" ; Times: 1
+	Query: "297173" ; Times: 1
+	Query: "sphenomorphus jobiensis new britain" ; Times: 1
+	Query: "Sonoda" ; Times: 1
+	Query: "238141" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "labrador duck" ; Times: 2
+	Query: "cleared genus:Cryptobranchus" ; Times: 1
+	Query: "La Nana" ; Times: 1
+	Query: "genus:Tropidodipsas country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Acris blanchardi Indiana" ; Times: 1
+	Query: "west java (dermoptera)" ; Times: 1
+	Query: "specificepithet:vertebralis genus:Rana" ; Times: 1
+	Query: "Urobatis jamaicensis mappable:1" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "specificepithet:bordai genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "genus:otus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "physeter" ; Times: 1
+	Query: "Bungarus" ; Times: 3
+	Query: "locality:point lobos" ; Times: 1
+	Query: "126112" ; Times: 1
+	Query: "Heloderma suspectum cinctum" ; Times: 2
+	Query: "Sphaerodactylus siboney" ; Times: 1
+	Query: "Sphaerodactylus ariasae" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 1
+	Query: "ohio state" ; Times: 1
+	Query: "176095" ; Times: 1
+	Query: "Thomasomys" ; Times: 1
+	Query: "Gekko gecko" ; Times: 1
+	Query: "sylvietta" ; Times: 1
+	Query: "Microdesmus" ; Times: 1
+	Query: "specificepithet:albifrons genus:Amazona country:&#34;Mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 2
+	Query: "genus:Buteogallus hastissue:1" ; Times: 2
+	Query: "batagur baska" ; Times: 2
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "LEOPARDUS" ; Times: 2
+	Query: "Alouatta" ; Times: 3
+	Query: "7742" ; Times: 1
+	Query: "american toad" ; Times: 1
+	Query: "Crocodylus porosus vntype:specimen hasmedia:1" ; Times: 2
+	Query: "Napothera epilepidota mendeni" ; Times: 1
+	Query: "puffinus subalaris" ; Times: 2
+	Query: "class:amphibia stateprovince:&#34;minas gerais&#34;" ; Times: 2
+	Query: "specificepithet:goniorhynchus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Saurodactylus institutioncode:MCZ" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera class:mammalia (java)" ; Times: 1
+	Query: "genus:Cryptobranchus" ; Times: 1
+	Query: "Peromyscus polionotus niveiventris" ; Times: 3
+	Query: "Ficimia publia" ; Times: 2
+	Query: "MCZ 165523 anolis" ; Times: 3
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironius monticola " ; Times: 1
+	Query: "338438" ; Times: 1
+	Query: "Larimus breviceps mappable:1" ; Times: 1
+	Query: "bussingi" ; Times: 1
+	Query: "Eleutherodactylus johnstonei mappable:1" ; Times: 1
+	Query: "98369" ; Times: 3
+	Query: "98368" ; Times: 1
+	Query: "lucifuga stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "Uropeltis" ; Times: 1
+	Query: "Aristelliger praesignis" ; Times: 1
+	Query: "MCZ Thalpomys" ; Times: 3
+	Query: "eremita" ; Times: 2
+	Query: "genus:Aplodontia county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;odocoileus virginianus&#34;" ; Times: 1
+	Query: "phocoena sinus" ; Times: 1
+	Query: "skeleton felis" ; Times: 1
+	Query: "brazil tissue" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker" ; Times: 1
+	Query: "specificepithet:martini genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 2
+	Query: "papilio" ; Times: 1
+	Query: "Muscicapa sethsmithi" ; Times: 2
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "genus:neomorphus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "93535" ; Times: 1
+	Query: "Belem Bosque" ; Times: 1
+	Query: "locality:st paul stateprovince:&#34;alaska&#34; recordedby:hanna" ; Times: 1
+	Query: "drepanornis albertisi" ; Times: 1
+	Query: "&#34;Tursiops truncatus&#34;" ; Times: 1
+	Query: "Mullus barbatus barbatus mappable:1" ; Times: 1
+	Query: "putorius" ; Times: 1
+	Query: "James Bond" ; Times: 1
+	Query: "Thorius dubitus" ; Times: 4
+	Query: "tropidurus galapagos charles" ; Times: 1
+	Query: "Dasyprocta prymnolopha" ; Times: 2
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "&#34;oryctolagus cuniculus&#34;" ; Times: 1
+	Query: "Lepidoblepharis williamsi" ; Times: 1
+	Query: "anolis salvini" ; Times: 2
+	Query: "226047" ; Times: 1
+	Query: "class:reptilia catalognumber:147186" ; Times: 2
+	Query: "Sphaerodactylus molei" ; Times: 1
+	Query: "genus:leiocephalus locality:naval base stateprovince:&#34;guantanamo&#34; country:&#34;cuba&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:casmerodius class:aves country:&#34;United States&#34;" ; Times: 2
+	Query: "Gonatodes ocellatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Stenocercus aculeatus " ; Times: 1
+	Query: "nestor notabilis" ; Times: 1
+	Query: "specificepithet:somalicus genus:Pristurus institutioncode:MCZ" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:walker" ; Times: 1
+	Query: "specificepithet:americana genus:Tarentola institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:heliconiae genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "98211" ; Times: 1
+	Query: "heloderma suspectum cinctum" ; Times: 3
+	Query: "Hygophum hanseni" ; Times: 1
+	Query: "Pristurus collaris" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "ANSP Coeligena iris" ; Times: 1
+	Query: "204122" ; Times: 1
+	Query: "genus:Hyperolius specificepithet:horstockii" ; Times: 1
+	Query: "Australia genus:Moloch" ; Times: 1
+	Query: "specificepithet:vittatus genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus institutioncode:MCZ" ; Times: 1
+	Query: "(Erethizon dorsatum)" ; Times: 3
+	Query: "207191" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe)" ; Times: 1
+	Query: "Podilymbus gigas" ; Times: 2
+	Query: "(Ambystoma californiense)" ; Times: 3
+	Query: "Skulls" ; Times: 1
+	Query: "west java" ; Times: 4
+	Query: "vntype:specimen specificepithet:pusilla genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 5
+	Query: "(Graphiurus OR Cliviglis OR Aethoglis OR Gliriscus) hastypestatus:1" ; Times: 1
+	Query: "perdix class:aves year &gt;= 1908 year &lt;= 1910" ; Times: 1
+	Query: "specificepithet:rupestris genus:Pristurus institutioncode:MCZ" ; Times: 1
+	Query: "locality:Volcan tungurahua " ; Times: 1
+	Query: "omiltemanus" ; Times: 2
+	Query: "genus:Histiotus institutioncode:MCZ" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 1
+	Query: "Upeneus taeniopterus mappable:1" ; Times: 1
+	Query: "Sandground MCZ ORN" ; Times: 4
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "sicalis citrina" ; Times: 2
+	Query: "Actinemys marmorata" ; Times: 2
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 2
+	Query: "Bradypus Variegatus" ; Times: 1
+	Query: "specificepithet:parthenopion genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "jahni" ; Times: 1
+	Query: "casmerodius albus" ; Times: 1
+	Query: "gehyra Kinchega" ; Times: 1
+	Query: "scientificname:Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "specificepithet:taniae genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Plica umbra " ; Times: 1
+	Query: "255730" ; Times: 2
+	Query: "genus:cettia country:&#34;philippines&#34;" ; Times: 2
+	Query: "sotalia" ; Times: 1
+	Query: "Scarus guacamaia mappable:1" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "catalognumber:186608 institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:richardsonii genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "primate" ; Times: 1
+	Query: "FMNH Plethodon" ; Times: 1
+	Query: "seahorse" ; Times: 1
+	Query: "specificepithet:altavelensis genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "pongo pygmaeus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:annularis genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "vntype:specimen genus:eucometis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "tragulus nigricans" ; Times: 1
+	Query: "genus:Grayia hastissue:1" ; Times: 2
+	Query: "Dulus" ; Times: 1
+	Query: "Erethizon Dorsatum" ; Times: 1
+	Query: "&#34; tremarctos ornatus &#34;" ; Times: 1
+	Query: "siren" ; Times: 1
+	Query: "specificepithet:canescens genus:eremomela" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Nycteris" ; Times: 1
+	Query: "specificepithet:reissii genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "CAS 17267" ; Times: 1
+	Query: "Corvula batabana mappable:1" ; Times: 1
+	Query: "streckeri" ; Times: 1
+	Query: "Anolis cuvieri" ; Times: 1
+	Query: "Isistius" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:lithobates year &gt;= 2009 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:Fuscus genus:Eptesicus family:Vespertilionidae stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "specificepithet:unctus genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "Erithizon &#34;dorsatum&#34;" ; Times: 4
+	Query: "Pongo pygmaeus haslifestage:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 36
+	Query: "Oceanites gracilis" ; Times: 2
+	Query: "54329" ; Times: 2
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1870 year &lt;= 1880 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Anolis country:&#34;Jamaica&#34; institutioncode:MCZ" ; Times: 1
+	Query: "heterodon stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Amphisbaena bassleri " ; Times: 1
+	Query: "15969" ; Times: 1
+	Query: "specificepithet:americana genus:martes" ; Times: 1
+	Query: "Haemulon album mappable:1" ; Times: 1
+	Query: "genus:Liua family:HYNOBIIDAE" ; Times: 3
+	Query: "specificepithet:levinsi genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Eretmochelys" ; Times: 1
+	Query: "specificepithet:caglei genus:Graptemys" ; Times: 2
+	Query: "vntype:specimen genus:trichothraupis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera (West Java)" ; Times: 1
+	Query: "specificepithet:heyerorum genus:Lepidoblepharis institutioncode:MCZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 1
+	Query: "diglossa pallida" ; Times: 3
+	Query: "Larus delawarensis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Lanio class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 2
+	Query: "catalognumber:322055 institutioncode:MCZ" ; Times: 2
+	Query: "Crocodylus" ; Times: 3
+	Query: "Actinemys pallida" ; Times: 1
+	Query: "Allophryne ruthveni" ; Times: 2
+	Query: "vntype:specimen class:Aves locality:Araguaia stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "dresden museum" ; Times: 1
+	Query: "specificepithet:torrei genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 4
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "Krefftichthys anderssoni" ; Times: 1
+	Query: "Crotalus willardi willardi" ; Times: 1
+	Query: "scientificname:(Fundulus jenkinsi) country:United States mappable:1" ; Times: 1
+	Query: "Edwards Mojave ORN" ; Times: 1
+	Query: "(&#34;dasypus novemcinctus&#34;)" ; Times: 2
+	Query: "specificepithet:lineatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Hystrix cristata" ; Times: 1
+	Query: "247605" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "specificepithet:muralis genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Coleodactylus brachystoma" ; Times: 1
+	Query: "Pelamis Platurus" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera class:mammalia" ; Times: 3
+	Query: "“Galeopterus” (West Java )" ; Times: 1
+	Query: "catalognumber:52305 institutioncode:MCZ" ; Times: 4
+	Query: "81138" ; Times: 1
+	Query: "&#34;Cerastes cerastes&#34;" ; Times: 1
+	Query: "214833" ; Times: 1
+	Query: "ognevi" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 3
+	Query: "mcz 39553" ; Times: 1
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 1
+	Query: "247770" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "catalognumber:297140 collectioncode:Orn institutioncode:MCZ" ; Times: 1
+	Query: "ninox scutulata" ; Times: 1
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 1
+	Query: "specificepithet:julieni genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Java vntype:specimen order:dermoptera" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 5
+	Query: "stachyris pallescens" ; Times: 1
+	Query: "Pterobrycon" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 17
+	Query: "&#34;Didelphis Virginiana&#34;" ; Times: 2
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 5
+	Query: "dermoptera java" ; Times: 2
+	Query: "Lucifuga" ; Times: 3
+	Query: "specificepithet:parvicarinata genus:Tarentola institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:scripta stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "36877" ; Times: 1
+	Query: "specificepithet:boringii genus:Vibrissaphora" ; Times: 1
+	Query: "Solea ovata" ; Times: 1
+	Query: "Anolis richardii" ; Times: 2
+	Query: "Pimelodus punctatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:samarensis genus:naja" ; Times: 1
+	Query: "genus:xantusia stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Vipera latastei" ; Times: 2
+	Query: "apalone spinifera emoryi" ; Times: 1
+	Query: "specificepithet:seigliei genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "162188" ; Times: 1
+	Query: "vipera aspis" ; Times: 4
+	Query: "xenopus tropicalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:romeri class:amphibia" ; Times: 3
+	Query: "specificepithet:kofordi genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "specificepithet:ventralis genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "ptyas mucosa" ; Times: 1
+	Query: "cetorhinus" ; Times: 1
+	Query: "genus:Anolis country:&#34;Dominican Republic&#34; institutioncode:MCZ" ; Times: 2
+	Query: "Vipera palaestinae" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 2
+	Query: "catalognumber:245425 institutioncode:MCZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Gonatodes concinnatus " ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 10
+	Query: "Manolepis putnami" ; Times: 32
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:vincenti genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "recordedby:ridgway year &gt;= 1899 year &lt;= 1899" ; Times: 2
+	Query: "antilocapra americana" ; Times: 1
+	Query: "specificepithet:wirshingi genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "class:mammalia catalognumber:7970 institutioncode:MCZ" ; Times: 1
+	Query: "locality:Briones Regional Park stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ariasae genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "pelidna" ; Times: 1
+	Query: "&#34;Oak Creek&#34; Jacot" ; Times: 1
+	Query: "gymnodactylus geckoides" ; Times: 1
+	Query: "&#34;Cerastes gasperettii&#34;" ; Times: 1
+	Query: "210712" ; Times: 1
+	Query: "pecari tejacu" ; Times: 5
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:a. walker" ; Times: 1
+	Query: "country:Ecuador scientificname:Cebus yuracus " ; Times: 2
+	Query: "Atractus crassicaudatus" ; Times: 1
+	Query: "genus:Smilisca specificepithet:sordida" ; Times: 2
+	Query: "genus:Odobenus preparations:skull institutioncode:MCZ" ; Times: 2
+	Query: "genus:Siren stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "catalognumber:243926 institutioncode:MCZ" ; Times: 1
+	Query: "Barbus anoplus" ; Times: 1
+	Query: "&#34;Bos taurus&#34;" ; Times: 1
+	Query: "JR 18 Pituophis catenifer" ; Times: 2
+	Query: "Lobianchia dofleini" ; Times: 1
+	Query: "specificepithet:fantasticus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera class:mammalia (java)" ; Times: 2
+	Query: "gracilis galapagos" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "225548" ; Times: 1
+	Query: "“Galeopterus” (Java )" ; Times: 1
+	Query: "55671" ; Times: 1
+	Query: "255733" ; Times: 1
+	Query: "specificepithet:scincus genus:Teratoscincus institutioncode:MCZ" ; Times: 1
+	Query: "USNM 26194" ; Times: 1
+	Query: "specificepithet:puiseuxi genus:Ptyodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Ptyodactylus puiseuxi" ; Times: 1
+	Query: "order:Primates" ; Times: 1
+	Query: "(&#34;Erethizon dorsatum&#34;)" ; Times: 1
+	Query: "specificepithet:marmoratus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1888 year &lt;= 1910" ; Times: 1
+	Query: "genus:Breviceps country:&#34;Namibia&#34; year &gt;= 1990" ; Times: 2
+	Query: "specificepithet:inaguae genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Rhabdophis tigrinus" ; Times: 1
+	Query: "ambystoma ma year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:concinnatus genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "scientificname:(Elassoma boehlkei) country:United States mappable:1" ; Times: 1
+	Query: "class:aves catalognumber:52400" ; Times: 3
+	Query: "Haemulon carbonarium mappable:1" ; Times: 1
+	Query: "country:&#34;eritrea&#34; recordedby:schrader" ; Times: 2
+	Query: "scientificname:(Hybognathus hankinsoni) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:duolepis genus:Lepidoblepharis institutioncode:MCZ" ; Times: 1
+	Query: "(dermoptera Cynocephalidae)" ; Times: 2
+	Query: "yanacensis" ; Times: 1
+	Query: "specificepithet:callicephalus" ; Times: 2
+	Query: "15683" ; Times: 1
+	Query: "&#34;spilogale putorius&#34;" ; Times: 1
+	Query: "genus:heterophasia" ; Times: 1
+	Query: "Ortalis columbiana" ; Times: 1
+	Query: "Morone chrsops" ; Times: 1
+	Query: "sundarbans" ; Times: 1
+	Query: "monachus schauinslandi" ; Times: 2
+	Query: "Cynanthus latirostris" ; Times: 1
+	Query: "Pleurodema brachyops" ; Times: 4
+	Query: "&#34;Dasypus Novemcinctus&#34;" ; Times: 3
+	Query: "porcupine" ; Times: 7
+	Query: "specificepithet:concinnatus genus:gonatodes country:&#34;Colombia&#34;" ; Times: 2
+	Query: "specificepithet:americana genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sphaerodactylus lazelli" ; Times: 2
+	Query: "canis lupus" ; Times: 1
+	Query: "82104" ; Times: 2
+	Query: "holbrookia elegans" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "oxybelis aeneus" ; Times: 11
+	Query: "Sphaerodactylus goniorhynchus" ; Times: 1
+	Query: "209785" ; Times: 1
+	Query: "Crocodylus novaeguineae vntype:specimen hasmedia:1" ; Times: 1
+	Query: "pteropus giganteus" ; Times: 5
+	Query: "chelonoidis" ; Times: 2
+	Query: "dhongoka" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "(dermoptera west java)" ; Times: 2
+	Query: "specificepithet:festae genus:Lepidoblepharis institutioncode:MCZ" ; Times: 1
+	Query: "craugastor augusti" ; Times: 5
+	Query: "Ptyodactylus hasselquistii" ; Times: 4
+	Query: "Attila spadiceus" ; Times: 2
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "NA NA" ; Times: 6
+	Query: "catalognumber:323850 institutioncode:MCZ" ; Times: 1
+	Query: "class:Reptilia locality:Cenepa country:&#34;Peru&#34;" ; Times: 2
+	Query: "anthus furcatus" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus NOT monocerata) institutioncode:MCZ" ; Times: 1
+	Query: "class:Aves country:&#34;Papua New Guinea&#34; institutioncode:MCZ" ; Times: 1
+	Query: "distance(location,geopoint(22.415127710221153,-95.1812603971295))&lt;100000" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis fuscoauratus " ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Coleodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:georgeensis genus:Aristelliger institutioncode:MCZ" ; Times: 1
+	Query: "Thunnus atlanticus mappable:1" ; Times: 1
+	Query: "specificepithet:praesignis genus:Aristelliger institutioncode:MCZ" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "trinidad genus:thyroptera" ; Times: 1
+	Query: "specificepithet:rivularis genus:taricha" ; Times: 4
+	Query: "specificepithet:insularis genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Gymnodactylus geckoides" ; Times: 2
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "genus:Bombina specificepithet:maxima" ; Times: 1
+	Query: "Corvula sanctaeluciae mappable:1" ; Times: 1
+	Query: "genus:zapus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34;" ; Times: 4
+	Query: "Java order:dermoptera" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Salvadora hexalepis virgultea" ; Times: 1
+	Query: "scientificname:Mullus surmuletus mappable:1" ; Times: 1
+	Query: "specificepithet:alluaudi genus:Plethodontohyla" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "specificepithet:aenea genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sphaerodactylus exsul" ; Times: 1
+	Query: "Moloch" ; Times: 1
+	Query: "jubata" ; Times: 1
+	Query: "Neochen jubata" ; Times: 2
+	Query: "specificepithet:horrida genus:Homonota institutioncode:MCZ" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 2
+	Query: "specificepithet:buchwaldi genus:Lepidoblepharis institutioncode:MCZ" ; Times: 1
+	Query: "Myospalax myospalax" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "assimilis tunneyi" ; Times: 1
+	Query: "erethizon &#34;dorsatum&#34;" ; Times: 4
+	Query: "phoenicopterus ruber" ; Times: 10
+	Query: "specificepithet:Vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "daption australe" ; Times: 2
+	Query: "pantostictus" ; Times: 1
+	Query: "bison bison" ; Times: 1
+	Query: "mesoscincus" ; Times: 1
+	Query: "genus:Mantella specificepithet:laevigata" ; Times: 1
+	Query: "drepanornis bruijnii" ; Times: 9
+	Query: "country:Ecuador scientificname:Echimys saturnus " ; Times: 1
+	Query: "Apalone spinifera texas" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "locality:reading recordedby:hammond" ; Times: 1
+	Query: "specificepithet:klauberi genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:vittatus genus:Gonatodes country:&#34;Venezuela&#34;" ; Times: 3
+	Query: "cheeseman" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "(porcupine)" ; Times: 1
+	Query: "chionactis palarostris" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "Cnemidophorus inornatus" ; Times: 1
+	Query: "&#34;Ailurus Fulgens&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "MCZ 25789" ; Times: 1
+	Query: "Dasypus &#34;novemcinctus&#34;" ; Times: 3
+	Query: "mcz 279338" ; Times: 1
+	Query: "Holoaden luederwaldti" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "161777" ; Times: 1
+	Query: "Sphaerodactylus ramsdeni" ; Times: 1
+	Query: "country:Ecuador scientificname:Gonatodes caudiscutatus " ; Times: 1
+	Query: "scientificname:(Richardsonius balteatus) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;texas&#34; year &gt;= 1849 year &lt;= 1953" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "el salvador" ; Times: 2
+	Query: "Anchoa cubana mappable:1" ; Times: 1
+	Query: "specificepithet:smithi genus:gekko country:&#34;indonesia&#34;" ; Times: 2
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "specificepithet:dekayi genus:storeria stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Arthroleptis kidogo" ; Times: 1
+	Query: "Cyrtodactylus sermowaiensis" ; Times: 2
+	Query: "West Java order:dermoptera" ; Times: 1
+	Query: "country:Ecuador scientificname:Stenocercus humeralis " ; Times: 1
+	Query: "genus:chelonia" ; Times: 4
+	Query: "boreas genus:Anaxyrus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "puffinus phoenix" ; Times: 4
+	Query: "specificepithet:basiliscus genus:Crotalus stateprovince:&#34;Colima&#34;" ; Times: 1
+	Query: "sceloporus olivaceus" ; Times: 1
+	Query: "Anchoa lamprotaenia mappable:1" ; Times: 1
+	Query: "coracopsis nigra" ; Times: 6
+	Query: "Sphenoeacus afer" ; Times: 2
+	Query: "anolis maynardi" ; Times: 1
+	Query: "Pipilo erythrophthalmus magnirostris" ; Times: 1
+	Query: "275489" ; Times: 1
+	Query: "Pelagodroma marina new zealand" ; Times: 1
+	Query: "chondrohierax wilsoni vntype:specimen AND (NOT Africa) year &lt;= 2020" ; Times: 1
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 1
+	Query: "bradypus &#34;tridactylus&#34;" ; Times: 1
+	Query: "vntype:specimen order:Artiodactyla country:&#34;Indonesia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Pteruthius flaviscapis" ; Times: 5
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:glacialis genus:Fulmarus family:Procellariidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "Mullus argentinae mappable:1" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:interandinus genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "genus:Brachyramphus class:aves year &gt;= 1903 year &lt;= 1905" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "pterodroma galapagos" ; Times: 1
+	Query: "Oceanodroma leucorhoa" ; Times: 1
+	Query: "Claudius" ; Times: 1
+	Query: "genus:Graphiurus hastypestatus:1" ; Times: 1
+	Query: "Alouatta seniculus mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus ravus " ; Times: 3
+	Query: "genus:crotalus county:&#34;coconino&#34;" ; Times: 3
+	Query: "(Dermoptera)" ; Times: 6
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 1
+	Query: "&#34;Odocoileus virginianus&#34;" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Walterinnesia aegyptia" ; Times: 3
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:MCZ" ; Times: 1
+	Query: "pachyptila st paul" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "BMNH 1946" ; Times: 1
+	Query: "Gonatodes taniae" ; Times: 1
+	Query: "amictopholis" ; Times: 1
+	Query: "Sphaerodactylus monensis" ; Times: 1
+	Query: "Gymnoscopelus fraseri" ; Times: 1
+	Query: "Caiman yacare vntype:specimen hasmedia:1" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 8
+	Query: "mummy" ; Times: 2
+	Query: "Phyllodactylus rutteni" ; Times: 2
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "genus:Naja continent:Africa (Naja melanoleuca)" ; Times: 1
+	Query: "Pan troglodytes" ; Times: 7
+	Query: "Anisotremus virginicus mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:lanio class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Diplophos australis" ; Times: 7
+	Query: "Dermochelys" ; Times: 3
+	Query: "Gopherus berlandieri starr" ; Times: 1
+	Query: "207437" ; Times: 1
+	Query: "genus:onychomys county:&#34;maricopa&#34;" ; Times: 4
+	Query: "Oxybelis aeneus country:&#34;United States&#34;" ; Times: 1
+	Query: "stegostoma" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;comayagua&#34; country:&#34;honduras&#34;" ; Times: 1
+	Query: "241251" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:kidogo" ; Times: 1
+	Query: "145084" ; Times: 1
+	Query: "&#34;Glaucomys sabrinus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "puffinus assimilis new zealand" ; Times: 1
+	Query: "specificepithet:Fuscus genus:Eptesicus family:Vespertilionidae country:&#34;Cuba&#34;" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "emydoidea blanding" ; Times: 2
+	Query: "Gymnoscopelus bolini" ; Times: 1
+	Query: "specificepithet:cochranae genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:davisi genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "family:scincidae locality:Kinshasa" ; Times: 1
+	Query: "ORDER DERMOPTERA" ; Times: 3
+	Query: "country:Ecuador scientificname:Leptodeira septentrionalis " ; Times: 1
+	Query: "genus:Alcippe country:&#34;Malaysia&#34;" ; Times: 2
+	Query: "specificepithet:stolidus genus:anous country:&#34;philippines&#34;" ; Times: 1
+	Query: "wing and tail image collection" ; Times: 1
+	Query: "genus:bolitoglossa country:&#34;honduras&#34;" ; Times: 1
+	Query: "&#34;Marmota monax&#34;" ; Times: 2
+	Query: "Makaira nigricans  mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma osburni) country:United States mappable:1" ; Times: 1
+	Query: "Gastrotheca plumbea" ; Times: 2
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:lar genus:Aristelliger institutioncode:MCZ" ; Times: 1
+	Query: "locality:Chimborazo " ; Times: 1
+	Query: "Ambystoma californiense stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:Valentinei genus:Desmognathus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Molothrus stateprovince:&#34;California&#34; year &lt;= 1910" ; Times: 1
+	Query: "sphenomorphus jobiensis" ; Times: 1
+	Query: "genus:Salamandra specificepithet:salamandra" ; Times: 1
+	Query: "Lampropeltis multifasciata" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 3
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:MCZ" ; Times: 1
+	Query: "&#34;pecari tejacu&#34;" ; Times: 4
+	Query: "dermophis mexicanus" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "specificepithet:nigropunctatus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "puffinus abrolhos" ; Times: 1
+	Query: "Morone chrysops" ; Times: 2
+	Query: "ursus arctos" ; Times: 1
+	Query: "ramphocinclus" ; Times: 2
+	Query: "specificepithet:parkeri genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 2
+	Query: "class:Aves catalognumber:12020" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "Spizaetus floris vntype:specimen year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "country:&#34;Mexico&#34; hasmedia:1" ; Times: 1
+	Query: "244028" ; Times: 1
+	Query: "JR 18 Pituophis" ; Times: 1
+	Query: "genus:lampropeltis order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "113004" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "tarentola annularis" ; Times: 1
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 2
+	Query: "country:Ecuador scientificname:Anolis ortonii " ; Times: 1
+	Query: "rhinogobius" ; Times: 6
+	Query: "Oedipina parvipes" ; Times: 2
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:chalcopterus genus:rhinoptilus country:&#34;kenya&#34;" ; Times: 1
+	Query: "164850" ; Times: 1
+	Query: "country:Ecuador scientificname:Pholidobolus affinis " ; Times: 1
+	Query: "specificepithet:virescens family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Sphaerodactylus scaber" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Brachyramphus)" ; Times: 1
+	Query: "vntype:specimen specificepithet:kaouthia genus:naja" ; Times: 1
+	Query: "saba pleurodema brachyops" ; Times: 1
+	Query: "320470" ; Times: 1
+	Query: "&#34;Cervus canadensis&#34;" ; Times: 1
+	Query: "locality:Alameda stateprovince:&#34;California&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;georgia&#34; country:&#34;united states&#34;" ; Times: 3
+	Query: "locality:Jersey country:&#34;UNited KIngdom&#34;" ; Times: 1
+	Query: "specificepithet:furvus genus:Pseudogonatodes institutioncode:MCZ" ; Times: 1
+	Query: "Arctonyx" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Amphibia locality:Cenepa country:&#34;Peru&#34;" ; Times: 2
+	Query: "specificepithet:microphyllus genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 4
+	Query: "specificepithet:nelsoni genus:Aristelliger institutioncode:MCZ" ; Times: 1
+	Query: "Diplacanthopoma" ; Times: 2
+	Query: "Glaucostegus" ; Times: 1
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 1
+	Query: "genus:Hynobius specificepithet:abei" ; Times: 1
+	Query: "vntype:specimen specificepithet:pallida genus:naja" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "catalognumber:201533" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Tobago&#34;" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "S. Jillson" ; Times: 2
+	Query: "Enulius flavitorques" ; Times: 2
+	Query: "cystophora" ; Times: 2
+	Query: "Sistrurus miliarius" ; Times: 2
+	Query: "Graptemys geographica Pennsylvania" ; Times: 1
+	Query: "73559" ; Times: 1
+	Query: "Psammobates tentorius" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera (Java)" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 2
+	Query: "UWBM 8096" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Oedipina complex" ; Times: 3
+	Query: "naval base stateprovince:&#34;guantanamo&#34; country:&#34;cuba&#34;" ; Times: 2
+	Query: "137110" ; Times: 1
+	Query: "leptodeira texas" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "catalognumber:207824 institutioncode:MCZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 3
+	Query: "Melanostigma gelatinosum" ; Times: 1
+	Query: "class:Reptilia locality:Valle del Cauca" ; Times: 1
+	Query: "72167" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "helicops" ; Times: 2
+	Query: "34885" ; Times: 1
+	Query: "country:Ecuador scientificname:Anilius scytale " ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+	Query: "hemidactylus garnotti" ; Times: 1
+	Query: "ROM 3088" ; Times: 1
+	Query: "genus:heliosciurus institutioncode:MCZ" ; Times: 2
+	Query: "specificepithet:clamitans stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "catalognumber:252181 institutioncode:MCZ" ; Times: 1
+	Query: "Bats" ; Times: 1
+	Query: "3d" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Coleodactylus country:&#34;Brazil&#34; year &gt;= 1970" ; Times: 1
+	Query: "mt omei liu" ; Times: 2
+	Query: "specificepithet:attenuatus genus:Batrachoseps county:&#34;Contra Costa&#34;" ; Times: 1
+	Query: "specificepithet:antillensis genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:ocoae genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "hiodon alosoides" ; Times: 1
+	Query: "Extenuatum" ; Times: 1
+	Query: "saba" ; Times: 1
+	Query: "sonora michoacanensis" ; Times: 1
+	Query: "(dasypus novemcinctus)" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 20
+	Query: "151306" ; Times: 1
+	Query: "specificepithet:gaigeae genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Cataetyx" ; Times: 3
+	Query: "Alligator sinensis vntype:specimen hasmedia:1" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 2
+	Query: "188093" ; Times: 1
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 1
+	Query: "Rhodonessa caryophyllacea" ; Times: 2
+	Query: "apalone spinifera" ; Times: 2
+	Query: "nesillas typica" ; Times: 6
+	Query: "specificepithet:sputator genus:sphaerodactylus" ; Times: 3
+	Query: "genus:Anolis country:&#34;Puerto Rico&#34; institutioncode:MCZ" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 3
+	Query: "Vinciguerria" ; Times: 1
+	Query: "dasypus &#34;novemcinctus&#34;" ; Times: 4
+	Query: "Callicebus" ; Times: 1
+	Query: "hemidactylus mabouia united states" ; Times: 1
+	Query: "Achaetops pycnopygius" ; Times: 3
+	Query: "Chilomeniscus stramineus" ; Times: 10
+	Query: "scientificname:(Gila atraria) country:United States mappable:1" ; Times: 1
+	Query: "Rhinolophus sinicus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "genus:Cardioglossa specificepithet:pulchra" ; Times: 4
+	Query: "&#34;Myotis sodalis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "riparia paludicola" ; Times: 3
+	Query: "apalone spinifera emoryi texas" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "Anolis aeneus" ; Times: 4
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 2
+	Query: "Tyto glaucops" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "Diapterus rhombeus mappable:1" ; Times: 1
+	Query: "aquila clanga india" ; Times: 1
+	Query: "277123" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "(Dasypus novemcinctus)" ; Times: 3
+	Query: "neochen" ; Times: 2
+	Query: "specificepithet:catesbeianus country:&#34;United States&#34;" ; Times: 1
+	Query: "hemidactylus frenatus USA" ; Times: 1
+	Query: "genus:gonatodes stateprovince:&#34;meta&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "Coregonus lavaretus" ; Times: 1
+	Query: "Stellifer colonensis mappable:1" ; Times: 1
+	Query: "sylvia curruca india" ; Times: 2
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "paradigalla brevicauda" ; Times: 4
+	Query: "passer domesticus year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "genus:storeria stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "class:mammalia catalognumber:7971 institutioncode:MCZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 2
+	Query: "Calamaria virgulata" ; Times: 2
+	Query: "puffinus indian ocean" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 3
+	Query: "Psalidoprocne nitens" ; Times: 2
+	Query: "genus:pituophis stateprovince:&#34;georgia&#34;" ; Times: 11
+	Query: "Vireolanius pulchellus vntype:specimen country:&#34;Costa Rica&#34;" ; Times: 3
+	Query: "scientificname:(Noturus insignis) country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:albicaudatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Thomasomys aureus " ; Times: 2
+	Query: "genus:Lepidoblepharis country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Anaxyrus punctatus" ; Times: 7
+	Query: "locality:Lagarto Cocha " ; Times: 1
+	Query: "lanthanotus" ; Times: 1
+	Query: "specificepithet:amazona genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Micropogonias furnieri mappable:1" ; Times: 1
+	Query: "genus:galea" ; Times: 1
+	Query: "2-6775" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "specificepithet:gerrhopygus genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Mesoplodon Bidens" ; Times: 1
+	Query: "255642" ; Times: 1
+	Query: "family:Ploceidae" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 1
+	Query: "genus:Occidozyga specificepithet:lima" ; Times: 1
+	Query: "Phyllodactylus transversalis" ; Times: 2
+	Query: "class:mammalia catalognumber:7969 institutioncode:MCZ" ; Times: 1
+	Query: "genus:Globicephala stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:baurii genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "genus:Aplastodiscus specificepithet:perviridis" ; Times: 1
+	Query: "specificepithet:hechti genus:Aristelliger institutioncode:MCZ" ; Times: 1
+	Query: "Oceanodroma markhami" ; Times: 3
+	Query: "specificepithet:allisoni genus:Anolis country:&#34;Honduras&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:elisae genus:Asaccus institutioncode:MCZ" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "punomys" ; Times: 1
+	Query: "Tachycineta thalassina" ; Times: 1
+	Query: "stateprovince:Morona Santiago class:Amphibia " ; Times: 3
+	Query: "country:Ecuador scientificname:Nectomys apicalis " ; Times: 2
+	Query: "varanus rudicollis" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 2
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus)" ; Times: 1
+	Query: "specificepithet:monensis genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:guttata stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Ateles belzebuth " ; Times: 10
+	Query: "genus:Eleutherodactylus specificepithet:gryllus" ; Times: 1
+	Query: "87330" ; Times: 1
+	Query: "specificepithet:underwoodi genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:phoebe genus:sayornis family:Tyrannidae hastissue:1" ; Times: 2
+	Query: "specificepithet:collaris genus:Pristurus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:mabeei genus:Ambystoma stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Anolis country:&#34;Belize&#34; institutioncode:MCZ" ; Times: 1
+	Query: "scientificname:Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Achirus achirus" ; Times: 2
+	Query: "specificepithet:lazelli genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "20991" ; Times: 2
+	Query: "locality:El Arenal " ; Times: 1
+	Query: "xenopeltis unicolor" ; Times: 1
+	Query: "Drymodes superciliaris" ; Times: 1
+	Query: "UIMNH" ; Times: 1
+	Query: "markhami" ; Times: 1
+	Query: "Phyllodactylus reissii" ; Times: 2
+	Query: "Lichanura gracia" ; Times: 1
+	Query: "Arto Schag" ; Times: 1
+	Query: "catalognumber:6159 institutioncode:MCZ" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus NOT monocerata)" ; Times: 1
+	Query: "Atelopus palmatus" ; Times: 1
+	Query: "324563" ; Times: 1
+	Query: "Equetus punctatus mappable:1" ; Times: 1
+	Query: "Cacicus melanicterus" ; Times: 2
+	Query: "genus:Anolis country:&#34;Haiti&#34; institutioncode:MCZ" ; Times: 1
+	Query: "Erithizon dorsatum" ; Times: 2
+	Query: "cas 10991" ; Times: 1
+	Query: "Alaska University museum Calcarius" ; Times: 1
+	Query: "cas 10994" ; Times: 1
+	Query: "order:dermoptera" ; Times: 2
+	Query: "Coleodactylus meridionalis" ; Times: 1
+	Query: "modestus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "coeligena iris" ; Times: 1
+	Query: "Cotinga maculata" ; Times: 3
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "specificepithet:pentadactyla" ; Times: 3
+	Query: "Ambystoma californiense" ; Times: 2
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "heterodon stateprovince:&#34;pennsylvania&#34;" ; Times: 5
+	Query: "recordedby:Picchi" ; Times: 2
+	Query: "specificepithet:gambianus genus:heliosciurus institutioncode:MCZ" ; Times: 1
+	Query: "lerneri specificepithet:smaragdinus genus:Anolis" ; Times: 1
+	Query: "genus:Hemiphractus specificepithet:johnsoni" ; Times: 1
+	Query: "catalognumber:124091" ; Times: 1
+	Query: "Farancia erytrogramma" ; Times: 3
+	Query: "physeter vntype:specimen preparations:skeleton" ; Times: 2
+	Query: "specificepithet:pinetis genus:Geomys" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "19403 KUNHM" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 4
+	Query: "country:Ecuador scientificname:Cebuella pygmaea " ; Times: 2
+	Query: "Sphaerodactylus gaigeae" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "Iraq" ; Times: 2
+	Query: "puffinus assimilis kermadecensis" ; Times: 1
+	Query: "239399" ; Times: 1
+	Query: "family:apodidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "specificepithet:sicula" ; Times: 1
+	Query: "specificepithet:porcatus genus:Anolis locality:Isla de Pinos country:&#34;Cuba&#34;" ; Times: 2
+	Query: "Antillophis andreae" ; Times: 2
+	Query: "Danaphos" ; Times: 1
+	Query: "vntype:specimen genus:Eucometis class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "arapaima" ; Times: 1
+	Query: "vntype:specimen specificepithet:atra genus:naja" ; Times: 1
+	Query: "scientificname:Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "atelopus" ; Times: 1
+	Query: "specificepithet:darlingtoni genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "UMMZ 1013" ; Times: 2
+	Query: "specificepithet:inaequalis genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899" ; Times: 2
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "(&#34;Dasypus Novemcinctus&#34;)" ; Times: 1
+	Query: "accipiter griseiceps vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "catalognumber:214341 institutioncode:MCZ" ; Times: 1
+	Query: "locality:Yasuni " ; Times: 1
+	Query: "country:Ecuador scientificname:Mazama rufina " ; Times: 15
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "specificepithet:palarostris genus:chionactis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "MICROCEBUS" ; Times: 1
+	Query: "Centropomus ensiferus mappable:1" ; Times: 1
+	Query: "Cyanolimnas cerverai" ; Times: 4
+	Query: "51716" ; Times: 1
+	Query: "enixus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:Chelonia country:&#34;United states&#34;" ; Times: 1
+	Query: "cas ceratophrys" ; Times: 1
+	Query: "genus:thamnophis stateprovince:&#34;michoacan&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "149887" ; Times: 1
+	Query: "Blaser Barro Alto" ; Times: 1
+	Query: "family:Elephantidae" ; Times: 1
+	Query: "anas discors" ; Times: 1
+	Query: "Sceloporus heterolepis" ; Times: 1
+	Query: "277686" ; Times: 1
+	Query: "&#34;west java&#34; (dermoptera)" ; Times: 1
+	Query: "Anaxyrus woodhousii" ; Times: 16
+	Query: "megapodius freycinet waigeo" ; Times: 1
+	Query: "Macrosphenus kempi" ; Times: 2
+	Query: "Attila spadiceus pacificus" ; Times: 1
+	Query: "241470" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 37
+	Query: "Cyclopes didactylus" ; Times: 2
+	Query: "specificepithet:californiae genus:lampropeltis" ; Times: 2
+	Query: "anolis biporcatus" ; Times: 1
+	Query: "Sphaerodactylus gilvitorques" ; Times: 1
+	Query: "Gonatodes tapajonicus" ; Times: 1
+	Query: "specificepithet:gilberti genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "genus:Rana county:&#34;Kleberg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "181212" ; Times: 1
+	Query: "institutioncode:MCZ" ; Times: 2
+	Query: "genus:Anaxyrus stateprovince:&#34;California&#34; (boreas halophilus)" ; Times: 3
+	Query: "specificepithet:difficilis genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "country:&#34;Palestine&#34;" ; Times: 1
+	Query: "Xenosaurus rackhami" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Caretta vntype:specimen hasmedia:1" ; Times: 1
+	Query: "zosterisessor" ; Times: 1
+	Query: "scardinius erythrophthalmus" ; Times: 2
+	Query: "country:Ecuador scientificname:Stenocercus angulifer " ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:MCZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Polychrus marmoratus " ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1920 year &lt;= 1930 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "felis chaus" ; Times: 1
+	Query: "Lepidoblepharis duolepis" ; Times: 1
+	Query: "attwateri" ; Times: 1
+	Query: "canicapillus nagaland aves" ; Times: 1
+	Query: "coniophanes" ; Times: 1
+	Query: "karsenia" ; Times: 1
+	Query: "Amazilia tzacatl" ; Times: 1
+	Query: "Anolis cybotes" ; Times: 2
+	Query: "Haemulon sciurus" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 8
+	Query: "Glyptemys muhlenbergii" ; Times: 4
+	Query: "gopherus polyphemus" ; Times: 1
+	Query: "specificepithet:beattyi genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Eucinostomus havana mappable:1" ; Times: 1
+	Query: "catalognumber:80072 institutioncode:MCZ" ; Times: 1
+	Query: "scientificname:(Prosopium cylindraceum) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:pholeter genus:Amphiuma" ; Times: 3
+	Query: "Sistrurus ravus" ; Times: 3
+	Query: "onychorhynchus mexicanus" ; Times: 2
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:cristiceps" ; Times: 1
+	Query: "124774" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Santa Cruz&#34; country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "evolution" ; Times: 1
+	Query: "locality:Cajanuma " ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "reig" ; Times: 1
+	Query: "Aristelliger lar" ; Times: 1
+	Query: "Elachistocleis ovalis" ; Times: 1
+	Query: "&#34;Microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "genus:Chironectes country:&#34;Panama&#34;" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (Brachyramphus)" ; Times: 1
+	Query: "genus:Geococcyx" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "Lepidoblepharis heyerorum" ; Times: 1
+	Query: "order:squamata locality:Cocha Cashu" ; Times: 3
+	Query: "Gonatodes rozei" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:rohdei" ; Times: 1
+	Query: "genus:Deirochelys stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:cinereus genus:Plethodon stateprovince:&#34;INDIANA&#34;" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "specificepithet:liocephalus genus:gerrhonotus stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Globicephala stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Alopoglossus buckleyi " ; Times: 1
+	Query: "Urocotyledon wolterstorffi" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 1
+	Query: "specificepithet:galapagensis genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 2
+	Query: "Bairdiella ronchus mappable:1" ; Times: 1
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 1
+	Query: "genus:Brachyramphus class:aves year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "specificepithet:scaber genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Ambystoma Californiense" ; Times: 1
+	Query: "Lepidoblepharis miyatai" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:Cercomacra" ; Times: 4
+	Query: "royal ontario museum" ; Times: 1
+	Query: "&#34;Erinaceus europaeus&#34;" ; Times: 1
+	Query: "order:chiroptera country:&#34;Tobago&#34;" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 6
+	Query: "specificepithet:townsendi genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Dos rios Ecuador" ; Times: 1
+	Query: "specificepithet:semasiops genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Litoria jervisiensis" ; Times: 1
+	Query: "scientificname:Upeneus parvus mappable:1" ; Times: 1
+	Query: "genus:Brachyramphus family:Alcidae locality:Guadalupe country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera locality:abaete" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:francei" ; Times: 1
+	Query: "sdsu 4351" ; Times: 1
+	Query: "anthus lutescens" ; Times: 2
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 1
+	Query: "California kingsnake" ; Times: 2
+	Query: "cas 10989" ; Times: 1
+	Query: "Riparia riparia indica" ; Times: 1
+	Query: "Pteruthius flaviscapis India" ; Times: 2
+	Query: "scientificname:Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "MVZ 223836" ; Times: 2
+	Query: "romeri" ; Times: 1
+	Query: "thamnophis sirtalis tetrataenia" ; Times: 2
+	Query: "Sphaerodactylus armstrongi" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "Alepisaurus" ; Times: 1
+	Query: "specificepithet:aquaticus genus:sylvilagus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:intermedius genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "napothera proxima" ; Times: 3
+	Query: "country:Ecuador scientificname:Bachia trisanale " ; Times: 1
+	Query: "malpolon moilensis" ; Times: 1
+	Query: "passer montanus" ; Times: 4
+	Query: "genus:Agalychnis specificepithet:callidryas" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "91643" ; Times: 1
+	Query: "&#34;Erethizon Dorsatum &#34;" ; Times: 2
+	Query: "Crotalus molossus" ; Times: 3
+	Query: "Northern Territory genus:Moloch" ; Times: 1
+	Query: "Nycticebus pygmaeus" ; Times: 1
+	Query: "genus:Alepisaurus hastissue:1" ; Times: 3
+	Query: "aetobatus narinari" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Riggenbach" ; Times: 1
+	Query: "malpolon insignitus" ; Times: 1
+	Query: "genus:Lepidobatrachus specificepithet:asper" ; Times: 1
+	Query: "puffinus pacificus kermadec" ; Times: 1
+	Query: "Kaloula baleata" ; Times: 1
+	Query: "genus:cubatyphlops" ; Times: 1
+	Query: "kurdistan" ; Times: 1
+	Query: "Plectrohyla guatemalensis" ; Times: 1
+	Query: "specificepithet:albifrons genus:Amazona country:&#34;mexico&#34;" ; Times: 2
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera (west java)" ; Times: 1
+	Query: "genus:Brachyramphus class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "anaxyrus microscaphus" ; Times: 2
+	Query: "Primate" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 6
+	Query: "specificepithet:marmoratus class:aves stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "Gonatodes falconensis" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "specificepithet:oudrii genus:Ptyodactylus institutioncode:MCZ" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "farquhari" ; Times: 1
+	Query: "Pristurus carteri" ; Times: 1
+	Query: "oceanites exasperatus" ; Times: 2
+	Query: "Macropus rufus" ; Times: 3
+	Query: "scorpioides" ; Times: 2
+	Query: "class:aves country:&#34;Moldova&#34;" ; Times: 1
+	Query: "Gymnoscopelus nicholsi" ; Times: 1
+	Query: "specificepithet:palleucus genus:Gyrinophilus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Ensatina platensis" ; Times: 6
+	Query: "specificepithet:armstrongi genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "podarcis sicula" ; Times: 1
+	Query: "vntype:specimen specificepithet:pileatus genus:Coryphospingus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "hydromantes brunus" ; Times: 4
+	Query: "megapodius freycinet" ; Times: 4
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 3
+	Query: "Sitta pusilla insularis" ; Times: 2
+	Query: "family:apodidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "Procyon pygmaeus" ; Times: 4
+	Query: "Caluromys derbianus" ; Times: 2
+	Query: "Gephyrocharax" ; Times: 3
+	Query: "Ploceus manyar" ; Times: 1
+	Query: "Amazilia cyanura" ; Times: 4
+	Query: "chondrohierax vntype:specimen (cuba) year &lt;= 2020" ; Times: 1
+	Query: "Sphaerodactylus kirbyi" ; Times: 1
+	Query: "Cotinga amabilis" ; Times: 2
+	Query: "Cardioglossa pulchra" ; Times: 3
+	Query: "Vireo gilvus victoriae" ; Times: 1
+	Query: "genus:Chelonoidis (Galapagos OR Ecuador)" ; Times: 2
+	Query: "Alligator mississippiensis vntype:specimen hasmedia:1" ; Times: 1
+	Query: "genus:Lichanura" ; Times: 1
+	Query: "Sylvietta isabellina" ; Times: 2
+	Query: "H. Greenough Jr." ; Times: 1
+	Query: "jubatus" ; Times: 1
+	Query: "specificepithet:compactilis genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Glyptemys" ; Times: 3
+	Query: "locality:Santa Ana country:&#34;Peru&#34;" ; Times: 1
+	Query: "Notolychnus valdiviae" ; Times: 1
+	Query: "specificepithet:gigas genus:podilymbus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:alex walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "spilornis klossi vntype:specimen year &lt;= 2020" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Vibrissaphora boringii" ; Times: 1
+	Query: "bradypterus victorini" ; Times: 1
+	Query: "country:Ecuador scientificname:Atractus major " ; Times: 1
+	Query: "class:Mammalia locality:Abaete" ; Times: 2
+	Query: "specificepithet:rufopectus genus:poliocephalus" ; Times: 1
+	Query: "sistrurus texas" ; Times: 1
+	Query: "specificepithet:zygaena genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Pseudogonatodes barbouri" ; Times: 1
+	Query: "Uma rufopunctata" ; Times: 10
+	Query: "vntype:specimen genus:Fratercula family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:jacksoni genus:francolinus" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "specificepithet:crombiei genus:Tarentola institutioncode:MCZ" ; Times: 1
+	Query: "Owstonia totomiensis" ; Times: 1
+	Query: "specificepithet:liocephalus genus:gerrhonotus" ; Times: 1
+	Query: "specificepithet:palarostris genus:chionactis" ; Times: 1
+	Query: "specificepithet:leptodactyla genus:Rana" ; Times: 1
+	Query: "Oceanites galapagos" ; Times: 3
+	Query: "184986" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 3
+	Query: "country:Ecuador scientificname:Pseudogonatodes guianensis " ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis scypheus " ; Times: 1
+	Query: "Eleutherodactylus johnstonei" ; Times: 1
+	Query: "genus:crotalus order:Squamata country:&#34;honduras&#34;" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Trinidad and Tobago&#34;" ; Times: 1
+	Query: "pachyptila macgillivrayi" ; Times: 2
+	Query: "Amphisbaena carvalhoi" ; Times: 1
+	Query: "anaxyrus fowler" ; Times: 2
+	Query: "specificepithet:wilsoni genus:hemignathus" ; Times: 2
+	Query: "specificepithet:uruguayensis genus:Homonota institutioncode:MCZ" ; Times: 1
+	Query: "&#34;hyaena hyaena&#34;" ; Times: 1
+	Query: "154450" ; Times: 1
+	Query: "Lampadena speculigera" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "Parupeneus chrysonemus mappable:1" ; Times: 1
+	Query: "genus:heloderma order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "salvadora grahamiae" ; Times: 5
+	Query: "catalognumber:312297 institutioncode:MCZ" ; Times: 1
+	Query: "scientificname:Upeneus taeniopterus mappable:1" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 5
+	Query: "family:tupaiidae" ; Times: 1
+	Query: "specificepithet:andersonii family:Hylidae" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:Valentinei genus:Desmognathus year &gt;= 2000" ; Times: 1
+	Query: "255643" ; Times: 1
+	Query: "amnh 1342" ; Times: 1
+	Query: "genus:anolis catalognumber:60902 institutioncode:MCZ" ; Times: 2
+	Query: "Erethizon &#34;dorsatum&#34;" ; Times: 1
+	Query: "specificepithet:ruibali genus:Sphaerodactylus institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:lepidopygus genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "Arthroleptis francei" ; Times: 4
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "Sphaerodactylus becki" ; Times: 1
+	Query: "genus:anolis catalognumber:60889 institutioncode:MCZ" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "locality:briones regional park" ; Times: 1
+	Query: "Sandground MCZ" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:alex. walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:MCZ" ; Times: 1
+	Query: "Osteolaemus tetraspis vntype:specimen hasmedia:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "vntype:specimen class:Reptilia country:&#34;India&#34; hastypestatus:1" ; Times: 1
+	Query: "class:reptilia country:&#34;cuba&#34; hastypestatus:1" ; Times: 3
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:Alex Walker (egg)" ; Times: 1
+	Query: "specificepithet:fairchildi genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "hippolais caligata india" ; Times: 1
+	Query: "Ceiba" ; Times: 2
+	Query: "Amazilia yucatanensis" ; Times: 2
+	Query: "(tremarctos ornatus)" ; Times: 2
+	Query: "heloderma horridum" ; Times: 4
+	Query: "genus:Alopoglossus recordedby:Altenburg" ; Times: 2
+	Query: "Upeneus doriae mappable:1" ; Times: 2
+	Query: "Sphaerodactylus ruibali" ; Times: 1
+	Query: "scientificname:Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "arvicola fmnh" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "Avocettula recurvirostris" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bangladesh&#34; continent:Asia" ; Times: 2
+	Query: "catalognumber:147193" ; Times: 1
+	Query: "Umbrina coroides mappable:1" ; Times: 1
+	Query: "284148" ; Times: 1
+	Query: "vntype:specimen specificepithet:anchietae genus:naja" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker year &gt;= 1890 year &lt;= 1911" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker year &gt;= 1890 year &lt;= 1912" ; Times: 1
+	Query: "Vinciguerria attenuata" ; Times: 1
+	Query: "Brachionichthys" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 5
+	Query: "specificepithet:merriami genus:eutamias institutioncode:MCZ" ; Times: 3
+	Query: "lampropeltis pyromelana" ; Times: 4
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "Canis mesomelas	 100" ; Times: 3
+	Query: "specificepithet:lombardoi" ; Times: 2
+	Query: "Cavia tschudii" ; Times: 6
+	Query: "specificepithet:bugastrolepis genus:Phyllodactylus institutioncode:MCZ" ; Times: 1
+	Query: "apalone spinifera Brooks" ; Times: 1
+	Query: "&#34;ara tricolor&#34;" ; Times: 4
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 13
+	Query: "boreas genus:Anaxyrus" ; Times: 2
+	Query: "Varanus niloticus" ; Times: 2
+	Query: "genus:heterodon stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 2
+	Query: "specificepithet:kanaima order:anura" ; Times: 3
+	Query: "specificepithet:brunus genus:hydromantes county:&#34;mariposa&#34; year &lt;= 2020" ; Times: 1
+	Query: "eurycea tynerensis" ; Times: 2
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "Istiophorus albicans mappable:1" ; Times: 1
+	Query: "Eirenis lineomaculata" ; Times: 1
+	Query: "Desmognathus fuscus arlington" ; Times: 1
+	Query: "Achirus" ; Times: 1
+	Query: "vntype:specimen genus:Tragulus order:Artiodactyla basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Hypanus americanus  mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 523 (out of 1023 download events in this period)
+Total number of records downloaded: 127614
+Number of different countries: 29
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 10
+	Country: Norway ; Times: 2
+	Country: Australia ; Times: 12
+	Country: El Salvador ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 5
+	Country: Thailand ; Times: 2
+	Country: Iraq ; Times: 2
+	Country: Netherlands ; Times: 9
+	Country: United States ; Times: 332
+	Country: Vietnam ; Times: 2
+	Country: French Guiana ; Times: 4
+	Country: Guyana ; Times: 1
+	Country: Romania ; Times: 2
+	Country: Honduras ; Times: 1
+	Country: South Africa ; Times: 14
+	Country: Egypt ; Times: 1
+	Country: Mexico ; Times: 74
+	Country: United Kingdom ; Times: 6
+	Country: Senegal ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 36
+	Date: 2020-02-23 ; Times: 6
+	Date: 2020-02-02 ; Times: 20
+	Date: 2020-02-03 ; Times: 44
+	Date: 2020-02-26 ; Times: 16
+	Date: 2020-02-01 ; Times: 17
+	Date: 2020-02-20 ; Times: 11
+	Date: 2020-02-21 ; Times: 11
+	Date: 2020-02-22 ; Times: 13
+	Date: 2020-02-05 ; Times: 51
+	Date: 2020-02-08 ; Times: 5
+	Date: 2020-02-09 ; Times: 11
+	Date: 2020-02-28 ; Times: 19
+	Date: 2020-02-29 ; Times: 5
+	Date: 2020-02-11 ; Times: 33
+	Date: 2020-02-10 ; Times: 20
+	Date: 2020-02-13 ; Times: 10
+	Date: 2020-02-12 ; Times: 15
+	Date: 2020-02-15 ; Times: 9
+	Date: 2020-02-14 ; Times: 19
+	Date: 2020-02-17 ; Times: 8
+	Date: 2020-02-16 ; Times: 6
+	Date: 2020-02-19 ; Times: 20
+	Date: 2020-02-18 ; Times: 13
+	Date: 2020-02-24 ; Times: 17
+	Date: 2020-02-25 ; Times: 13
+	Date: 2020-02-27 ; Times: 20
+	Date: 2020-02-06 ; Times: 43
+	Date: 2020-02-07 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:longicaudus genus:microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Spatz" ; Times: 1
+	Query: "terraenovae specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "Peromyscus polionotus niveiventris" ; Times: 1
+	Query: "class:Amphibia locality:Cenepa country:&#34;Peru&#34;" ; Times: 3
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "(dermoptera java)" ; Times: 3
+	Query: "specificepithet:sicula genus:podarcis" ; Times: 1
+	Query: "Rana maculata" ; Times: 1
+	Query: "Alsophis sibonius" ; Times: 1
+	Query: "siren intermedia georgia" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 5
+	Query: "genus:Geomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 2
+	Query: "Oedipina complex" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 7
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "specificepithet:caglei genus:graptemys" ; Times: 1
+	Query: "Gymnoscopelus braueri" ; Times: 1
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen genus:Fratercula family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "pitta sordida" ; Times: 1
+	Query: "Pseudoeurycea rex" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "TREMARCTOS &#34;ORNATUS&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Sphaerodactylus klauberi" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "west java" ; Times: 1
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 6
+	Query: "vntype:specimen specificepithet:pusilla genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Sistrurus ravus" ; Times: 1
+	Query: "genus:Neacomys (Panama OR Colombia OR Venezuela)" ; Times: 1
+	Query: "genus:Graphiurus hastypestatus:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Anolis country:&#34;Puerto Rico&#34; institutioncode:MCZ" ; Times: 1
+	Query: "specificepithet:venustus genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "Grammomys dolichurus" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "genus:Craugastor country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 16
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "modestus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "order:Rodentia country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "fontigenus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "Plectrohyla guatemalensis" ; Times: 1
+	Query: "class:Amphibia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "&#34;Myotis sodalis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "riparia paludicola" ; Times: 1
+	Query: "Urosaurus clarionensis" ; Times: 1
+	Query: "FMNH Plethodon" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Lampichthys procerus" ; Times: 1
+	Query: "Anolis aeneus" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:Graphiurus" ; Times: 2
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 2020" ; Times: 1
+	Query: "genus:cuniculus" ; Times: 2
+	Query: "specificepithet:megacephalus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "&#34; tremarctos ornatus &#34;" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "Arequipa" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Coenocorypha" ; Times: 1
+	Query: "&#34;Eptesicus fuscus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "myotis oxyotus" ; Times: 1
+	Query: "vntype:specimen family:dicaeidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "Dermoptera" ; Times: 26
+	Query: "genus:Alepisaurus hastissue:1" ; Times: 1
+	Query: "genus:Anolis country:&#34;Jamaica&#34; institutioncode:MCZ" ; Times: 1
+	Query: "class:Amphibia locality:Zamora Chinchipe country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Uta squamata" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Lampadena notialis" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "specificepithet:caglei genus:Graptemys" ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 17
+	Query: "Uta palmeri" ; Times: 1
+	Query: "class:Amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "prinia gracilis" ; Times: 1
+	Query: "vntype:specimen family:dicaeidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "malpolon moilensis" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "vntype:specimen genus:Graphiurus" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Taricha" ; Times: 1
+	Query: "anthus antarcticus" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Krefftichthys anderssoni" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "&#34;Myotis lucifugus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "neacomys" ; Times: 1
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Anolis country:&#34;Ecuador&#34; institutioncode:MCZ" ; Times: 1
+	Query: "Gymnoscopelus hintonoides" ; Times: 1
+	Query: "&#34;Cerastes cerastes&#34;" ; Times: 1
+	Query: "labradorius specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "specificepithet:psittacula genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "genus:Anolis country:&#34;Haiti&#34; institutioncode:MCZ" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "Platysternon megacephalum" ; Times: 2
+	Query: "(Tremarctos ornatus)" ; Times: 3
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Pseudoeurycea brunnata" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "xenopus tropicalis" ; Times: 2
+	Query: "Galictis vittata" ; Times: 1
+	Query: "eleothreptus anomalus" ; Times: 1
+	Query: "Monachus tropicalis" ; Times: 1
+	Query: "Sphaerodactylus gaigeae" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 6
+	Query: "vntype:specimen genus:Myotis continent:North America hasmass:1" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "genus:Anolis country:&#34;Dominican Republic&#34; institutioncode:MCZ" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus NOT monocerata) institutioncode:MCZ" ; Times: 1
+	Query: "family:apodidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera country:&#34;indonesia&#34;" ; Times: 1
+	Query: "eirenis decemlineata" ; Times: 1
+	Query: "Manolepis putnami" ; Times: 3
+	Query: "Anniellidae" ; Times: 2
+	Query: "Sminthopsis murina" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "specificepithet:sicula genus:podarcis recordedby:colin donihue" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "&#34;Cerastes gasperettii&#34;" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "TREMARCTOS ORNATUS" ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "specificepithet:columba genus:Cepphus family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "specificepithet:palarostris genus:chionactis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "&#34;west java&#34; (dermoptera)" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "glaucomys californicus" ; Times: 1
+	Query: "enixus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "Lobianchia dofleini" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "acadicus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "genus:kerodon" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 3
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "Ptyodactylus puiseuxi" ; Times: 1
+	Query: "psammophis aegyptius" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "Ambystoma velasci" ; Times: 1
+	Query: "Xenosaurus rackhami" ; Times: 1
+	Query: "Bolitoglossa" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "&#34;Lasiurus cinereus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "genus:Anolis country:&#34;Belize&#34; institutioncode:MCZ" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:lagopus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "Pteronotus quadridens" ; Times: 1
+	Query: "specificepithet:concinnatus genus:gonatodes country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 2
+	Query: "(dermoptera)" ; Times: 5
+	Query: "class:Aves country:&#34;Brazil&#34; OR &#34;Brasil&#34;" ; Times: 1
+	Query: "genus:galea" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "Xantusia arizonae" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 3
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "Ptyodactylus hasselquistii" ; Times: 2
+	Query: "class:Reptilia locality:Cenepa country:&#34;Peru&#34;" ; Times: 1
+	Query: "anthus furcatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "provectus genus:microtus" ; Times: 1
+	Query: "Cynomys mexicanus" ; Times: 4
+	Query: "sorex cinereus" ; Times: 1
+	Query: "genus:Cryptotis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Urocotyledon wolterstorffi" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Xingu country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Symphalangus" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34;" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "specificepithet:pictipes family:Hylidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 1
+	Query: "Urosaurus bicarinatus" ; Times: 1
+	Query: "&#34;Cerastes vipera&#34;" ; Times: 1
+	Query: "cricosaura typica" ; Times: 1
+	Query: "Myotis melanorhinus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "wing order:Strigiformes class:Aves hasmass:1" ; Times: 2
+	Query: "louisiana" ; Times: 1
+	Query: "vntype:specimen specificepithet:aalge genus:Uria family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "centrolenidae" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "&#34;Lasiurus borealis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 1974" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "Xantusia wigginsi" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "class:Aves continent:Africa recordedby:Riggenbach" ; Times: 1
+	Query: "malpolon insignitus" ; Times: 1
+	Query: "(Graphiurus OR Cliviglis OR Aethoglis OR Gliriscus) hastypestatus:1" ; Times: 3
+	Query: "kurdistan" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "Liophis juliae" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "anthus correndera" ; Times: 1
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "Actinemys pallida" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Araguaia stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anolis cybotes Dominican Republic" ; Times: 1
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "catalognumber:52305 institutioncode:MCZ" ; Times: 1
+	Query: "prinia inornata" ; Times: 1
+	Query: "Boa nebulosa" ; Times: 1
+	Query: "class:aves country:&#34;Moldova&#34;" ; Times: 1
+	Query: "Anguidae" ; Times: 2
+	Query: "Gymnoscopelus nicholsi" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;texas&#34; year &gt;= 1849 year &lt;= 1953" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Hygophum hanseni" ; Times: 1
+	Query: "Sitta pusilla insularis" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "family:apodidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "genus:myoprocta" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "genus:Macrotus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "Cotinga amabilis" ; Times: 3
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera (West Java)" ; Times: 1
+	Query: "mormoops blainvillii" ; Times: 1
+	Query: "Lepidophanes guentheri" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "specificepithet:compactilis genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera (Java)" ; Times: 1
+	Query: "Notolychnus valdiviae" ; Times: 1
+	Query: "specificepithet:glacialis genus:Fulmarus family:Procellariidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Avila country:&#34;Ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mazama nemorivaga" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "Walterinnesia aegyptia" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "Antechinus flavipes" ; Times: 1
+	Query: "Oedipina" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "Gymnoscopelus fraseri" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "Oedipina parvipes" ; Times: 2
+	Query: "anthus peruvianus" ; Times: 1
+	Query: "Amazona ventralis" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larva" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "Lampadena speculigera" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "Antillotyphlops dominicanus" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "anthus nattereri" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus" ; Times: 1
+	Query: "specificepithet:andersonii family:Hylidae" ; Times: 1
+	Query: "batagur baska" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "emydoidea blanding" ; Times: 1
+	Query: "Gymnoscopelus bolini" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas gerais&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "Gallus varius" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 2
+	Query: "specificepithet:aeneus genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "&#34;Lasionycteris noctivagans&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "(tremarctos ornatus)" ; Times: 1
+	Query: "Gymnoscopelus opisthopterus" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Pseudoeurycea goebeli" ; Times: 1
+	Query: "vntype:specimen specificepithet:tridactyla genus:Rissa family:Laridae order:Charadriiformes class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 3
+	Query: "class:Aves country:&#34;Colombia&#34; recordedby:Carriker" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;minas gerais&#34;" ; Times: 1
+
+
+End of report.
